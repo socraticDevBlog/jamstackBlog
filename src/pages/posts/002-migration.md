@@ -5,7 +5,7 @@ author: 'SocraticDev'
 path: '/blog-migration'
 ---
 
-Le nouveau site de blog de Socratic Dev. Après l'abandon de la plate-forme WordPress, je passe enfin au fameux JamStack. Grâce au framework GatsbyJS, j'obtiens un plus grand contrôle sur la conception du site. Gatsby est un générateur de site web statique. C'est-à-dire un site web simplement constitués de fichiers hébergés sur un serveur de fichiers. Plus besoin de serveur web ni de langages de programmation 'côté serveur' comme PHP ou ASP.net. Est-ce qu'un simple blog personnel a besoin d'une base de données et d'une infrastructure conséquente ?
+Le nouveau site de blog de Socratic Dev est en ligne. Après l'abandon de la plate-forme WordPress, je passe enfin au fameux JamStack. Grâce au framework GatsbyJS, j'obtiens un plus grand contrôle sur la conception du site. Gatsby est un générateur de site web statique. C'est-à-dire un site web simplement constitués de fichiers hébergés sur un serveur de fichiers. Plus besoin de serveur web ni de langages de programmation 'côté serveur' comme PHP ou ASP.net. Est-ce qu'un simple blog personnel a besoin d'une base de données et d'une infrastructure conséquente ?
 
 L'acronyme "JAM" signifie "JavaScript", "API" et "MarkDown". Le JavaScript est le langage de rigueur pour la programmation du site. Non seulement les événements mais aussi la génération du code HTML sont gérés par des fonctions JavaScript. GatsbyJS intègre la librairie JavaScript React. Dans le cadre de ce blogue, j'utilise des composantes React comme un panneau de navigation. Comme cette composante fait partie de la librairie ReactStrap, elle est rendue de façon optimale sur tous les médias.
 
