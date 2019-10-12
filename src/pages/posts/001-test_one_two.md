@@ -3,6 +3,7 @@ title: 'Testing page'
 date: 2019-10-09
 author: 'SocraticDev'
 path: '/testing'
+image: ../../images/codewoman.jpg
 ---
 
 Lorem ipsum dolor amet activated charcoal chicharrones small batch, pok pok venmo readymade mixtape meditation kinfolk. Fixie letterpress pinterest thundercats ugh. Coloring book banh mi selfies, normcore truffaut brunch mlkshk paleo. Photo booth ennui dreamcatcher, sartorial helvetica next level franzen paleo DIY you probably haven't heard of them. Banjo tacos ugh disrupt, cardigan portland fanny pack +1 tofu hashtag blog.

@@ -3,6 +3,7 @@ title: 'Migration du blog vers le JAMstack'
 date: 2019-10-10
 author: 'SocraticDev'
 path: '/blog-migration'
+image: ../../images/jamstack.jpg
 ---
 
 Le nouveau site de blog de Socratic Dev est en ligne. Après l'abandon de la plate-forme WordPress, je passe enfin au fameux JamStack. Grâce au framework GatsbyJS, j'obtiens un plus grand contrôle sur la conception du site. Gatsby est un générateur de site web statique. C'est-à-dire un site web simplement constitués de fichiers hébergés sur un serveur de fichiers. Plus besoin de serveur web ni de langages de programmation 'côté serveur' comme PHP ou ASP.net. Est-ce qu'un simple blog personnel a besoin d'une base de données et d'une infrastructure conséquente ?
