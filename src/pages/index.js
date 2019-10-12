@@ -23,7 +23,9 @@ const IndexPage = () => (
                   path={node.frontmatter.path}
                   date={node.frontmatter.date}
                   body={node.excerpt}
-                  fluid={node.frontmatter.image.childImageSharp.fluid} />
+                  fluid={node.frontmatter.image.childImageSharp.fluid}
+                  tags={node.frontmatter.tags}
+                   />
               ))}
             </div>
           )} 
@@ -32,8 +34,6 @@ const IndexPage = () => (
       <Col md="4">
       </Col>
     </Row>
-
-
   </Layout>
 )
 
@@ -47,6 +47,7 @@ query MyQuery {
           date (formatString: "dddd Do MMMM YYYY", locale: "fr")
           path
           title
+          tags
           image {
             childImageSharp {
               fluid(maxHeight: 200, maxWidth: 600) {
