@@ -1,11 +1,9 @@
 import React from "react"
 import { graphql, StaticQuery } from "gatsby"
 import { Row, Col } from "reactstrap"
-
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Post from "../components/Post"
-import Sidebar from "../components/Sidebar"
 
 const IndexPage = () => (
   <Layout>
@@ -19,7 +17,9 @@ const IndexPage = () => (
           return (
             <div>
               {data.allMarkdownRemark.edges.map(({node}) => (
-                <Post title={node.frontmatter.title}
+                <Post 
+                  key={node.id}
+                  title={node.frontmatter.title}
                   author={node.frontmatter.author}
                   path={node.frontmatter.path}
                   date={node.frontmatter.date}
