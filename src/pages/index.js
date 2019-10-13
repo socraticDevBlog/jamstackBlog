@@ -5,14 +5,15 @@ import { Row, Col } from "reactstrap"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Post from "../components/Post"
+import Sidebar from "../components/Sidebar"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Accueil" />
+    <SEO title="Maxime Bonin blog " />
     <h1>Accueil</h1>
 
     <Row>
-      <Col md="8">
+      <Col md="9">
         <StaticQuery query={indexQuery} 
         render={data => {
           return (
@@ -31,7 +32,7 @@ const IndexPage = () => (
           )} 
         }/>
       </Col>
-      <Col md="4">
+      <Col md="3">
       </Col>
     </Row>
   </Layout>

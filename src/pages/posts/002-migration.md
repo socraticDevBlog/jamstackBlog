@@ -1,12 +1,12 @@
 ---
-title: 'Migration du blog vers le JAMstack'
+title: "Migration du blog vers le JAMstack"
 date: 2019-10-10
-author: 'SocraticDev'
-path: '/blog-migration'
+author: "SocraticDev"
+path: "/blog-migration"
 image: ../../images/jamstack.jpg
 tags:
-- web
-- socratic dev
+  - web
+  - socratic dev
 ---
 
 Le nouveau site de blog de Socratic Dev est en ligne. Après l'abandon de la plate-forme WordPress, je passe enfin au fameux JamStack. Grâce au framework GatsbyJS, j'obtiens un plus grand contrôle sur la conception du site. Gatsby est un générateur de site web statique. C'est-à-dire un site web simplement constitués de fichiers hébergés sur un serveur de fichiers. Plus besoin de serveur web ni de langages de programmation 'côté serveur' comme PHP ou ASP.net. Est-ce qu'un simple blog personnel a besoin d'une base de données et d'une infrastructure conséquente ?
@@ -17,14 +17,14 @@ La gestion du contenu est confiée au format MarkDown (.md). Le MarkDown est une
 
 La notion d'API (application programming interface) remplace le traditionnel accès à une base de données côté serveur. Un blogue peut utilisé l'API GraphQL pour récupéré son contenu. Une application plus complexe pourrait utiliser des APIs plus sophistiquées. Par exemple, une boutique en-ligne utilisera un plugin comme SnipCart pour permettre des achats et des transactions en ligne.
 
-Il y a de nombreux avantages au JamStack : 
+Il y a de nombreux avantages au JamStack :
 
- * Performance : l'hébergement de fichiers précompilés sur un CDN permet une vitesse de téléchargement incomparable
+- Performance : l'hébergement de fichiers précompilés sur un CDN permet une vitesse de téléchargement incomparable
 
- * Facilité : il est facile de démarrer et mettre en ligne un site en quelques heures
+- Facilité : il est facile de démarrer et mettre en ligne un site en quelques heures
 
-* Coût : l'hébergement d'un site statique est abordable et souvent gratuit
+- Coût : l'hébergement d'un site statique est abordable et souvent gratuit
 
- * Référencement : les frameworks permettent d'ajouter des balises de référencement (SEO) et un site précompilé est facilement 'rampable' par le robot de Google
+- Référencement : les frameworks permettent d'ajouter des balises de référencement (SEO) et un site précompilé est facilement 'rampable' par le robot de Google
 
 Malgré tout, les applications web plus complexes sont mieux servies par des frameworks web traditionnels.
