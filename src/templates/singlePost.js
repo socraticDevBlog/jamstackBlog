@@ -1,48 +1,42 @@
 import React from "react"
 import Layout from "../components/layout"
-import Sidebar from "../components/Sidebar"
 import { graphql, Link } from "gatsby"
 import SEO from "../components/seo"
-import { Row, Col, Card, CardSubtitle, CardBody, Badge } from "reactstrap"
+import { Card, CardSubtitle, CardBody, Badge } from "reactstrap"
 import Img from "gatsby-image"
 import { slugify } from "../util/utilFunctions"
 
 const SinglePost = ({ data }) => {
   const post = data.markdownRemark.frontmatter
   return (
-    <Layout>
+    <Layout pageTitle={post.title}>
       <SEO title={post.title} />
-      <h1>{post.title}</h1>
-      <Row>
-        <Col md-8></Col>
-        <Card>
-          <Img
-            className="card-image-top"
-            fluid={post.image.childImageSharp.fluid}
-          />
-          <CardBody>
-            <span className="text-info">{post.date}</span> par
+      <Card>
+        <Img
+          className="card-image-top"
+          fluid={post.image.childImageSharp.fluid}
+        />
+        <CardBody>
+          <p>
+            <span className="text-info">{post.date}</span> par {' '}
             <span className="text-info">{post.author}</span>
-            <CardSubtitle>
-              <div
-                dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}
-              />
-              <ul className="post-tags">
-                {post.tags.map(tag => (
-                  <li key={tag}>
-                    <Link to={`/tag/${slugify(tag)}`}>
-                      <Badge color="primary">{tag}</Badge>
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-            </CardSubtitle>
-          </CardBody>
-        </Card>
-        <Col md-4>
-          <Sidebar></Sidebar>
-        </Col>
-      </Row>
+          </p>
+          <CardSubtitle>
+            <div
+              dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}
+            />
+            <ul className="post-tags">
+              {post.tags.map(tag => (
+                <li key={tag}>
+                  <Link to={`/tag/${slugify(tag)}`}>
+                    <Badge color="primary">{tag}</Badge>
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </CardSubtitle>
+        </CardBody>
+      </Card>
     </Layout>
   )
 }
@@ -53,7 +47,7 @@ export const postQuery = graphql`
       id
       html
       fields {
-         slug
+        slug
       }
       frontmatter {
         title
