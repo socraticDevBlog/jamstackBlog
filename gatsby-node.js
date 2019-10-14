@@ -1,5 +1,6 @@
 const { slugify } = require(`./src/util/utilFunctions`)
-const path = require("path")
+const _ = require("lodash")
+const path = require('path')
 
 exports.onCreateNode = ({ node, actions }) => {
   const { createNodeField } = actions
@@ -14,8 +15,12 @@ exports.onCreateNode = ({ node, actions }) => {
 }
 
 exports.createPages = ({ actions, graphql }) => {
-  const { createPage } = actions;
-  const singlePostTemplate = path.resolve("src/templates/singlePost.js")
+  const { createPage } = actions
+
+  const templates = {
+      singlePost: path.resolve('src/templates/singlePost.js'),
+      tagsPage: path.resolve('src/templates/tags-page.js')
+  }
 
   return graphql(`
     {
@@ -24,6 +29,7 @@ exports.createPages = ({ actions, graphql }) => {
           node {
             frontmatter {
               author
+              tags
             }
             fields {
               slug
@@ -37,14 +43,45 @@ exports.createPages = ({ actions, graphql }) => {
 
     const posts = res.data.allMarkdownRemark.edges
 
-    posts.forEach(({node}) => {
+    // creating single-post pages
+    //
+    posts.forEach(({ node }) => {
       createPage({
-         path: node.fields.slug,
-         component: singlePostTemplate,
-         context: {
-            slug: node.fields.slug
-         }
+        path: node.fields.slug,
+        component: templates.singlePost,
+        context: {
+          slug: node.fields.slug,
+        },
       })
+    })
+
+    let tags = []
+    _.each(posts, edge => {
+      // si un post n'a pas de tag, alors on ne fait rien
+      //
+      if (_.get(edge, "node.frontmatter.tags")) {
+        tags = tags.concat(edge.node.frontmatter.tags)
+      }
+    })
+
+    // créer un dictionnaire : {tag:count, tag2:count}
+    //
+    let tagPostCounts = {}
+    tags.forEach(tag => {
+      tagPostCounts[tag] = (tagPostCounts[tag] || 0) + 1
+    })
+
+    tags = _.uniq(tags);
+
+    // creating tags page
+    //
+    createPage({
+       path: '/tags',
+       component: templates.tagsPage,
+       context: {
+          tags,
+          tagPostCounts
+       }
     })
   })
 }
