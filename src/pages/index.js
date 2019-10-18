@@ -2,7 +2,7 @@ import React from "react"
 import { graphql, StaticQuery } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Post from "../components/Post"
+import Post from "../components/post"
 
 const IndexPage = () => (
   <Layout pageTitle= "Accueil">
