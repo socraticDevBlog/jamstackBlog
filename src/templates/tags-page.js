@@ -2,7 +2,7 @@ import React from "react"
 import SEO from "../components/seo"
 import Layout from "../components/layout"
 import { Button, Badge } from "reactstrap"
-import { slugify } from "../util/utilFunctions"
+import { slugify } from "../util/util-functions"
 
 const tagsPage = ({ pageContext }) => {
   const { tags, tagPostCounts } = pageContext

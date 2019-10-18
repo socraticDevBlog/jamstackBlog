@@ -1,4 +1,4 @@
-const { slugify } = require(`./src/util/utilFunctions`)
+const { slugify } = require(`./src/util/util-functions.js`)
 const _ = require("lodash")
 const path = require('path')
 
@@ -18,7 +18,7 @@ exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
 
   const templates = {
-      singlePost: path.resolve('src/templates/singlePost.js'),
+      singlePost: path.resolve('src/templates/single-post.js'),
       tagsPage:   path.resolve('src/templates/tags-page.js'),
       tagPosts:   path.resolve('src/templates/tag-posts.js')
   }

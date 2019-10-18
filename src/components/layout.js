@@ -9,10 +9,10 @@ import React from "react"
 import {Row, Col} from 'reactstrap'
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
-import Footer from "./Footer"
+import Footer from "./footer"
 
 import Header from "./header"
-import Sidebar from "./Sidebar"
+import Sidebar from "./sidebar"
 import "../styles/index.scss"
 
 const Layout = ({ children, pageTitle }) => {

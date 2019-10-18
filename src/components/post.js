@@ -9,7 +9,7 @@ import {
 } from "reactstrap"
 import { Link } from "gatsby"
 import Img from "gatsby-image"
-import { slugify } from "../util/utilFunctions"
+import { slugify } from "../util/util-functions"
 
 const Post = ({ title, author, slug, date, body, fluid, tags }) => {
   return (

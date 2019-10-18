@@ -4,7 +4,7 @@ import { graphql, Link } from "gatsby"
 import SEO from "../components/seo"
 import { Card, CardSubtitle, CardBody, Badge } from "reactstrap"
 import Img from "gatsby-image"
-import { slugify } from "../util/utilFunctions"
+import { slugify } from "../util/util-functions"
 
 const SinglePost = ({ data }) => {
   const post = data.markdownRemark.frontmatter
