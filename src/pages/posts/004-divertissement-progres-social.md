@@ -7,7 +7,7 @@ tags:
   - philosophie
 ---
 
-Ceci est une reprise mon blog post du 13 août 2018. J'avais alors visionné la conférence de Michael Soussan à Google et j'avais publié quelques lignes sur ce sujet pour mieux y réfléchir. 
+Ceci est une reprise de mon blog post du 13 août 2018. J'avais alors publié quelques lignes à propos d'un talk de Michael Soussan à Google afin de mieux réfléchir. 
 
 Les auteurs de blogs personnels ont parfois l'impression de n'écrire que pour eux-mêmes. Pourtant, quelques jours après la publication, depuis Los Angeles, Michael Soussan, est gentiment entré en contact avec moi pour me donner des informations supplémentaires sur la corruption dans le monde de l’aide humanitaire et réitérer l’importance de sensibiliser les leaders humanistes de demain à cette arme d’éducation massive : le divertissement.
 
