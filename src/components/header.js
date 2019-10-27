@@ -39,6 +39,11 @@ class Header extends React.Component {
                   <NavLink href="/avis">Avis</NavLink>
                 </NavItem>
                 <NavItem>
+                  <NavLink href="/rss.xml">RSS
+                  <span aria-label="abonnement au fil RSS">💌 </span>
+                  </NavLink>
+                </NavItem>
+                <NavItem>
                   <NavLink href="/about">À propos</NavLink>
                 </NavItem>
               </Nav>

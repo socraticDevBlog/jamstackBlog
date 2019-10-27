@@ -5,7 +5,6 @@ author: "SocraticDev"
 image: ../../images/jamstack.jpg
 tags:
   - web
-  - jamstack
 ---
 
 Le nouveau site de blog de Socratic Dev est en ligne. Après l'abandon de la plate-forme WordPress, je passe enfin au fameux JamStack. Grâce au framework GatsbyJS, j'obtiens un plus grand contrôle sur la conception du site. Gatsby est un générateur de site web statique. En résumé, un site web statique c'est un site web constitué de fichiers hébergés sur un serveur de fichiers. Plus besoin de serveur web générant dynamiquement des pages web !

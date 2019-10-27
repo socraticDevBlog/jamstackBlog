@@ -15,7 +15,7 @@ const Footer = () => (
             </li>
             <li>
                <a className="" href="https://www.linkedin.com/in/boninmaxime/" rel="noopener noreferrer" target="_blank" alt="lien vers ma page LinkedIn">
-                  <img src={LinkedinLogo} alt="linkedIn logo" className="google"></img>
+                  <img src={LinkedinLogo} alt="linkedIn logo" className="socialMediaLogo"></img>
                </a>
             </li>
             <li>
