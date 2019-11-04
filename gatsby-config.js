@@ -1,11 +1,12 @@
 module.exports = {
   siteMetadata: {
     title: `SocraticDev Blog`,
-    description: `Un lieu pour parler des passions : la technologie, la philosophie et la culture générale`,
+    description: `Un lieu pour parler de passions : la technologie, la philosophie et la culture générale`,
     author: `Maxime Bonin`,
     siteUrl: `https://socratic.dev`,
   },
   plugins: [
+    `gatsby-plugin-dark-mode`,
     {
       resolve: `gatsby-plugin-feed`,
       options: {
