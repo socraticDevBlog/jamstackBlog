@@ -18,7 +18,7 @@ Dans une micro-conférence d’un quart d’heure, il présente sa philosophie (
 
 " _Quand il y a des changements, il y a des opportunités. L'ennemi de l'opportunité c'est la stabilité_ "
 
-" _Comme j'étais très mauvais à l'école. Mon enseignant m'a dit : soit tes parents sont très riches et tu n'auras pas besoin de travailler, soit tu vas devenir patron ... et tu n'engageras que des gens meilleurs que toi. Ce fut le meilleur conseil qu'on me donna et je devins patron ... et j'ai engagé des gens meilleurs que moi. Des gens supérieurs ne peuvent pas vous abaisser. Par contre des gens inférieurs vont vous tirer vers le bas._ "
+" _Comme j'étais très mauvais à l'école. Mon enseignant m'a dit : soi tes parents sont très riches et tu n'auras pas besoin de travailler, soi tu vas devenir patron ... et tu n'engageras que des gens meilleurs que toi. Ce fut le meilleur conseil qu'on me donna et je devins patron. J'ai engagé des gens meilleurs que moi. Des gens supérieurs ne peuvent pas vous abaisser. Par contre des gens inférieurs vont vous tirer vers le bas._ "
 
 "_Apprendre c'est se connecter au futur_"
 
