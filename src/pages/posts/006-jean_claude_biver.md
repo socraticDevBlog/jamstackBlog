@@ -26,6 +26,6 @@ Dans une micro-conférence d’un quart d’heure, il présente sa philosophie (
 
  "_On a simplement transporté la mentalité, les habitudes, les concepts, la philosophie, la politique, l'impérialisme du XXe siècle au XXIe siècle. Mais le XXIe commencera, quand ceux qui façonneront ce siècle et façonneront leurs futurs seront ceux qui sont nés dans ce siècle_"
 
-## L'écouter (6 minutes)
+## L'écouter (6 minutes 25 secondes)
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/Rt27GLCMSqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[https://youtu.be/Rt27GLCMSqU](https://youtu.be/Rt27GLCMSqU)
