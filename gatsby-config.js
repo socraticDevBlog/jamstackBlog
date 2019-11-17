@@ -6,7 +6,6 @@ module.exports = {
     siteUrl: `https://socratic.dev`,
   },
   plugins: [
-    `gatsby-plugin-dark-mode`,
     {
       resolve: `gatsby-plugin-feed`,
       options: {
