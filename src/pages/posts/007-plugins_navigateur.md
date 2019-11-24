@@ -5,7 +5,7 @@ author: "SocraticDev"
 image: ../../images/rss.jpg
 tags:
   - web
-  - temps
+  - philosophie
 ---
 L'utilisation d'internet se fait de plus en plus via le smartphone.
 Les applications mobiles sont certainement faciles et agréables à utiliser.
