@@ -12,7 +12,7 @@ Il est possible de rendre l'utilisation de notre ordinateur plus agréable sans 
 
 Par contre, en prenant conscience des problèmes que nous réglons quotidiennement à l'aide d'outils informatiques, nous nous rendrons maître de ces outils.
 
-```Quels sont les cinq utilisations principales de notre ordinateur ?```
+```Quels sont les cinq utilisations principales de mon ordinateur ?```
 
 ```Y a-t-il des tâches répétitives que nous pourrions automatiser ?```
 
