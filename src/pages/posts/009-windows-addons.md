@@ -14,7 +14,7 @@ Par contre, en prenant conscience des problèmes que nous réglons quotidienneme
 
 ```Quels sont les cinq utilisations principales de mon ordinateur ?```
 
-```Y a-t-il des tâches répétitives que nous pourrions automatiser ?```
+```Y a-t-il des tâches répétitives que je pourrais automatiser ?```
 
 ## QuickLook amène une fonctionnalité essentielle de MacOS sur Windows 10
 
