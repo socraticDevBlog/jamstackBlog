@@ -27,7 +27,7 @@ Cette pratique génère indéniablement du code modulaire et peu couplé. Le cod
 Le code _legacy_ et beaucoup de code écrit sans harnais de tests est habituellement fortement couplé et difficile à maintenir. Ce code ne met pas à profit les librairies d'injection de dépendance (ex. [Autofac en C#](https://autofac.org/)), les _frameworks_ de tests unitaires et les concepts de la programmation orientée-objet (polymorphisme, composition, encapsulation, niveaux d'abstraction, etc).
 
 On définit habituellement le code _legacy_ comme "du code n'étant pas couvert par des test unitaires".
-Aussi, c'est souvent du code qui effectue des lectures et écritures (I/0) et qui utilise les ressources du système sur lequel il roule (ex.: ``DateTime.Now``). Bref du code qui s'ennuit tout seul.
+Aussi, c'est souvent du code qui effectue des lectures et écritures (I/0) et qui utilise les ressources du système sur lequel il roule (ex.: ``DateTime.Now``). Bref du code qui s'ennuie tout seul.
 
 Malheureusement, ce genre de code est habituellement plutôt facile à lire et à produire. Tout se trouve pêle-mêle dans le même fichier. En lisant le code de haut en bas, le programmeur comprend rapidement ce qui se passe et se sent apte à effectuer rapidement un correctif en rajoutant quelques lignes de code de plus à travers du code existant.
 
