@@ -2,7 +2,7 @@
 title: Libérer votre esprit du web
 date: 2019-11-23
 author: "SocraticDev"
-image: ../../images/rss.jpg
+image: ../../images/rss.webp
 tags:
   - web
   - philosophie

@@ -2,7 +2,7 @@
 title: Pimp mon Windows 10
 date: 2019-12-07
 author: "SocraticDev"
-image: ../../images/happy_user.jpg
+image: ../../images/happy_user.webp
 tags:
   - productivité
   - technologie

@@ -2,7 +2,7 @@
 title: Ce vieil horloger qui ne craint pas les milléniaux
 date: 2019-11-09
 author: "SocraticDev"
-image: ../../images/biver.jpg
+image: ../../images/biver.webp
 tags:
   - philosophie
   - business

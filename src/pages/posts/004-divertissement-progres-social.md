@@ -2,7 +2,7 @@
 title: "Le divertissement : l’ultime moteur de progrès social au XXIe siècle?"
 date: 2019-10-26
 author: "SocraticDev"
-image: ../../images/michaelsoussan.png
+image: ../../images/michaelsoussan.webp
 tags:
   - philosophie
 ---

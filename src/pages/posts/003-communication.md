@@ -2,7 +2,7 @@
 title: "Communiquer pour être compris"
 date: 2019-10-20
 author: "SocraticDev"
-image: ../../images/fleche_gauche.jpg
+image: ../../images/fleche_gauche.webp
 tags:
   - communication
   - philosophie

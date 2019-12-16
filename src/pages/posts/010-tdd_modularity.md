@@ -2,7 +2,7 @@
 title: TDD et code modulaire
 date: 2019-12-15
 author: "SocraticDev"
-image: ../../images/jasmineTestRunner.jpg
+image: ../../images/jasmineTestRunner.webp
 tags:
   - productivité
   - programmation
