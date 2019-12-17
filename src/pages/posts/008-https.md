@@ -2,7 +2,7 @@
 title: Jamais sans mon HTTPS
 date: 2019-11-30
 author: "SocraticDev"
-image: ../../images/https.webp
+image: ../../images/https.jpg
 tags:
   - web
   - sécurité

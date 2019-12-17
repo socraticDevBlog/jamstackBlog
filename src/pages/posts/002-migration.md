@@ -2,7 +2,7 @@
 title: "Migration du blog vers le JAMstack"
 date: 2019-10-17
 author: "SocraticDev"
-image: ../../images/jamstack.webp
+image: ../../images/jamstack.jpg
 tags:
   - web
   - technologie

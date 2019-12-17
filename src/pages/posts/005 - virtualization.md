@@ -2,7 +2,7 @@
 title: Apprendre et expérimenter sans frais grâce à la virtualisation
 date: 2019-11-03
 author: "SocraticDev"
-image: ../../images/virtualization.webp
+image: ../../images/virtualization.png
 tags:
   - technologie
   - autodidactisme
