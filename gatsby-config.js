@@ -23,6 +23,7 @@ module.exports = {
         `,
         feeds: [
           {
+            
             serialize: ({ query: { site, allMarkdownRemark } }) => {
               return allMarkdownRemark.edges.map(edge => {
                 return Object.assign({}, edge.node.frontmatter, {
@@ -67,6 +68,17 @@ module.exports = {
       options: {
         name: `images`,
         path: `${__dirname}/src/images`,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-gtag`,
+      options: {
+        // your google analytics tracking id
+        trackingId: `UA-154676737-1`,
+        // Puts tracking script in the head instead of the body
+        head: true,
+        // enable ip anonymization
+        anonymize: true,
       },
     },
     {
