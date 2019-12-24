@@ -7,7 +7,7 @@ tags:
   - philosophie
 ---
 
-Sous le bruit de la vie quotidienne se trouve un univers calme et pacifique. Le professeur en médecine Jon Kabat-Zinn propose l'analogie de la tempête en mer pour décrire la superficialité de la plupart de nos maux. À la surface de la mer on peut craindre la plus violente tempête, mais quelques dizaines de mètres sous la mer : c'est le calme le plus plat. Se définissant comme la quête de la sagesse, la philosophie démasque le sommeil de l'ignorance et propose des 'réveils-matins' qui, si on les accepte, nous oblige à reconnaître l'arrogance et la futilité de certaines de nos bruyantes opinions.
+Derrière le bruit de la vie quotidienne se trouve un univers calme et pacifique. Le professeur en médecine Jon Kabat-Zinn propose l'analogie de la tempête en mer pour décrire la superficialité de la plupart de nos maux. À la surface de la mer on peut craindre la plus violente tempête, mais quelques dizaines de mètres sous la mer : c'est le calme le plus plat. Se définissant comme la quête de la sagesse, la philosophie démasque le sommeil de l'ignorance et propose des 'réveils-matins' qui, si on les accepte, nous oblige à reconnaître l'arrogance et la futilité de certaines de nos bruyantes opinions.
 
 ```Le premier principe est que tu ne dois pas te mentir à toi-même ; et que tu es la personne la plus facile à berner``` - Richard Feynman, prix Nobel de physique 1965
 
