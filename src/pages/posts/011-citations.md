@@ -39,4 +39,4 @@ Derrière le bruit de la vie quotidienne se trouve un univers calme et pacifique
 
 ```Non nobis solum nati sumus (Nous ne sommes pas nés pour nous-mêmes seulement)``` -  locution latine qui signifie que chacun doit contribuer au bien supérieur de l'humanité, abstraction faite de ses propres intérêts.
 
-```Le service aux autres est le loyer que tu payes pour ta place ici sur Terre``` - Mohamed Ali
+```Le service aux autres est le loyer que tu payes pour ta place ici sur Terre``` - Mohamed Ali, boxer professionnel américain
