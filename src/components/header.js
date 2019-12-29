@@ -34,6 +34,9 @@ class Header extends React.Component {
           <Collapse isOpen={this.state.isOpen} navbar>
             <Nav className="ml-auto" navbar>
               <NavItem>
+                <NavLink href="/about">À propos</NavLink>
+              </NavItem>
+              <NavItem>
                 <NavLink href="/tags">Sujets abordés</NavLink>
               </NavItem>
               <NavItem>
@@ -42,19 +45,15 @@ class Header extends React.Component {
               <NavItem>
                 <NavLink href="/rss.xml">
                   RSS
-                  <span aria-label="abonnement au fil RSS">💌 </span>
+                  <span aria-label="abonnement au fil RSS" role="img">💌 </span>
                 </NavLink>
               </NavItem>
+
               <NavItem>
-                <NavLink href="/about">À propos</NavLink>
+                <NavLink href="https://en.socratic.dev">
+                  <span aria-label="visit site in english" role="img">🇺🇸</span>
+                </NavLink>
               </NavItem>
-              <NavItem>
-                  <NavLink href="https://en.socratic.dev">
-                    <span aria-label="visit site in english">
-                    🇺🇸
-                    </span>
-                  </NavLink>
-                </NavItem>
             </Nav>
           </Collapse>
         </div>
