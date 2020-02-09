@@ -45,7 +45,7 @@ class Header extends React.Component {
               <NavItem>
                 <NavLink href="/rss.xml">
                   RSS
-                  <span aria-label="abonnement au fil RSS" role="img">🖃</span>
+                  <span aria-label="abonnement au fil RSS" role="img">💌  </span>
                 </NavLink>
               </NavItem>
 
