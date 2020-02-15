@@ -14,27 +14,6 @@ const AboutPage = () => (
       ]}
     />
     <p>
-      SocraticDev est le surnom de{" "}
-      <a
-        href="https://maximebonin.dev"
-        rel="noopener noreferrer"
-        target="_blank"
-        alt="lien vers la page personnelle de Maxime Bonin"
-      >
-        Maxime Bonin{" "}
-      </a>
-      dans la communauté en ligne{" "}
-      <a
-        href="https://dailyprog.org"
-        rel="noopener noreferrer"
-        target="_blank"
-        alt="lien vers la page web de DailyProg"
-      >
-        DailyProg
-      </a>
-      .{" "}
-    </p>
-    <p>
       Le blogue est d'abord une raison de jouer avec la technologie et
       communiquer cette passion.
     </p>
