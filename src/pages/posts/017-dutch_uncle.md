@@ -33,12 +33,12 @@ Un jour Coach Graham a fait répété des manoeuvres à Randy. Sans succès. Coa
 `` "Cette leçon est restée avec moi toute ma vie. Quand on constate qu'on fait le con et
 que personne ne se donne la peine de nous le faire remarquer, c'est une mauvaise situation.
 Peut-être que tu ne veux pas l'entendre, mais ceux qui te critiquent sont souvent ceux qui 
-t'aiment et se soucient de toi et veulent que tu deviennes meilleurs." ``
+t'aiment et se soucient de toi et veulent que tu deviennes meilleur." ``
 
 ### L'oncle néerlandais
 
 Les relations humaines sont de plus en plus factices. Le politiquement correct, la fausse positivité
-et la prudence nous empêchent trop souvent de donner des rétroactions (_feedbacks_) honnêtes. Il existe une expression en anglais : 'Dutch Uncle'. Ça désigne une personne donnant des rétroactions honnêtes.
+et la prudence professionnelle nous empêchent trop souvent de donner des rétroactions honnêtes (_honest_feedbacks_). Il existe une expression anglaise qui désigne une personne donnant des rétroactions honnêtes : 'Dutch Uncle'.
 
 Je me reconnais en Randy Pausch qui se décrit comme quelqu'un ayant la langue bien pendue qui 
 ne se gêne pas pour faire connaître son opinion. Son directeur de recherche à l'University Brown, 
