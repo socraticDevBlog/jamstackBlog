@@ -20,7 +20,7 @@ L'auteur revisite son enfance afin de dresser un bilan : a-t-il accompli ses rê
 Un de ses rêves était de devenir footballer professionnel dans la NFL. Ce fut un échec. Mais il a beaucoup appris de Coach Graham. Cet entraîneur qui insistait sur l'apprentissage des fondements (_fundamentals_) du sport et qui,
 surtout, ne ménageait pas ses protégés.
 
-Un jour Coach Graham a fait répété des manoeuvres à Randy. Sans succès. Coach Graham l'a donc obligé
+Un jour Coach Graham a fait répéter des manoeuvres à Randy. Sans succès. Coach Graham l'a donc obligé
 à rester sur place après la pratique et faire des push-ups.
 
 > l'assistant : "Coach t'a fait la vie dure, n'est-ce pas ?"
@@ -38,15 +38,15 @@ t'aiment et se soucient de toi et veulent que tu deviennes meilleur." ``
 ### L'oncle néerlandais
 
 Les relations humaines sont de plus en plus factices. Le politiquement correct, la fausse positivité
-et la prudence professionnelle nous empêchent trop souvent de donner des rétroactions honnêtes (_honest_feedbacks_). Il existe une expression anglaise qui désigne une personne donnant des rétroactions honnêtes : 'Dutch Uncle'.
+et la prudence professionnelle nous empêchent trop souvent de donner des rétroactions honnêtes (_honest feedbacks_). Il existe une expression anglaise qui désigne une personne donnant des rétroactions honnêtes : 'Dutch Uncle'.
 
 Je me reconnais en Randy Pausch qui se décrit comme quelqu'un ayant la langue bien pendue qui 
 ne se gêne pas pour faire connaître son opinion. Son directeur de recherche à l'University Brown, 
 Andy van Dam (un Néerlandais !) lui a offert cette remarque : "Randy, c'est vraiment dommage que
 les gens te perçoivent comme quelqu'un d'arrogant parce que ça va limiter ce que tu
-sera en mesure d'accomplir dans la vie."
+seras en mesure d'accomplir dans la vie."
 
-`` "La formulation était parfaite. Il me disait 'Randy, tu agis comme un connard.' Mais de façon à me garder ouvert à sa critique. [...] J'aime penser que mes défauts sont de catégories sociales plutôt que morales. Et j'ai été chanceux de bénéficier de gens comme Andy qui se souçiaient assez de moi pour me dire les choses que je devais entendre." ``
+`` "La formulation était parfaite. Il me disait 'Randy, tu agis comme un connard.' Mais de façon à me garder ouvert à sa critique. [...] J'aime penser que mes défauts tombent sous la catégorie .sociale' plutôt que 'morale'. Et j'ai été chanceux de bénéficier de gens comme Andy qui se souçiaient assez de moi pour me dire les choses que je devais entendre." ``
 
 Randy Pausch s'est éteint à la maison le 25 juillet 2008.
 
