@@ -23,9 +23,9 @@ surtout, ne ménageait pas ses protégés.
 Un jour Coach Graham a fait répéter des manoeuvres à Randy. Sans succès. Coach Graham l'a donc obligé
 à rester sur place après la pratique et faire des push-ups.
 
-> l'assistant : "Coach t'a fait la vie dure, n'est-ce pas ?"
+> l'assistant : "Le Coach t'a fait la vie dure aujourd'hui, n'est-ce pas ?"
 
-> Randy : (faiblement )"oui..."
+> Randy : (faiblement ) "oui..."
 
 > l'assistant : "C'est une bonne chose. Quand tu déconnes et que personne ne dit rien
 ça veut dire qu'ils ont abandonné avec toi."
@@ -46,7 +46,7 @@ Andy van Dam (un Néerlandais !) lui a offert cette remarque : "Randy, c'est vra
 les gens te perçoivent comme quelqu'un d'arrogant parce que ça va limiter ce que tu
 seras en mesure d'accomplir dans la vie."
 
-`` "La formulation était parfaite. Il me disait 'Randy, tu agis comme un connard.' Mais de façon à me garder ouvert à sa critique. [...] J'aime penser que mes défauts tombent sous la catégorie .sociale' plutôt que 'morale'. Et j'ai été chanceux de bénéficier de gens comme Andy qui se souçiaient assez de moi pour me dire les choses que je devais entendre." ``
+`` "La formulation était parfaite. Il me disait 'Randy, tu agis comme un connard.' Mais de façon à me garder ouvert à sa critique. [...] J'aime penser que mes défauts tombent sous la catégorie 'sociale' plutôt que 'morale'. Et j'ai été chanceux de bénéficier de gens comme Andy qui se souçiaient assez de moi pour me dire les choses que je devais entendre." ``
 
 Randy Pausch s'est éteint à la maison le 25 juillet 2008.
 
