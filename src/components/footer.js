@@ -2,10 +2,11 @@ import React from 'react'
 import TwitterLogo from "../images/twitter.png"
 import LinkedinLogo from "../images/linkedin.png"
 import GithubLogo from "../images/github.png"
+import LuckylukeLogo from "../images/icon.png"
 
 const Footer = () => (
    <div className="site-footer">
-      <p>SocraticDev sur les médias sociaux</p>
+      <p>SocraticDev ailleurs sur le web</p>
       <div className="footer-social-links">
          <ul className="social-links-list">
             <li>
@@ -21,6 +22,11 @@ const Footer = () => (
             <li>
                <a className="" href="https://twitter.com/socraticdevblog" rel="noopener noreferrer" target="_blank" alt="lien vers ma page Twitter">
                   <img src={TwitterLogo} alt="twitter logo" className="socialMediaLogo"></img>
+               </a>
+            </li>
+            <li>
+               <a className="" href="https://maximebonin.dev" rel="noopener noreferrer" target="_blank" alt="lien vers ma page perso">
+                  <img src={LuckylukeLogo} alt="Lucky Luke logo" className="socialMediaLogo"></img>
                </a>
             </li>
          </ul>
