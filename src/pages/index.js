@@ -5,8 +5,19 @@ import SEO from "../components/seo"
 import Post from "../components/post"
 
 const IndexPage = () => (
-  <Layout pageTitle= "Accueil">
-    <SEO title="Accueil" keywords={["Maxime Bonin", "développeur", "analyste-programmeur", "software engineering", "blogue techno"]} />
+  <Layout pageTitle="Accueil">
+    <SEO
+      title="Accueil"
+      keywords={[
+        "Maxime Bonin",
+        "développeur",
+        "analyste-programmeur",
+        "software engineering",
+        "blogue techno",
+        "socraticdev",
+        "dailyprog"
+      ]}
+    />
     <StaticQuery
       query={indexQuery}
       render={data => {
@@ -33,7 +44,10 @@ const IndexPage = () => (
 
 const indexQuery = graphql`
   query MyQuery {
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      limit: 5
+    ) {
       edges {
         node {
           frontmatter {
