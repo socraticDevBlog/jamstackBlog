@@ -9,7 +9,7 @@ const PageLinks = ({ currentPage, numberOfPages }) => {
   const nextPage = "/page/" + (currentPage + 1).toString()
 
   return (
-    <Pagination area-label="Page navigation block">
+    <Pagination aria-label="bloc changement page">
       {isFirst ? (
         <PaginationItem disabled>
           <PaginationLink previous href="/"></PaginationLink>
