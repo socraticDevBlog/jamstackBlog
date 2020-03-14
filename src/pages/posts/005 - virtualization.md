@@ -5,7 +5,6 @@ author: "SocraticDev"
 image: ../../images/virtualization.png
 tags:
   - technologie
-  - autodidactisme
   - linux
 ---
 

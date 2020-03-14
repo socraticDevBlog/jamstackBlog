@@ -6,7 +6,6 @@ image: ../../images/fleche_gauche.jpg
 tags:
   - communication
   - philosophie
-  - business
 ---
 
 Dans le monde de la technologie et des affaires, il est courant qu'un projet soit ralenti par des problèmes de communication. Les moyens de communication n'ont jamais été aussi rapides et disponibles. Pourtant, on se frappe sensiblement aux mêmes enjeux qu'aux débuts de l'humanité. Nos interlocuteurs nous accusent de ne pas les avoir compris. On nous demande de deviner leurs attentes en lisant entre les lignes ou en se fiant au fameux 'bon sens'. Ou on nous reproche d'avoir dit quelque chose que nous n'avons effectivement jamais dite ni pensée.
