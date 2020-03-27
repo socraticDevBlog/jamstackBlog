@@ -9,7 +9,7 @@ const IndexPage = () => {
   const postsPerPage = 5
   let numberOfPages
   return (
-    <Layout pageTitle="Accueil">
+    <Layout pageTitle="">
       <SEO
         title="Accueil"
         keywords={[
