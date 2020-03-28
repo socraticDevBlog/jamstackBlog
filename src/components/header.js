@@ -29,21 +29,21 @@ class Header extends React.Component {
     return (
       <Navbar fixed="top" light expand="sm">
         <div className="container">
-          <NavbarBrand href="/">{this.props.siteTitle}</NavbarBrand>
+          <NavbarBrand href="/" title="Accueil">{this.props.siteTitle}</NavbarBrand>
           <NavbarToggler onClick={this.toggle} />
           <Collapse isOpen={this.state.isOpen} navbar>
             <Nav className="ml-auto" navbar>
               <NavItem>
-                <NavLink href="/about">À propos</NavLink>
+                <NavLink href="/about" title="À propos">À propos</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="/tags">Sujets abordés</NavLink>
+                <NavLink href="/tags" title="Sujets abordés">Sujets abordés</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="/avis">Avis</NavLink>
+                <NavLink href="/avis" title="Avis">Avis</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="/rss.xml">
+                <NavLink href="/rss.xml" title="Feed RSS">
                   RSS
                   <span aria-label="abonnement au fil RSS" role="img">
                     💌{" "}
@@ -54,7 +54,7 @@ class Header extends React.Component {
               <NavItem>
                 <NavLink
                   href="https://en.socratic.dev"
-                  title="version anglaise du site"
+                  title="English version of this blog"
                 >
                   <span aria-label="visit site in english" role="img">
                     🇬🇧
