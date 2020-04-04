@@ -8,9 +8,9 @@ tags:
 ---
 En lisant le livre "The Last Lecture" de Randy Pausch, le lecteur accompagne les derniers mois d'un homme se préparant à quitter la vie.
 
-Randy Pausch (1960-2008) était un profeseur d'informatique américain spécialiste
+Randy Pausch (1960-2008) était un professeur américain spécialiste
 de l'interface homme-machine et des mondes virtuels. Il est surtout connu pour
-sa dernière conférence (_last lecture_) donnée le 18 septembre 2007. Dans un dernier
+sa dernière conférence (_Last Lecture_) donnée le 18 septembre 2007. Dans un dernier
 effort pour transmettre son expérience humaine, il relate des épisodes de sa vie et
 les leçons reçues via maintes tribulations.
 
