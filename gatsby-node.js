@@ -1,4 +1,4 @@
-const { slugify } = require(`./src/util/util-functions.js`)
+const { slugify, tagsSorted } = require(`./src/util/util-functions.js`)
 const _ = require("lodash")
 const path = require("path")
 
@@ -73,7 +73,9 @@ exports.createPages = ({ actions, graphql }) => {
       tagPostCounts[tag] = (tagPostCounts[tag] || 0) + 1
     })
 
-    tags = _.uniq(tags)
+    // présenter les sujets les plus discutés en premier
+    //
+    tags = tagsSorted(tagPostCounts)
 
     // creating tags page
     //

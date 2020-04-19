@@ -30,4 +30,4 @@ const slugify = function(text) {
      .replace(/-+$/, '') 		    // Trim - from end of text
  }
 
- module.exports = { slugify }
+ module.exports = { tagsSorted, slugify }
