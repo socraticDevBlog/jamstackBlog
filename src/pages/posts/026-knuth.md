@@ -30,7 +30,7 @@ Les programmeurs professionnels laissent le code parler de lui-même. Ils s'enga
 
 > Le succès d'une personne dans la vie est déterminé par un minimum élevé, pas un maximum élevé. Si vous pouvez vraiment bien faire quelque chose mais que vous échouez sur d’autres points, ces derniers vous freineront. Mais si presque tout ce que vous faites est là-haut, alors vous avez une bonne vie.
 > 
-> -- Donald Knuth
+> -- <cite>Donald Knuth</cite>
 
 #### Sources
 
