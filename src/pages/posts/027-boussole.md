@@ -8,7 +8,7 @@ tags:
   - business
 ---
 
-> Les projets personnels qui ont le plus de succès sont ceux qui ont pour objectif principal de résoudre nos propres problèmes. Il est impossible de perdre en faisant ça. Car en résolvant nos propres problèmes, au moins, on rend notre vie plus facile.
+> Les projets personnels qui ont le plus de succès sont ceux qui ont pour objectif principal de résoudre nos propres problèmes. Il est impossible de perdre en faisant ça. Car en résolvant nos propres problèmes, on rend notre vie plus facile.
 
 Le monde de la technologie est souvent aux prises avec la résistance passive de ses acteurs.
 On les appelle souvent des 'trolls'. On les reconnaît par leurs propos empreints de doutes et de négativité.
