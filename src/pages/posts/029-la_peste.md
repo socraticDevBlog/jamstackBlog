@@ -23,6 +23,6 @@ Le narrateur présente subtilement des thèmes et questions philosophiques comme
 
 "Ainsi Cottard, et toujours selon l'interprétation de Tarrou, était fondé à considérer les symptômes d'angoisse et de désarroi que présentaient nos concitoyens avec cette satisfaction indulgente et compréhensive qui pouvait s'exprimer par un : 'Parlez toujours, je l'ai eue avant vous'."
 
-> Vous les entendez, m'a-t-il affirmé : après la peste je ferai ceci, après la peste je ferai cela ... Et ils ne se rendent pas même pas compte de leurs avantages. [...] Ils sont malheureux parce qu'ils ne se laissent pas aller. Et je sais ce que je dis.
+> Vous les entendez, m'a-t-il affirmé : après la peste je ferai ceci, après la peste je ferai cela ... Et ils ne se rendent pas même compte de leurs avantages [...] Ils sont malheureux parce qu'ils ne se laissent pas aller. Et je sais ce que je dis.
 
-"[...] Mais parce qu'il a ressenti tout cela avant eux, je crois qu'il ne peut pas éprouver tout à fait avec eux la cruauté de cette incertitude.[...] Mais puisque lui-même a vécu dans la terreur, il trouve normal que les autres la connaissent à leur tour."
+"[...] Mais parce qu'il a ressenti tout cela avant eux, je crois qu'il ne peut pas éprouver tout à fait avec eux la cruauté de cette incertitude [...] Mais puisque lui-même a vécu dans la terreur, il trouve normal que les autres la connaissent à leur tour."
