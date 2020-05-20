@@ -36,8 +36,8 @@ Pour avoir l'air d'un pro de ``Visual Studio Code`` : apprenez le seul raccourci
 
 Dans un prochain post, je traiterai des thèmes de la collaboration à distance via ``Teams`` et la plate-forme ``Fluid``, l'infonuagique ``Azure``, ``Power Apps``, le développement web de demain avec _WebAssembly_ grâce au framework ``Blazor`` et davantage !
 
-###### Liens utiles
+###### Les conférences en rediffusion
 
-https://mybuild.microsoft.com/
-https://channel9.msdn.com/Events/Build/2020
-https://youtube.com/c/microsoftdeveloper
+- [https://mybuild.microsoft.com/](https://mybuild.microsoft.com/)
+- [https://channel9.msdn.com/Events/Build/2020](https://channel9.msdn.com/Events/Build/2020)
+- [https://youtube.com/c/microsoftdeveloper](https://youtube.com/c/microsoftdeveloper)
