@@ -38,6 +38,8 @@ Dans un prochain post, je traiterai des thèmes de la collaboration à distance 
 
 ###### Les conférences en rediffusion
 
-- [https://mybuild.microsoft.com/](https://mybuild.microsoft.com/)
-- [https://channel9.msdn.com/Events/Build/2020](https://channel9.msdn.com/Events/Build/2020)
-- [https://youtube.com/c/microsoftdeveloper](https://youtube.com/c/microsoftdeveloper)
+[https://mybuild.microsoft.com/](https://mybuild.microsoft.com/)
+
+[https://channel9.msdn.com/Events/Build/2020](https://channel9.msdn.com/Events/Build/2020)
+
+[https://youtube.com/c/microsoftdeveloper](https://youtube.com/c/microsoftdeveloper)
