@@ -25,7 +25,7 @@ Python, comme le JavaScript, n'est pas un langage compilé. En général, le pro
 
 Dans le cas suivant, on voit que Python exécute le code sans se soucier du type des arguments passés en paramètres à la fonction `calculer(a, b, c)`.
 
->``function calculer(a, b, c) => return (a+b)*c`` </br>
+>``def calculer(a, b, c) => return (a+b)*c`` </br>
 > </br>
 > ``a = calculer(1, 2, 3)``</br>
 > ``b = calculer('pommes ', 'et oranges, ', 3)``</br>
