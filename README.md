@@ -1,8 +1,10 @@
 # Le blogue de socraticDev porte sur la technologie et la philosophie
 
-![static site sequence](https://dzone.com/storage/temp/11453293-static-site-generator.jpg)
+![assets de socraticDev](src/images/assets.jpeg?raw=true)
 
 ## Bâti autour du _framework_ GatsbyJS, la plate-forme techno du blogue est à l'heure du jour : 
+
+![static site sequence](https://dzone.com/storage/temp/11453293-static-site-generator.jpg)
 
 - Site web généré via ``NodeJS``
 - Site web hébergé sur un ``CDN``
