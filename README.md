@@ -2,7 +2,7 @@
 
 ![assets de socraticDev](src/images/assets.jpeg?raw=true)
 
-## Bâti autour du _framework_ GatsbyJS, la plate-forme techno du blogue est à l'heure du jour : 
+## Bâti autour du _framework_ GatsbyJS, la plate-forme techno du blogue est au goût du jour : 
 
 ![static site sequence](https://dzone.com/storage/temp/11453293-static-site-generator.jpg)
 
