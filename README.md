@@ -1,8 +1,8 @@
-# Le blogue de ``socraticDev`` porte sur la technologie et la philosophie
+# Le blogue de socraticDev porte sur la technologie et la philosophie
 
 ![static site sequence](https://dzone.com/storage/temp/11453293-static-site-generator.jpg)
 
-Bâti autour du _framework_ GatsbyJS, la plate-forme techno du blogue est à l'heure du jour : 
+## Bâti autour du _framework_ GatsbyJS, la plate-forme techno du blogue est à l'heure du jour : 
 
 - Site web généré via ``NodeJS``
 - Site web hébergé sur un ``CDN``
@@ -12,5 +12,7 @@ Bâti autour du _framework_ GatsbyJS, la plate-forme techno du blogue est à l'h
 - Composants visuels réutilisables ``React``
 - Style avec ``Saas`` : Syntactically Awesome Style Sheets
 - Optimisation du format des images livrées selon la compatibilité du browser : ``WebP`` quand c'est possible
+
+## Performant
 
 ![Métrique de performance du site](src/images/pageSpeedDesktop.png?raw=true)
