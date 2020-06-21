@@ -19,47 +19,11 @@ const AboutPage = () => (
     />
     <p>
       Le blogue est d'abord une raison de jouer avec la technologie et
-      communiquer cette passion.
+      communiquer cette passion. Nous mettons à profit différentes nouvelles technologies permettant la
+      diffusion d'idées à faible coût.
     </p>
     <p>
-      Ce blogue met à profit différentes nouvelles technologies permettant la
-      diffusion d'idées à faible coût. Le site est bâti autour du concept de
-      'site statique' qui fut récemment remis au goût du jour avec le
-      'jamstack'. J'utilise le framework JavaScript{" "}
-      <a
-        href="https://www.gatsbyjs.org/"
-        rel="noopener noreferrer"
-        target="_blank"
-        alt="lien vers la page web de GatsbyJS"
-        title="https://www.gatsbyjs.org/"
-      >
-        GatsbyJS
-      </a>{" "}
-      pour générer le site. Le code du blogue est disponible sur{" "}
-      <a
-        href="https://github.com/socraticDevBlog/jamstackBlog/"
-        rel="noopener noreferrer"
-        target="_blank"
-        alt="lien vers le repository du blogue sur GitHub"
-        title="https://github.com/socraticDevBlog/jamstackBlog/"
-      >
-        GitHub
-      </a>{" "}
-      . Concrètement, les fichiers constituants le blogue sont hébergés sur le
-      CDN (Content Delivery Network) de{" "}
-      <a
-        href="https://www.netlify.com/"
-        rel="noopener noreferrer"
-        target="_blank"
-        alt="lien vers la page web de Netlify"
-        title="https://www.netlify.com/"
-      >
-        Netlify
-      </a>{" "}
-      . En ajoutant un hook à GitHub, Netlify est immédiatement avertie lors
-      d'un nouveau commit. Chaque commit démarre un processus de build et de
-      déploiement du site.
-    </p>
+      Au lieu d'expliquer en totalité une idée ou une techno, nous préférons nous en tenir à la présenter dans les grandes lignes et vous laissez le soin d'effectuer vos propres recherches et forger votre propre opinion.</p>
     <p>
       J'essaye d'ajouter un article par semaine. Bien que je me donne le droit
       d'écrire à propos de n'importe quoi. La plupart des articles portent ou
