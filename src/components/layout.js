@@ -1,10 +1,3 @@
-/**
- * Layout component that queries for data
- * with Gatsby's useStaticQuery component
- *
- * See: https://www.gatsbyjs.org/docs/use-static-query/
- */
-
 import React from "react"
 import { Row, Col } from "reactstrap"
 import PropTypes from "prop-types"
@@ -13,7 +6,7 @@ import Footer from "./footer"
 
 import Header from "./header"
 import "../styles/index.scss"
-import Logo from "../images/blogue_title_blue.png"
+import Logo from "../images/banner.svg"
 
 const Layout = ({ children, pageTitle }) => {
   const data = useStaticQuery(graphql`
