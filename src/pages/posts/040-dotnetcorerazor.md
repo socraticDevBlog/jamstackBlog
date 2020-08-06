@@ -22,6 +22,10 @@ Il n'en demeure pas moins que le passage à ``.Net Core`` nécessite des adaptat
 
 > Adoptez ``.Net Core`` le plus tôt possible et apprenez à vous adapter sans stress. N'attendez pas d'être obligé à apprendre. Car ``.Net Core`` deviendra le runtime privilégié à partir de la version ``.Net 5``.
 
+En plus d'ajuster votre expérience de développement pour la rendre semblable à ce que vous viviez dans avec le ``.Net`` standard, il faut absolument aller plus loin et s'inspirer de l'expérience de développement des framework ``JavaScript`` propulsés par ``NodeJS`` : ``VueJs``, ``GatsbyJS``, etc. Par exemple, en plus de corriger, en ``.Net core``, le fait que la View n'était pas compilée au runtime, j'ai ajouté le plugin ``Westwind.AspnetCore.LiveReload`` afin de provoquer un rafraîchissement de la page à chaque fois que le système remarque une différence dans la View.
+
+La touche F5 de votre clavier vous remerciera !
+
 ##### Sources
 
 [.NET Core](https://www.wikiwand.com/fr/.NET_Core)
@@ -29,3 +33,7 @@ Il n'en demeure pas moins que le passage à ``.Net Core`` nécessite des adaptat
 [Getting started with .NET for Linux](https://opensource.com/article/17/11/net-linux)
 
 [Introducing .NET 5](https://devblogs.microsoft.com/dotnet/introducing-net-5/)
+
+[Live Reload Middleware for ASP.NET Core](https://github.com/RickStrahl/Westwind.AspnetCore.LiveReload)
+
+[Building a Live Reload Middleware Component for ASP.NET Core](https://weblog.west-wind.com/posts/2019/Jun/03/Building-Live-Reload-Middleware-for-ASPNET-Core#configuration)
