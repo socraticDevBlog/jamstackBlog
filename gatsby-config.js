@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Blogue de SocraticDev`,
-    description: `Pour parler de la technologie, la philosophie et la culture générale`,
+    description: `Parler de la technologie, la philosophie et la culture générale`,
     author: `Maxime Bonin`,
     siteUrl: `https://socratic.dev`,
   },
@@ -55,7 +55,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "abonnement au blogue de SocraticDev",
+            title: "Blogue de SocraticDev",
           },
         ],
       },
