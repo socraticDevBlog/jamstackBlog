@@ -39,7 +39,7 @@ Cet été, en mettant à jour mes dépendances avec ``npm``, les hyperliens inte
 
 #### Que nous réserve l'avenir ?
 
-D'autres ``issues`` furent crées pour l'avenir : un ``dark theme`` dynamique permettrant à mes lecteurs insomniaques de préserver leurs petits yeux. J'anticipe le besoin de retravailler la pagination des billets car le visuel n'est pas joli sur mobile ... Du côté technique, il est possible que je refasse totalement le site afin de m'amuser avec une autre technologie. 
+D'autres ``issues`` furent crées pour l'avenir : un ``dark theme`` dynamique permettant à mes lecteurs insomniaques de préserver leurs petits yeux. J'anticipe le besoin de retravailler la pagination des billets car le visuel n'est pas joli sur mobile ... Du côté technique, il est possible que je refasse totalement le site afin de m'amuser avec une autre technologie. 
 
 J'aimerais conduire davantage d'interviews. Je crois que parler à des gens ayant différentes expériences du métier nous aide à mieux comprendre notre domaine ainsi que faire des liens avec nos propres expériences. L'interview avec [ptdel](https://socratic.dev/question-et-reponse-avec-un-professionnel-en-devops) m'a permis de mieux connaître ce développeur américain. Nous gardons toujours contact jusqu'à ce jour.
 
@@ -52,7 +52,7 @@ Sinon voici une liste de sujets que j'aimerais aborder :
 - le concept de ``geo fencing``;
 - ``Concurrency, threading`` et parallélisme;
 - ``Langages dédiés`` ("domain specific languages);
-- ``graph API``;
+- ``Graph API``;
 - Est-ce que ca existe vraiment un développeur 'FullStack' ?;
 - Les ``enquêtes juridico-informatiques`` ("Digital Forensics");
 - etc.
@@ -60,5 +60,7 @@ Sinon voici une liste de sujets que j'aimerais aborder :
 #### Remerciements
 
 Je veux d'abord remercier la gang de [snipcart](https://snipcart.com/fr) qui a mis sur pied un meet-up mensuel pour parler du ``JamStack`` et aider les programmeurs de la ville de Québec à apprivoiser cette technologie. 
+
+[MrRoach](https://twitter.com/eggbertx) a fait un super travail en améliorant le logo original que j'avais fait produire via [Fiverr](https://www.fiverr.com/). J'adore travailler avec des fichiers ``SVG`` 🎉
 
 Je remercie aussi les lecteurs. Surtout ceux qui prennent le temps de m'écrire un petit mot. Vous n'avez pas idée comme c'est beaucoup plus apprécié que les graphiques de l'app ``Google Analytics`` !
