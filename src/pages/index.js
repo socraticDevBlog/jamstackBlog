@@ -6,7 +6,7 @@ import Post from "../components/post";
 import PageLinks from "../components/page-links";
 
 const IndexPage = () => {
-  const postsPerPage = 5;
+  const postsPerPage = 10;
   let numberOfPages;
   return (
     <Layout pageTitle="">
@@ -55,7 +55,7 @@ const indexQuery = graphql`
   query MyQuery {
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      limit: 5
+      limit: 10
     ) {
       totalCount
       edges {
