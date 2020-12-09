@@ -10,7 +10,7 @@ tags:
 
 Parlez à différents développeurs et vous découvrirez un chauvinisme qui défrise. Certains ne jurent que par les outils édités par ``Microsoft`` alors que d'autres n'y toucheraient pas avec le manche d'un balai. Les fans de ``gnu/linux`` sont souvent des amateurs d'anciens laptop ``Thinkpad`` solidement construits alors que les spécialistes du web demeurent fidèles à leur ``Macbook Pro``.
 
-Bref, en tant qu'artisans-techno, nous sommes trop souvent prisonniers d'idées reçues pouvant freiner notre productivité. Pour moi, par exemple, l'idée d'utiliser des ``<table>`` en ``HTML`` au lieu de ``grids`` et de ``css`` étaient ___en 2020___ objectivement indéfendable. 
+Bref, en tant qu'artisans-techno, nous sommes trop souvent prisonniers d'idées reçues pouvant freiner notre productivité. Pour moi, par exemple, l'idée d'utiliser des ``<table>`` en ``HTML`` au lieu de ``grids`` et de ``css`` était ___en 2020___ objectivement indéfendable. 
 
 Pourquoi ? Sûrement des échos entendus lors de conférence ou ailleurs... Comme tout mythe, il y a quand même un fond de vérité.
 
@@ -18,7 +18,7 @@ Pourquoi ? Sûrement des échos entendus lors de conférence ou ailleurs... Comm
 
 Le thème des ``<table>`` en ``HTML`` est inlassablement discuté sur les médias sociaux fréquentés par les développeurs. On peut même dire qu'il existe un consensus au sein de la communauté. L'idée que les ``<table>`` en ``HTML`` "c'est mal" remonte au début du web ; avant l'arrivée du ``css``. Le ``css``, _feuille de style en cascade_, est un langage informatique de présentation permettant de styliser une page web. C'est-à-dire mettre en page le contenu, gérer les couleurs, etc. 
 
-Personnellement, j'associe instinctivement ``Twitter Boostrap`` à la notion de ``css``. ``Bootstrap`` est une librarie spécialisée permettant de gérer facilement le contenu d'une page web avec des composants génériques reprenant le concept de quadrillage utilisé en typographie.  En bonus, à l'aide de la magie du ``JavaScrip``, ``Bootstrap`` est informé en permanence de la taille de votre fenêtre. Cela lui permet de conserver une mise en page harmonieuse malgré le redimensionnement de la fenêtre du navigateur web. Ce qu'on appelle dans le jargon : ``responsive design``.
+Personnellement, j'associe instinctivement ``Twitter Boostrap`` à la notion de ``css``. ``Bootstrap`` est une librarie spécialisée permettant de gérer facilement le contenu d'une page web avec des composants génériques reprenant le concept de quadrillage utilisé en typographie.  En bonus, à l'aide de la magie du ``JavaScript``, ``Bootstrap`` est informé en permanence de la taille de votre fenêtre. Cela lui permet de conserver une mise en page harmonieuse malgré le redimensionnement de la fenêtre du navigateur web. Ce qu'on appelle dans le jargon : ``responsive design``.
 
 Avant l'arrivée du ``CSS``, les développeurs futés utilisaient des ``tables`` comme outil de mise en page. Cette pratique est fortement déconseillée car : 
 
