@@ -8,7 +8,7 @@ tags:
 ---
 
 ##### Qu'est-ce qu'un projet open source ?
-Quand on parle d'_open source_, on parle bien sûr de projets relatifs au développement, l'entretien et l'utilisation d'un logiciel. La puissance d'un logiciel est qu'il intrinsèquement inépuisable. C'est-à-dire que peu importe si un logiciel est installé sur une ou mille ordinateurs différents, il ne reste pas moins de logiciel. Les compagnies de logiciels et de jeux vidéo misent sur cette caractéristique. Une fois les coûts de développement absorbés, toute vente supplémentaire est pur profit.
+Quand on parle d'_open source_, on parle bien sûr de projets relatifs au développement, l'entretien et l'utilisation d'un logiciel. L'attrait du logiciel est sa non-finitude : il intrinsèquement est inépuisable. C'est-à-dire que peu importe si un logiciel est installé sur une ou mille ordinateurs différents, il ne reste pas moins de logiciel. Les compagnies de logiciels et de jeux vidéo misent sur cette caractéristique. Une fois les coûts de développement absorbés, toute vente supplémentaire est pur profit.
 
 > Un projet logiciel _open source_ réfère à un logiciel dont le code source original est gratuitement mis à la disposition de tous et ce code source peut être modifié et le produit redistribué librement.
 
