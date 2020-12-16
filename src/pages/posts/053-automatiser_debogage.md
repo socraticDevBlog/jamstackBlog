@@ -42,7 +42,7 @@ Comment faire? Une fois authentifié, vous allez créer un nouveau projet de tes
 
 10. Une fois rendu à destination : clic sur le bouton ``Stop`` de la fenêtre de test;
 
-11. Si tu prévois avoir répéter souvent cette navigation, effectue une sauvegarde du fichier ``.side``. Sinon, tu peux garder la petite fenêtre de test ouverte et appuyer sur ``Play`` au besoin.
+11. Si tu prévois avoir à répéter souvent cette navigation, effectue une sauvegarde du fichier ``.side``. Sinon, tu peux garder la petite fenêtre de test ouverte et appuyer sur ``Play`` au besoin.
 
 ##### conclusion
 
