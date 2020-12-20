@@ -30,7 +30,7 @@ Personnellement, je centralise et classifie toute information non-sensible dans 
 
 ##### Effectuer des tâches sans comprendre le contexte entourant le code
 
-Beaucoup de développeurs se donnent pour objectif de régler des bogues le plus rapidemment possible. Or ce n'est habituellement pas ce que le leader technique désire. En assignant un bogue à un nouveau développeur, le leader technique ne l'invite pas tant à corriger bêtement le bogue qu'à comprendre le système où il se produit. Il y aura toujours une façon bête et méchange de corriger un bogue. La plupart du temps ça ne fait que déplacer le problème un peu plus loin. Un bon développeur prendra le temps de comprendre le sous-système entourant le bogue afin de se familiariser avec l'application sur laquelle il travaille. 
+Beaucoup de développeurs se donnent pour objectif de régler des bogues le plus rapidemment possible. Or ce n'est habituellement pas ce que le leader technique désire. En assignant un bogue à un nouveau développeur, le leader technique ne l'invite pas tant à corriger bêtement le bogue qu'à comprendre le système où il se produit. Il y aura toujours une façon bête et méchante de corriger un bogue. La plupart du temps ça ne fait que déplacer le problème un peu plus loin. Un bon développeur prendra le temps de comprendre le sous-système entourant le bogue afin de se familiariser avec l'application sur laquelle il travaille. 
 
 Au final, pour une carrière heureuse en développement logiciel, on adoptera certaines habitudes pouvant contredire nos préconceptions :
 
