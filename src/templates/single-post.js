@@ -23,6 +23,7 @@ const SinglePost = ({ data }) => {
           </p>
           <CardSubtitle>
             <div
+              className="card-post-text"
               dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}
             />
             <ul className="post-tags">
