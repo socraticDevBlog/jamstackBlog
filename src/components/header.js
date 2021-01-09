@@ -1,7 +1,6 @@
 import PropTypes from "prop-types"
 import React from "react"
 import Logo from "../images/head.svg"
-import Rss from "../images/rss-icon.svg"
 
 import {
   Collapse,
@@ -61,7 +60,7 @@ class Header extends React.Component {
               </NavItem>
               <NavItem>
                 <NavLink href="/rss.xml" title="Feed RSS">
-                    <img src={Rss} alt="RSS logo icon" class="header-icon"></img> 
+                  rss
                 </NavLink>
               </NavItem>
 
@@ -69,11 +68,8 @@ class Header extends React.Component {
                 <NavLink
                   href="https://en.socratic.dev"
                   title="English version of this blog"
-                  id="lang-toggle-icon"
                 >
-                  <span aria-label="visit site in english" role="img">
-                    🇬🇧
-                  </span>
+                  english
                 </NavLink>
               </NavItem>
             </Nav>
