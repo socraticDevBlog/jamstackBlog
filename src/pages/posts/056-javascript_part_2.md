@@ -2,7 +2,7 @@
 title: "Quelques fonctionnalités en JavaScript (deuxième partie)"
 date: 2021-01-09
 author: "SocraticDev"
-image: ../../images/javascript-blog-part-2.png
+image: ../../images/javascript-blog-fr-2n.png
 tags:
   - programmation
 ---
