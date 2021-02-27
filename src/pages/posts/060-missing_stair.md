@@ -8,7 +8,7 @@ tags:
   - croissance
 ---
 
-Imaginez entrer dans une maison inconnue et d'emblée vous constatez qu'il manque une marche au grand escalier principal. Vous vous inquiétez à voix haute du danger que ça représente. Mais l'hôte vous fait taire : 
+Imaginez entrer dans une maison inconnue et d'emblée vous constatez qu'il manque une marche à l'escalier principal. Vous vous inquiétez à voix haute du danger que ça représente. Mais l'hôte vous fait taire : 
 
 >"Ouais... On sait que ce n'est pas sécuritaire, mais tous les résidents de la maison ont pris l'habitude de prendre une plus grande enjambée pour éviter le trou. En fait: on n'a jamais eu de problème ! Tu n'as qu'à faire attention."
 
