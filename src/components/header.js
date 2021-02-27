@@ -45,17 +45,17 @@ class Header extends React.Component {
             <Nav className="ml-auto" navbar>
               <NavItem>
                 <NavLink href="/about" title="À propos">
-                  À propos
+                  à propos
                 </NavLink>
               </NavItem>
               <NavItem>
                 <NavLink href="/tags" title="Sujets abordés">
-                  Sujets abordés
+                  sujets abordés
                 </NavLink>
               </NavItem>
               <NavItem>
                 <NavLink href="/avis" title="Avis">
-                  Avis
+                  avis
                 </NavLink>
               </NavItem>
               <NavItem>
