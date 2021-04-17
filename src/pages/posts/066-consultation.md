@@ -8,7 +8,7 @@ tags:
   - carrière
 ---
 
-> La consultation est le processus par lequel un individu ou une firme assiste un client dans l'atteinte un objectif précis. Cette assistance peut être prodiguée sous la forme d'informations, de recommendations ou de travaux effectifs. Un consultant est un spécialiste possédant une expertise dans un domaine professionnel et qui effectue les travaux nécessaires à l'atteinte des objectifs de son client.
+> La consultation est le processus par lequel un individu ou une firme assiste un client dans l'atteinte d'un objectif précis. Cette assistance peut être prodiguée sous la forme d'informations, de recommendations ou de travaux effectifs. Un consultant est un spécialiste possédant une expertise dans un domaine professionnel et qui effectue les travaux nécessaires à l'atteinte des objectifs de son client.
 
 La secret du succès pour tout consultant est de connaître intimement les besoins du client. Pour maintenir le cap, le consultant doit toujours avoir en tête l'objectif du client et axer ses efforts dans cette direction. La pire erreur serait d'assumer que tous nos clients ont les mêmes besoins. C'est tout à fait faux. Si le contrat s'étend sur une longue période, il est probable que les objectifs et les priorités du client évoluent. Le client appréciera toujours un consultant qui prend le temps de poser des questions au sujet de ses priorités et de ses attentes.
 
