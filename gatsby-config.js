@@ -5,6 +5,7 @@ module.exports = {
     author: `Maxime Bonin`,
     siteUrl: `https://socratic.dev`,
   },
+  flags: { PRESERVE_WEBPACK_CACHE: true },
   plugins: [
     {
       resolve: `gatsby-plugin-feed`,
