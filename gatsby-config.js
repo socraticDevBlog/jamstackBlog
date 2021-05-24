@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `blogue de socraticDev`,
-    description: `L'écriture demeure la meilleure façon de véhiculer des idées. Je traite des sujets qui m'intéressent par le biais d'articles publiés de façon régulière.  il s'agit de thèmes liés au développement logiciel et la technologie en général. La philosophie et l'humanisme motivent aussi une portion de mes interventions.`,
+    description: `Technologie et philosophie`,
     author: `Maxime Bonin`,
     siteUrl: `https://socratic.dev`,
   },
