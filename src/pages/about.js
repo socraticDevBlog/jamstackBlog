@@ -1,10 +1,10 @@
 import React from "react";
 import Layout from "../components/layout";
-import SEO from "../components/seo";
+import Seo from "../components/seo";
 
 const AboutPage = () => (
   <Layout pageTitle="Qu'est-ce que le blogue de SocraticDev ?">
-    <SEO
+    <Seo
       title="À propos"
       keywords={[
         "socraticdev",

@@ -1,7 +1,7 @@
 import React from "react";
 import { graphql, StaticQuery } from "gatsby";
 import Layout from "../components/layout";
-import SEO from "../components/seo";
+import Seo from "../components/seo";
 import Post from "../components/post";
 import PageLinks from "../components/page-links";
 
@@ -10,7 +10,7 @@ const IndexPage = () => {
   let numberOfPages;
   return (
     <Layout pageTitle="">
-      <SEO
+      <Seo
         title="Accueil"
         keywords={[
           "Maxime Bonin",

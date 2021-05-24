@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 import { graphql, Link } from "gatsby"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import { Card, CardSubtitle, CardBody, Badge } from "reactstrap"
 import Img from "gatsby-image"
 import { slugify } from "../util/util-functions"
@@ -10,7 +10,7 @@ const SinglePost = ({ data }) => {
   const post = data.markdownRemark.frontmatter
   return (
     <Layout pageTitle={post.title}>
-      <SEO title={post.title} />
+      <Seo title={post.title} />
       <Card>
         <Img
           className="card-image-top"
