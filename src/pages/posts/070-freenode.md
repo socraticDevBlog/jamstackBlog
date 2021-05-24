@@ -11,8 +11,8 @@ tags:
 (mise à jour 2021-05-24)
 
 >Nicolas Coevoet, mainteneur francophone de ``Freenode`` depuis plusieurs années, m'a contacté sur ``Twitter`` en me proposant de partager ici un court texte décrivant sa vision de la situation actuelle.  
->Lui aussi a décidé de quitter ``Freenode`` pour joindre l'aventure ``Libera``. Sa décision fut motivé par les valeurs du logiciel libre et des idéaux humanistes d'ouverture.
->On peut lire ``niko`` en suivant le lien : [https://coevoet.fr/freenode.html](https://coevoet.fr/freenode.html)
+>Lui aussi a décidé de quitter ``Freenode`` pour joindre l'aventure ``Libera``. Sa décision fut motivée par les valeurs du logiciel libre et des idéaux humanistes d'ouverture.
+>On peut lire ``niko`` en suivant ce lien : [https://coevoet.fr/freenode.html](https://coevoet.fr/freenode.html)
 
 La dernière semaine a été mouvementée pour le réseau de clavardage `Freenode` opérant sous le protocole `IRC`. `IRC` signifie 'Internet Relay Chat'. C'est un protocole ouvert permettant à une multitude d'usagers de discuter ensemble. `IRC` fut très populaire dans les années 90 mais fut progressivement déserté par les utilisateurs. Ces derniers préférant la convivialité de plate-forme comme `MySpace` et `Facebook`.
 
