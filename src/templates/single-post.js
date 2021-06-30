@@ -21,7 +21,10 @@ const SinglePost = ({ data }) => {
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta property="og:title" content={`${post.title}`} />
-        <meta property="og:description" content={`${data.markdownRemark.excerpt}`} />
+        <meta
+          property="og:description"
+          content={`${data.markdownRemark.excerpt}`}
+        />
         <meta
           property="og:image"
           content={`${rootUrl}${post.image.childImageSharp.fluid.src}/`}
@@ -30,8 +33,15 @@ const SinglePost = ({ data }) => {
           property="og:url"
           content={`${rootUrl}${data.markdownRemark.fields.slug}/`}
         />
+        <meta
+          property="twitter:image"
+          content={`${rootUrl}${post.image.childImageSharp.fluid.src}`}
+        />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:description" content={`${data.markdownRemark.excerpt}`} />
+        <meta
+          name="twitter:description"
+          content={`${data.markdownRemark.excerpt}`}
+        />
         <meta property="og:type" content="article" />
         <meta property="og:locale" content="fr_CA" />
         <link
@@ -85,7 +95,7 @@ export const postQuery = graphql`
       frontmatter {
         title
         author
-        
+
         date(formatString: "dddd Do MMMM YYYY", locale: "fr")
         tags
         image {
