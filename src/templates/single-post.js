@@ -7,7 +7,7 @@ import Img from "gatsby-image"
 import { slugify } from "../util/util-functions"
 import { Helmet } from "react-helmet"
 
-const rootUrl = "https://socratic.dev/"
+const rootUrl = "https://socratic.dev"
 const siteTitle = "Blogue de socraticDev"
 
 const SinglePost = ({ data }) => {
