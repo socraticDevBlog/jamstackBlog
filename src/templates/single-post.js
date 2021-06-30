@@ -7,8 +7,8 @@ import Img from "gatsby-image"
 import { slugify } from "../util/util-functions"
 import { Helmet } from "react-helmet"
 
-const rootUrl = `{rootUrlTwitter}/`
-const rootUrlTwitter = "https://socratic.dev"
+const rootUrl = `{rootUrlImg}/`
+const rootUrlImg = "https://socratic.dev"
 const siteTitle = "Blogue de socraticDev"
 
 const SinglePost = ({ data }) => {
@@ -28,7 +28,7 @@ const SinglePost = ({ data }) => {
         />
         <meta
           property="og:image"
-          content={`${rootUrl}${post.image.childImageSharp.fluid.src}/`}
+          content={`${rootUrlImg}${post.image.childImageSharp.fluid.src}/`}
         />
         <meta
           property="og:url"
@@ -36,7 +36,7 @@ const SinglePost = ({ data }) => {
         />
         <meta
           property="twitter:image"
-          content={`${rootUrlTwitter}${post.image.childImageSharp.fluid.src}`}
+          content={`${rootUrlImg}${post.image.childImageSharp.fluid.src}`}
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
