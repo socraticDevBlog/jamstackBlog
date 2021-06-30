@@ -24,11 +24,11 @@ const SinglePost = ({ data }) => {
         <meta property="og:description" content={`${data.markdownRemark.excerpt}`} />
         <meta
           property="og:image"
-          content={`${rootUrl}${post.image.childImageSharp.fluid.src}`}
+          content={`${rootUrl}${post.image.childImageSharp.fluid.src}/`}
         />
         <meta
           property="og:url"
-          content={`${rootUrl}${data.markdownRemark.fields.slug}`}
+          content={`${rootUrl}${data.markdownRemark.fields.slug}/`}
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:description" content={`${data.markdownRemark.excerpt}`} />
@@ -36,7 +36,7 @@ const SinglePost = ({ data }) => {
         <meta property="og:locale" content="fr_CA" />
         <link
           rel="canonical"
-          href={`${rootUrl}${data.markdownRemark.fields.slug}`}
+          href={`${rootUrl}${data.markdownRemark.fields.slug}/`}
         />
       </Helmet>
 
