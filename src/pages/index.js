@@ -1,15 +1,22 @@
-import React from "react";
-import { graphql, StaticQuery } from "gatsby";
-import Layout from "../components/layout";
-import Seo from "../components/seo";
-import Post from "../components/post";
-import PageLinks from "../components/page-links";
+import React from "react"
+import { graphql, StaticQuery } from "gatsby"
+import Layout from "../components/layout"
+import Seo from "../components/seo"
+import Post from "../components/post"
+import PageLinks from "../components/page-links"
+import { Helmet } from "react-helmet"
 
 const IndexPage = () => {
-  const postsPerPage = 10;
-  let numberOfPages;
+  const postsPerPage = 10
+  let numberOfPages
   return (
     <Layout pageTitle="">
+      <Helmet>
+        <meta
+          name="description"
+          content="Blogue philosophique et technologique par Maxime Bonin, un développeur québécois. Pour une carrière enrichissante. Le contenu est catégorisé selon différents mot-clés comme Croissance, Productivité, Programmation, Technologie, etc."
+        />
+      </Helmet>
       <Seo
         title="Accueil"
         keywords={[
@@ -24,7 +31,7 @@ const IndexPage = () => {
       />
       <StaticQuery
         query={indexQuery}
-        render={data => {
+        render={(data) => {
           numberOfPages = Math.ceil(
             data.allMarkdownRemark.totalCount / postsPerPage
           )
