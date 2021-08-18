@@ -1,5 +1,5 @@
 ---
-title: "gemini un protocole alernatif à http"
+title: "gemini un protocole alternatif à http"
 date: 2021-08-16
 author: "SocraticDev"
 image: ../../images/gemini.png
