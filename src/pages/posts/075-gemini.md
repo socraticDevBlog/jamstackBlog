@@ -16,7 +16,7 @@ La plupart des bidouilleurs trouvent que le web est gonflé. Un site web ordinai
 
 Est-ce que notre expérience quotidienne avec le ``web`` est une fatalité ? Pouvons-nous échapper à ce cirque et revenir à un ``web`` simple et épuré qui livre exactement ce que le lecteur recherche. Un ``web`` _lean_ hyper léger, rapide qui répond au besoin de la majorité des utilisateurs : accéder à l'information.
 
-##### qu'est-ce que le protocole `Gemeni`
+##### qu'est-ce que le protocole `Gemini`
 Gemini est un nouveau protocole Internet qui :
 
 - Est plus lourd que `gopher`
