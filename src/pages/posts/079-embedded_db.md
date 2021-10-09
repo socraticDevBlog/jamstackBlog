@@ -1,8 +1,8 @@
 ---
-title: "Pourquoi embarquer une base de donnéess"
+title: "Pourquoi embarquer une base de données ?"
 date: 2021-10-08
 author: "SocraticDev"
-image: ../../images/web3.png
+image: ../../images/embedded.jpeg
 tags:
   - technologie
   - programmation
