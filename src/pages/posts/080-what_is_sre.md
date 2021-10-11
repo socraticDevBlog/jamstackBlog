@@ -9,7 +9,7 @@ tags:
 ---
 "`SRE` est ce que vous obtenez lorsque vous traitez les opérations comme s'il s'agissait d'un problème logiciel" (`Google`)
 
-Le paradigme `DevOps` commence à laisser place à celui de `SRE` ou 'Site Reliability Engineering'. `SRE` est le modèle d'opération pratiqué et théorisé par `Google`. Ce n'est pas tant une remise en question des principes `DevOps` qu'une adaptation rendant ce mode de gestion d'infrastructures technologiques plus adaptés aux acteurs sur le terrain.
+Le paradigme `DevOps` commence à laisser place à celui de `SRE` ou 'Site Reliability Engineering'. `SRE` est le modèle d'opération pratiqué et théorisé par `Google`. Ce n'est pas tant une remise en question des principes `DevOps` qu'une adaptation rendant ce mode de gestion d'infrastructures technologiques plus adapté aux acteurs sur le terrain.
 
 > L'ingénierie de fiabilité de site (`SRE`) est une approche d'ingénierie logicielle des opérations informatiques. Les équipes `SRE` utilisent le logiciel comme un outil pour gérer les systèmes, résoudre les problèmes et automatiser les tâches opérationnelles.  
 > 
@@ -25,7 +25,7 @@ Le paradigme `DevOps` commence à laisser place à celui de `SRE` ou 'Site Relia
  
  Un développeur de logiciel ayant de l'expérience en termes de gestion des opérations. 
  
- Ou un administrateur de système ('sysadmin') ou responsable TI ayant de l'expérience en programmation et en développement de logiciels.
+Un administrateur de système ('sysadmin') ou responsable TI ayant de l'expérience en programmation et en développement de logiciels.
 
  ##  contexte de travail et concepts importants de SRE
  Une équipe `SRE` est responsable de la livraison et de la fiabilité de systèmes et produits. Elle s'occupe de : 
@@ -39,16 +39,16 @@ Le paradigme `DevOps` commence à laisser place à celui de `SRE` ou 'Site Relia
 
  À l'aide de ses projections fondées sur des mesures, l'équipe `SRE` conseille et informe les équipes de développement à propos de la possibilité de déployer de nouvelles fonctionnalités à la clientèle tout en assurant un produit fiable.
 
- > L'ingénierie de la fiabilité du site (`SRE`) aide les équipes à déterminer quelles nouvelles fonctionnalités peuvent être dépoployées et à quel moment en utilisant des accords de niveau de service (`SLA`) pour définir la fiabilité requise du système via des indicateurs de niveau de service (`SLI`) et des objectifs de niveau de service (`SLO`).
+ > L'ingénierie de la fiabilité du site (`SRE`) aide les équipes à déterminer quelles nouvelles fonctionnalités peuvent être déployées et à quel moment en utilisant des accords de niveau de service (`SLA`) pour définir la fiabilité requise du système via des indicateurs de niveau de service (`SLI`) et des objectifs de niveau de service (`SLO`).
 
  ## SLI
  "Un `SLI` est une mesure définie des aspects spécifiques des niveaux de service fournis. Les `SLI` clés incluent la latence des demandes, la disponibilité, le taux d'erreur et le débit du système. Un `SLO` est basé sur la valeur ou la plage cible pour un niveau de service spécifié basé sur le `SLI`." (Redhat, "What is SRE", 2021)
 
  ## SLO
- "Un `SLO` pour la fiabilité requise du système est ensuite déterminé sur la base du temps d'arrêt convenu comme acceptable. Ce niveau de temps d'arrêt est appelé budget d'erreur, le seuil maximal autorisé pour les erreurs et les pannes." (Ibidem)
+ "Un `SLO` pour la fiabilité requise du système est ensuite déterminé sur la base du temps d'arrêt convenu comme acceptable. Ce niveau de temps d'arrêt est appelé budget d'erreur, le seuil maximal autorisé pour les erreurs et les pannes." (_Ibidem_)
 
 ## Et on fait quoi avec DevOps ?
-On peut considérer `DevOps` comme une approche faisant la promotion de l'automatisation et le design de plate-forme destiné à l'augmentation de la valeur pour la business via un système de livraison rapide et de haute-qualité. En ce sens, `SRE` est une implémentation particulière de `DevOps`.
+On peut considérer `DevOps` comme une approche faisant la promotion de l'automatisation et le design de plate-forme destinée à l'augmentation de la valeur pour la _business_ via un système de livraison rapide et de haute-qualité. En ce sens, `SRE` est une implémentation particulière de `DevOps`.
 
 Autant `DevOps` que `SRE` agissent comme un pont entre la sphère du développement et la sphère propre aux opérations.
 
