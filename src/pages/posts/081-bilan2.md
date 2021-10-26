@@ -21,7 +21,7 @@ Cela ne sera pas suffisant en 2022. Pour offrir davantage de valeur au lecteur, 
 
 Parmi les sujets avec lequelles `socraticDev` aimerait débuter l'année : 
 
-Le __monitoring__ n'est souvent pas prévu dans le développement d'un produit. On le développe le monitoring par nécessité ; comme une arrière-pensée. Pour assurer un produit final fiable et performant. Toutefois, le souci d'observabilité devrait être inclus dans le processus de développement moderne. Nous parlerons d'abord du concept de 'data-driven monitoring'.
+Le __monitoring__ n'est souvent pas prévu dans le développement d'un produit. On développe le monitoring par nécessité ; comme une arrière-pensée. Pour assurer un produit final fiable et performant. Toutefois, le souci d'observabilité devrait être inclus dans le processus de développement moderne. Nous parlerons d'abord du concept de 'data-driven monitoring'.
 
 Ensuite, `socraticDev` passera au crible la documentation de la plate-forme de gestion de code source `GitLab`. `socraticDev` utilise cette plate-forme quotidiennement. Elle offre beaucoup plus de fonctionnalités que celle d'un gestionnaire `git` et un pipeline de déploiement continu. Par exemple, la plate-forme offre une suite d'outils analytiques ainsi que des outils de sécurité. Attendez-vous à une série de billets sur ces différentes fonctionnalités incluses dans `GitLab`.
 
