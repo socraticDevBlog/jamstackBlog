@@ -66,7 +66,7 @@ Néanmoins, je suis heureux d'avoir rencontre ce tweet qui m'a poussé à réfl�
 un peu plus au sujet d'une ressource `cloud` centrale dans tout système évoluant
 dans l'écosystème d'`AWS`.
 
-À suivre.
+À suivre.🕴️
 
 ##### sources
 
