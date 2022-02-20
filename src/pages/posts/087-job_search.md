@@ -1,6 +1,6 @@
 ---
 title: "Petit guide du parfait chercheur d'emploi"
-date: 2022-02-15
+date: 2022-02-20
 author: "SocraticDev"
 image: ../../images/interview-banner.png
 tags:
@@ -10,7 +10,7 @@ tags:
 
 Les employeurs déploient des efforts considérables pour s'assurer d'un match parfait dans le processus de recrutement. Mais qu'en est-il des chercheurs d'emploi?
 
-Le marché du travail est devenu beaucoup plus convivial pour les chercheurs d'emploi. Néanmoins, il ne faut pas croire que les employeurs sont prêts à embaucher n'importe qui. Surtout pour les emplois demandant un haut niveau de qualification.
+Le marché du travail est devenu beaucoup plus convivial pour les chercheurs d'emploi. Néanmoins, il ne faut pas croire que les employeurs soient prêts à embaucher n'importe qui. Surtout pour les emplois exigeant un haut niveau de qualification.
 
 Un mauvais jumelage entre employeur et employé est une perte nette pour les deux parties. Par exemple, un développeur qualifié quittera rapidement une firme lui demandant d'offrir un support téléphonique à ses usagers. Ou un studio spécialisé dans le web ne saura comment tirer partie d'un programmeur tenant mordicus à ne coder qu'en `Cobol` (un langage de programmation très ancien).
 
