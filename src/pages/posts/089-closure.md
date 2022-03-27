@@ -37,6 +37,21 @@ Pour moi, dès le départ, c'est une solution géniale à un problème de progra
 
 >Sur le plan opérationnel, une closure est un enregistrement stockant une fonction[a] avec un environnement.L'environnement est un mappage associant chaque variable libre de la fonction (variables utilisées localement, mais définies dans une portée englobante) à la valeur ou à la référence à laquelle le nom était lié lors de la création de la closure. [b] Contrairement à une fonction ordinaire. , une closure permet à la fonction d'accéder à ces variables capturées via les copies de la closure de leurs valeurs ou références, même lorsque la fonction est invoquée en dehors de leur portée. (Wikipedia, "closure")
 
+```
+function createScaleFunction(FACTOR) {
+  return function(v) {
+    return _.map(v, function(n) {
+      return (n * FACTOR);
+    });
+  };
+}
+
+var scale10 = createScaleFunction(10);
+
+scale10([1,2,3]);
+//=> [10, 20, 30]
+```
+
 ## apprentissages
 
 En creusant dans la programmation fonctionnelle, j'ai découvert beaucoup de choses sur mon manque de compréhension de certaines fonctions de base du langage de programmation (en particulier `JavaScript`) telles que la liaison de variables et la portée. J'apprends également à comprendre le chaînage de fonctions. Ce qui était/est ma grande bête noire : ce n'est pas amusant de déboguer des chaînes de fonctions. Non??
