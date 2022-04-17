@@ -14,6 +14,8 @@ const AboutPage = () => (
         "Quebec City",
         "Ville de Québec",
         "programmeur-analyste",
+        "devops",
+        "cloud",
         "TI",
       ]}
     />
