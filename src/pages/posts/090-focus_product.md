@@ -12,24 +12,26 @@ Si votre workflow consiste à éteindre des feux à répétition. Surtout si la 
 
 `Fix-it-twice` est une expression qui signifie que tout bogue doit être réglé à sa racine pour ne plus qu'il se reproduise.
 
-À ce sujet, le bloggeur [Yegor Bugayenko](https://www.yegor256.com/) aka `@yegor256` propose le workflow suivant:
+Le blogueur [Yegor Bugayenko](https://www.yegor256.com/) aka `@yegor256` propose le workflow suivant:
 
 1. le développeur lit la description du problème
 2. le développeur répare le produit
-3. le développeur répond au demander en lui disant que le problème a été réglé et lui demander de réessayer.
+3. le développeur répond au demandeur et l'informe que le problème a été réglé. Il lui demander de réessayer.
 
 ## le réflexe humain
 > "J'ai découvert votre plugin et voulu l'essayer. J'ai fait un petite preuve de concept avec peu de code, mais ça ne fonctionne pas. Pouvez-vous m'aider?"
 
 Quand un utilisateur rapporte un bogue à un développeur, le réflexe du développeur est de vouloir aider cet utilisateur.
 
-Ce type d'interaction est naturelle dans le monde du logiciel libre ("free and open-source"). `@yegor256` insiste que ce genre d'interaction est aussi courante en entreprise ; pour des développeurs qui développent des outils destinés à des équipes de développement internes, ou même des produits destinés aux clients de l'entreprise.
+Ce type d'interaction est naturelle dans le monde du logiciel libre ("free and open-source"). `@yegor256` insiste que ce genre d'interaction est aussi courante en entreprise ; pour des développeurs qui développent des outils destinés à d'autres équipes internes, ou même des produits destinés aux clients de l'entreprise.
 
 Donc à chacune des demandes d'aide, le développeur stoppe ses activités courantes et se lance à la rescousse du demandeur d'aide.
 
 > "Et réagir ainsi est une erreur" <cite>@yegor256</cite> 
 
-Réagir en aidant les gens individuellement est une erreur car ce n'est pas _évolutif_ ("scalable"). Si le produit gagne en popularité, alors ces demandes individuelles d'assistance ne saurait que croître. Bien sûr, les utilisateurs vont être heureux de recevoir de l'assistance, mais pendant ce temps le produit ne sera pas amélioré. Les développeurs maîtrisant le produit sont désormais occupés à faire du service à la clientèle au lieu d'être occupé à améliorer le produit.
+Réagir en aidant les gens individuellement est une erreur car ce n'est pas _évolutif_ ("scalable"). 
+
+Si le produit gagne en popularité, alors ces demandes individuelles d'assistance ne saurait que croître. Bien sûr, les utilisateurs seront heureux de recevoir de l'assistance individuelle, mais pendant ce temps le produit ne sera pas amélioré. Les développeurs maîtrisant le produit sont désormais occupés à faire du service à la clientèle au lieu d'être occupé à améliorer le produit.
 
 À chaque fois que le développeur propose des explications via email, chat ou téléphone avec l'utilisateur, il se tire dans le pied.
 
