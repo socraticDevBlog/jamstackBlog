@@ -9,7 +9,6 @@ import { Helmet } from "react-helmet"
 
 const rootUrl = `{rootUrlImg}/`
 const rootUrlImg = "https://socratic.dev"
-const siteTitle = "Blogue de socraticDev"
 
 const SinglePost = ({ data }) => {
   const post = data.markdownRemark.frontmatter
@@ -18,7 +17,6 @@ const SinglePost = ({ data }) => {
       <Seo title={post.title} />
 
       <Helmet>
-        <title>{`${post.title} | ${siteTitle}`}</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta property="og:title" content={`${post.title}`} />
