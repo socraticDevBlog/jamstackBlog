@@ -7,7 +7,7 @@ tags:
   - roman
   - technologie
 ---
-(mis à jour vendredi 2022-05-10 par l'ajout du résumé du chapitre 4)
+(mis-à-jour: mardi 2022-06-14 par l'ajout du résumé des chapitres 5 et 6)
 
 ## chapitre 3 (partie 2 - L'expédition shopping)
 À la fin du chapitre 3, Case se sera connecté au cyberespace, à la Matrice.
@@ -73,8 +73,62 @@ Malgré cela, Yonderboy délivre un message à Case. Un nom.
 
 Wintermute.
 
+## chapitre 5 - Tessier-Ashpool
+
+Nous en apprendrons plus sur la puissance derrière l'opération pour laquelle Case a été
+engagé au chapitre 5.
+
+### Tessier-Ashpool
+Molly avait chargé les _Panther Moderns_ d'enquêter sur Armitage.
+Après le braquage, son chef Youderboy a présenté à Case la réponse :
+MUET D'HIVER. De retour à New York, Case et Molly rendent visite au Finlandais pour poursuivre leur clandestinité
+enquête sur Armitage.
+
+> "Wintermute est une intelligence artificielle. Basée à Berne, elle possède la
+> citoyenneté suisse. Wintermute contrôle Armitage, mais, parce que les IA ne sont pas autorisées
+> à être autonome, Molly et le Finlandais supposent qu'il s'agit des propriétaires de Wintermute,
+> Tessier-Ashpool S.A., propriétaire du mainframe et des logiciels, qui tirent
+> les ficelles."
+
+Tessier-Ashpool S.A. est un cabinet d'avocats, une société écran créée pour représenter et
+protéger les intérêts de la famille Tessier-Ashpool. Cette famille possède
+_Freeside_ : "Une énorme colonie spatiale en orbite au-dessus de la Terre".
+
+Cette famille est composée de membres de la famille décédés qui sont congelés et ramenés
+à la vie en alternance pour gérer les affaires familiales.
+
+### Dixie-Flatline
+
+De retour au loft, Case se connecte à Dixie Flatline. Il remarque le _construct_
+n'a pas de mémoire à court terme. C'est une ROM. C'est une collection finie de souvenirs.
+Dixie était le mentor de Case lorsqu'il a commencé sa carrière. Ses souvenirs sont utiles à
+Case pour apprendre de nouvelles informations sur la Matrix et Armitage.
+
+> "Mémoire en lecture seule. Un type de stockage informatique qui est plus ou moins
+> immuable. La construction de Dixie, par exemple, est ROM - sa personnalité est
+> déjà fixé et non développable. Contraste avec RAM."
+
+## chapter 6 - Armitage
+
+Branché sur Dixie Flatline, Case plonge dans le passé d'Armitage. Il decouvre
+Armitage était le colonel Willis Corto. Les États-Unis avaient envoyé Corto et son équipage attaquer la Russie
+dans une opération appelée "Screaming Fist". C'était essentiellement un piège mortel parce que
+on savait que la Russie avait le pouvoir de se défendre contre cette attaque.
+
+Pour faire court, le colonel Corto était défiguré et gravement mutilé. Il a témoigné
+devant le Congrès au sujet de la trahison. Après cela, il a été impliqué dans des
+missions, telles que les meurtres à forfait. Enfin impliqué dans un crime en
+France, il s'est retrouvé dans un hôpital psychiatrique avec un diagnostic de schizophrénie.
+
+Il a été guéri par une thérapie expérimentale, a disparu, et maintenant il est Armitage.
+
+A la fin du chapitre 6, Armitage appelle pour annoncer qu'ils vont à Istanbul.
+
+
 `traduit de l'anglais par Google Translate`
 
-##### source
+##### sources
 
-[https://www.litcharts.com/lit/neuromancer/terms/construct](https://www.litcharts.com/lit/neuromancer/terms/construct)
+- [https://www.litcharts.com/lit/neuromancer/terms/construct](https://www.litcharts.com/lit/neuromancer/terms/construct)
+- [https://www.litcharts.com/lit/neuromancer/chapter-5](https://www.litcharts.com/lit/neuromancer/chapter-5)
+- [https://www.litcharts.com/lit/neuromancer/chapter-6](https://www.litcharts.com/lit/neuromancer/chapter-6)
