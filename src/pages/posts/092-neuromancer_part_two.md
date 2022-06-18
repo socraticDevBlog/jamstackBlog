@@ -7,7 +7,7 @@ tags:
   - roman
   - technologie
 ---
-(mis-à-jour: mardi 2022-06-14 par l'ajout du résumé des chapitres 5 et 6)
+(mis-à-jour: jeudi 2022-06-17)
 
 ## chapitre 3 (partie 2 - L'expédition shopping)
 À la fin du chapitre 3, Case se sera connecté au cyberespace, à la Matrice.
@@ -108,7 +108,7 @@ Case pour apprendre de nouvelles informations sur la Matrix et Armitage.
 > immuable. La construction de Dixie, par exemple, est ROM - sa personnalité est
 > déjà fixé et non développable. Contraste avec RAM."
 
-## chapter 6 - Armitage
+## chapitre 6 - Armitage
 
 Branché sur Dixie Flatline, Case plonge dans le passé d'Armitage. Il decouvre
 Armitage était le colonel Willis Corto. Les États-Unis avaient envoyé Corto et son équipage attaquer la Russie
@@ -123,6 +123,30 @@ France, il s'est retrouvé dans un hôpital psychiatrique avec un diagnostic de 
 Il a été guéri par une thérapie expérimentale, a disparu, et maintenant il est Armitage.
 
 A la fin du chapitre 6, Armitage appelle pour annoncer qu'ils vont à Istanbul.
+
+## chapitre 7 - Riviera
+
+Le Finlandais, Case et Molly se retrouvent à Istanbul pour une mission d'enlèvement.
+
+Leur cible est Riviera. Riviera a un savoir-faire spécifique. Il peut projeter
+des hologrammes réalistes; créer
+illusion et hallucination chez les autres. Comment? Il s'est fait remplacer un 
+poumon par des implants
+qui lui donnent ce pouvoir.
+
+Aidés par un "guide" local, Terzibashjian, ils le capturèrent dans un
+marché alors qu'il était au marché pour acheter sa drogue préférée.
+
+Armitage leur dit de faire leurs valises pour leur prochaine destination : le Freeside.
+
+> "Une énorme colonie spatiale en orbite au-dessus de la terre. Abritant, entre autres
+> institutions, la Villa Straylight et la famille Tessier-Ashpool."
+
+À la fin de la deuxième partie, Wintermute tend la main à Case en faisant sonner
+un téléphone public à l'hôtel  : "Bonjour Case... Wintermute, Case. Il est temps de parler.[...] N'est-ce pas
+tu veux parler, Case?".
+
+_Fin de la deuxième partie_
 
 
 `traduit de l'anglais par Google Translate`
