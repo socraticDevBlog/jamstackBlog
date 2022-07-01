@@ -7,7 +7,7 @@ tags:
   - roman
   - technologie
 ---
-(mis-à-jour: vendredi 24 juin 2022 - ajout des chapitres 9 et 10)
+(mis-à-jour finale: vendredi 1er juillet 2022)
 
 # Troisième partie - Minuit rue Jules-Verne
 
@@ -91,6 +91,59 @@ Avant de retourner à l'hôtel, Case se procure des stimulants illicites qui peu
 contourner son nouveau filtre pancréatique. Il se défonce et, de retour à l'hôtel,
 Molly est très déçue. Elle le met en garde contre les séquelles d'une telle
 drogue assez forte pour contourner ses bloqueurs de pancréas.
+
+## Chapitre 11 - focus sur Riviera et Molly
+
+Case s'est réveillé avec la gueule de bois. Molly et Armitage ont remarqué son récent excès. Mais
+Case essaie de le cacher et blâme une réaction allergique à la nourriture inhabituelle
+servi sur Freeside.
+
+Armitage, Molly et Case se rendent dans un cabaret pour assister à Riviera holographique
+spectacle : "La Poupée".
+
+> "La performance de Riviera est conçue pour être dérangeante et titillante,
+> destinée à capter l'attention de 3Jane, membre de la famille Tessier Ashpool,
+> dont les goûts Armitage, Wintermute et Riviera ont exploré. Cependant,
+> Riviera a également l'intention de déranger et d'offenser ses collègues - en
+> particulier Molly qu'il semble convoiter mais aussi lui en vouloir. Bien que
+> techniquement pas réel, son spectacle est dérangeant et crée de véritables
+> émotions de dégoût et de détresse chez Case et Molly.
+> <cite>https://www.litcharts.com/lit/neuromancer/chapter-11</cite>
+
+Molly disparaît du cabaret. Case retourne à l'hôtel et a un autre
+rencontre avec Wintermute.
+
+Case obtient enfin une adresse pour trouver Molly. Elle est dans une cabine
+cercueil situé au sous-sol d'une discothèque. Le cas se présente à la réception
+réaliser que c'est une sorte de bordel. Il loue un box près de chez Molly. À la place de
+s'installant dans son unité, il frappe à la porte de Molly.
+
+Molly révèle son passé de poupée sexuelle. Une poupée sexuelle est une femme qui
+loue son corps sans avoir conscience de ses rencontres. Une "puce coupée" est
+implanté dans son cerveau pour empêcher la poupée d'être consciente tout en étant sur
+devoir. La puce de Molly a probablement été altérée lorsqu'elle s'est fait implanter des lames métalliques
+à la place des clous. Une fois, elle a pris conscience d'avoir été battue par un client. UN
+grand homme politique. Elle s'est réveillée et l'a tué.
+
+C'est la raison pour laquelle Molly est toujours en fuite. Fuir son ancien employeur.
+
+Case et Molly concluent que Wintermute les met dans des situations destinée à
+déclencher leur haine. Pour les manipuler.
+
+> "Elle pense que Wintermute a en quelque sorte organisé son émission, afin qu'elle déteste Riviera et soit motivée à entrer dans Straylight après lui. Elle dit à Case qu'elle va tuer Riviera. Case parle à Molly de la Lonny Zone et de Linda Lee. Molly se demande si Wintermute essaie de lui faire détester quelque chose aussi.
+
+## chapitre 12 - La police de Turing.
+Dans le dernier chapitre de _Troisième partie - Minuit rue Jules-Verne_, Case
+réfléchit à sa dépendance à la drogue ; son réflexe de s'engourdir.
+
+Il rencontre sa nouvelle amie et âme sœur Cath dans un bar. Elle parle de 3Jane
+et son garde du corps. 3Jane est une héritière de la famille Tessier-Ashpool. Cat
+présente un _derm_ contenant la nouvelle substance préférée de Case.
+
+Case se promène tout en étant défoncé. De retour à sa chambre d'hôtel, il est accueilli par "deux
+hommes et une femme -- la police de Turing.
+
+> « Turing », dit-elle. "Vous êtes en état d'arrestation."
 
 `traduit de l'anglais par Google translate`
 
