@@ -7,7 +7,7 @@ tags:
   - roman
   - technologie
 ---
-
+(Mise-à-jour finale: dimanche 2022-07-10)
 ## quatrième partie - The Straylight Run
 
 Case et Molly exécutent leur mission : une course dans la Villa Straylight de Tessier-Ashpool. Il devient clair qui est leur employeur : Wintermute. Wintermute est une IA essayant d'augmenter sa puissance. Selon la loi, les IA ne sont pas censées être autonomes. En mettant les humains dans des situations, Wintermute défie la loi pour atteindre son objectif.
@@ -79,6 +79,48 @@ Blessée, Molly se promène dans Straylight. Elle rencontre divers hologrammes g
 > "Molly continue dans le couloir, passant devant d'autres hologrammes - des scènes de torture, des monstres, et enfin un petit diorama que Molly doit se pencher pour voir. Dans celui-ci, un groupe d'enfants sauvages entoure un soldat, se nourrissant de lui. Dégoûté, Molly se lève. Elle reconnaît maintenant plus que jamais à quel point Riviera est perturbée, mais aussi que son dysfonctionnement est ce qui a attiré 3Jane vers lui et l'a convaincue de le laisser entrer dans sa forteresse."
 
 > "Molly continue de marcher. Elle s'approche d'une entaille dans le mur du tunnel : l'entrée du monde de 3Jane. Elle porte la main à sa bouche et l'embrasse - un baiser d'adieu à Case. Puis elle descend l'escalier."
+
+### chapitre 18 - Molly échoue à la mission
+
+Molly échoue dans sa mission de faire sortir le mot magique de 3Jane. Molly s'est effondrée en entrant dans l'antre de 3Jane. Riviera s'était associée à 3Jane. Donc, Molly est essentiellement retenue captive par lui et Hideo, le garde du corps de 3Jane.
+
+Case, Maelcum et Finn/Wintermute doivent prendre les choses en main et être là quand 3Jane devra prononcer le mot secret à la tête de l'automate.
+
+Ils doivent faire vite car 8Jean, l'autre héritier vivant de Tessier-Ashpool, sera bientôt de retour à la Villa Straylight.
+
+### chapitre 19 - le retour du maître
+
+Case et Maelcum profitent du personnel de la Villa en attendant le retour de leur maître, 8Jean. Ils ouvrent facilement la porte de l'écoutille puisque le personnel pensait que ce serait l'accostage du navire de leur maître.
+
+De son côté, Molly essaie toujours de faire passer le mot à 3Jane. Sans succès.
+
+### chapitre 20 - retour à Linda
+
+Prises de cas dans une réalité différente. Il se retrouve sur une plage, sur du sable gris. Il trouve une femme endormie. C'est Linda : son ancienne petite amie.
+
+Case se rend compte que ce monde est une simulation générée par l'autre IA; pas Wintermute.
+
+### chapitre 21 - refuser l'illusion
+
+Sur la plage, Case rencontre l'autre IA : Neuromancer. Il incarnait la forme d'un garçon. Neuromancer invite Case à arrêter sa mission et à rester _en lui_, avec Linda.
+
+Case refuse.
+
+### chapitre 22 - tous ensemble
+
+Case et Maelcum atteignent le repaire de 3Jane. Ils sont confrontés à Hideo qui leur tire des flèches. Maelcum est blessé par l'un d'eux.
+
+3Jane et l'équipage se dirigent vers le cœur de la Villa.
+
+Sans Riviera qui avait été empoisonné par 3Jane.
+
+### chapitre 23 - au cœur
+
+> "Case bascule dans le simstim de Molly ; Molly étouffe 3Jane pour lui faire dire le code. Case se déconnecte. Il se tourne vers 3Jane et lui dit de leur donner le code. Il la menace, l'avertissant que si elle ne donne pas le code, elle sera piégée dans Straylight pour toujours, et rien ne changera jamais pour elle." <cite>https://www.litcharts.com/lit/neuromancer/chapter-23</cite>
+
+### coda : départ et arrivée
+
+> "Wintermute a gagné, en se combinant avec Neuromancer. Ils ont parlé ensemble de la tête de platine, expliquant qu'ils avaient effacé les enregistrements de Turing et tous les enregistrements des crimes que Molly, Case et leur équipe avaient commis. L'argent a été déposé sur des comptes bancaires pour Case et Molly , ainsi que des récits appartenant à Zion. Même les sacs à toxines de Case ont été pris en charge - la nouvelle entité avait pénétré profondément dans son cerveau et lui avait appris à dissoudre les liens sur les sacs à toxines eux-mêmes. <cite>https://www.litcharts.com/lit/neuromancer/chapter-24</cite>
 
 `traduit de l'anglais par Google translate`
 
