@@ -5,7 +5,7 @@ module.exports = {
     author: `Maxime Bonin`,
     siteUrl: `https://socratic.dev`,
   },
-  flags: { PRESERVE_WEBPACK_CACHE: true },
+  flags: { PRESERVE_WEBPACK_CACHE: true, PARALLEL_QUERY_RUNNING: true },
   plugins: [
     {
       resolve: `gatsby-plugin-feed`,
@@ -24,9 +24,8 @@ module.exports = {
         `,
         feeds: [
           {
-            
             serialize: ({ query: { site, allMarkdownRemark } }) => {
-              return allMarkdownRemark.edges.map(edge => {
+              return allMarkdownRemark.edges.map((edge) => {
                 return Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.excerpt,
                   date: edge.node.frontmatter.date,
