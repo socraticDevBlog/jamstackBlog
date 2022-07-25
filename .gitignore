@@ -1,3 +1,6 @@
+# compatibility liability (don't commit those but keep them on local machine)
+package-lock.json
+
 # dev stuff
 settings.json
 
