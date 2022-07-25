@@ -5,7 +5,6 @@ author: "SocraticDev"
 image: ../../images/neuromancer-part4.png
 tags:
   - roman
-  - technologie
 ---
 (Mise-à-jour finale: dimanche 2022-07-10)
 ## quatrième partie - The Straylight Run

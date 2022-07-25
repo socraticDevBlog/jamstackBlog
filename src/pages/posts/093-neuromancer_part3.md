@@ -5,7 +5,6 @@ author: "SocraticDev"
 image: ../../images/neuromancer-chapter3.png
 tags:
   - roman
-  - technologie
 ---
 (mis-à-jour finale: vendredi 1er juillet 2022)
 
