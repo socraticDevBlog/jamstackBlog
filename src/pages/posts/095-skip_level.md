@@ -12,7 +12,7 @@ Les _Skip level One-on-Ones_ n'est pas une nouvelle idée dans le monde du trava
 Mais je n'en avais jamais entendu parler jusqu'à aujourd'hui.
 
 Même le concept du _One-on-One_ entre un contributeur individuel (IC) et son
-manager était nouveau pour moi jusqu'à ce que je joigne l'organistion pour
+manager était nouveau pour moi jusqu'à ce que je joigne l'organisation pour
 laquelle je travaille depuis environ un an.
 
 Le _One-on-One_ est une rencontre régulière entre un employé et son manager. Ce
@@ -45,7 +45,7 @@ important pour lui.
 ## Risques
 
 Adopter la pratique du _skip level One-on-One_ n'est pas sans risques. Non
-seulement, cette pratique nécessite de la planification et un surplus de
+seulement, cette pratique nécessite de la planification et engendre un surplus de
 travail. Cette pratique rompt avec la culture communément acceptée de la chaîne
 de commandement opérationnel. Un vision hiérarchique, presque militaire, du milieu de travail. Il faut donc anticiper des malaises de la part des contributeurs
 individuels qui n'ont pas l'occasion de discuter franchement avec la haute
@@ -57,6 +57,8 @@ question ?
 
 En tant que contributeur individuel, est-ce que je peux m'attirer des problèmes
 en discutant ouvertement avec un cadre supérieur ?
+
+![initiative](https://external-preview.redd.it/DLICHXRC9RFFKCP-_mABVV0-wDdfF7aa_rABiAZDYnU.jpg?auto=webp&s=fc064dd54322cbb2535d7eed723de94b11b6435c)
 
 ## Avantages
 
