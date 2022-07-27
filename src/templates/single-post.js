@@ -56,8 +56,8 @@ const SinglePost = ({ data }) => {
         />
         <CardBody>
           <p>
-            <span className="text-info">{post.date}</span> par{" "}
-            <span className="text-info">{post.author}</span>
+            <span className="text-secondary">{post.date}</span> par{" "}
+            <span className="text-secondary">{post.author}</span>
           </p>
           <CardSubtitle>
             <div
