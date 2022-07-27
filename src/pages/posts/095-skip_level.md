@@ -94,7 +94,7 @@ Surtout, j'en profiterais pour poser des questions sur la santé des projets en
 cours. Sur les obstacles à venir. Sur ce que le succès d'un projet ou d'un
 produit signifie pour lui/elle.
 
-##### source
+##### sources
 
 https://getlighthouse.com/blog/skip-level-meetings-one-on-ones/
 
