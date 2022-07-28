@@ -16,17 +16,17 @@ manager était nouveau pour moi jusqu'à ce que je joigne l'organisation pour
 laquelle je travaille depuis environ un an.
 
 Le _One-on-One_ est une rencontre régulière entre un employé et son manager. Ce
-n'est pas une évaluation de la performance de l'employé. C'est plutôt d'un
+n'est pas une évaluation de la performance de l'employé. C'est un
 moment dédié à l'employé pour discuter avec son manager de ses idées, ses
 ambitions et ses enjeux au travail.
 
->"Le critère le plus important régissant les questions dont il faut parler est
->qu'il s'agit de questions qui préoccupent et qui provoquent la grogne du subordonné."
+>"Le critère le plus important régissant les choses dont il faut parler [dans un _one-on-one] est
+>ce sont les questions qui préoccupent et qui provoquent la grogne du subordonné."
 ><cite>Andy Grove - ancien CEO et co-fondateur de Intel</cite>
 
 ## Skip level One-on-Ones
 
-> "Un _Skip Level One-on-One_ est une réunion où vous - en tant que cadre supérieur, vice-président ou PDG - rencontrez des personnes qui ne sont pas vos subordonnés directs. Ils vous permettent d'avoir plus de visibilité sur le travail quotidien qui se déroule et sur les performances de vos managers."
+> "Un _Skip Level One-on-One_ est une réunion où vous - en tant que cadre supérieur, vice-président ou PDG - rencontrez des personnes qui ne sont pas vos subordonnés directs. Ça vous permet d'avoir plus de visibilité sur le travail quotidien qui se déroule [en première ligne] et sur les performances de vos managers."
 
 L'idée, pour un cadre supérieur, de rencontrer les employés de première ligne
 régulièrement semble irréaliste. Toutefois, on mentionne que chez _Netflix_,
