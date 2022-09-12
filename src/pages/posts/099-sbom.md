@@ -107,7 +107,7 @@ SBOM aie lieu dans le processus de déploiement continu (CI/CD).
 
 "Pourquoi voudriez-vous ne pas savoir de quoi vos systèmes logiciels sont
 composés ? Quels avantages de ne pas être en mesure d'informer vos clients sur
-ce que les logiciels que vous leur vendez contient ?".
+ce que contiennent les logiciels que vous leur vendez ?".
 
 On tombe rapidement dans l'absurde.
 
@@ -115,8 +115,8 @@ Avoir en main un SBOM à jour va vous faire économiser des centaines d'heures d
 travail. Va vous permettre d'avoir des produits plus sécuritaires et
 facile à faire évoluer. 
 
-En plus d'alléger vos coûts d'opération, ayez en tête la rétention d'employé, la diminution du
-stress, la diminution du sentiment d'impuissance de vos employés de TI envers
+En plus d'alléger vos coûts d'opération, ayez en tête la rétention d'employés,
+la diminution de leur stress ; la diminution du sentiment d'impuissance de vos employés de TI envers
 des systèmes qu'ils ne comprennent pas et ne sont pas en mesure de faire évoluer.
 
 ## sources
