@@ -30,7 +30,8 @@ Le flow state est un état mental caractérisé par la concentration totale sur 
 
 >Popularisé par les psychologues positifs Mihaly Csikszentmihalyi et Jeanne Nakamura, le flow state décrit un sentiment où, dans les bonnes conditions, vous vous immergez complètement dans tout ce que vous faites.
 >
->«Il y a cette concentration qui, une fois devenue intense, conduit à un sentiment d'extase, un sentiment de clarté : vous savez exactement ce que vous voulez faire d'un moment à l'autre ; vous obtenez un retour immédiat », a déclaré Csikszentmihalyi dans une conférence TED en 2004. Csikszentmihalyi et Nakamura sont parvenus à cette conclusion en interrogeant une variété de personnes performantes et auto-actualisées : y compris des alpinistes, des joueurs d'échecs, des chirurgiens et des danseurs de ballet." <cite>--Headspace, "What it means to be in a flow state"</cite>
+>«Il y a cette concentration qui, une fois devenue intense, conduit à un sentiment d'extase, un sentiment de clarté : vous savez exactement ce que vous voulez faire d'un moment à l'autre ; vous obtenez un retour immédiat », a déclaré Csikszentmihalyi dans une conférence TED en 2004. Csikszentmihalyi et Nakamura sont parvenus à cette conclusion en interrogeant une variété de personnes performantes et auto-actualisées : y compris des alpinistes, des joueurs d'échecs, des chirurgiens et des danseurs de ballet.
+><cite>--Headspace, "What it means to be in a flow state"</cite>
 
 La conviction des défenseurs du flow state est qu'une vie vraiment humaine n'est pas une vie de loisirs, mais plutôt une vie remplie de défis surmontés grâce à nos facultés de concentration et d'engagement.
 
@@ -48,7 +49,7 @@ Beaucoup d'obstacles s'opposent à la libération de nos esprits: collègues qui
 
 Encore pire, notre propre esprit est trop souvent notre pire ennemi! Les spécialistse de l'esprit comparent notre esprit à un singe ou à un hamster s'agitant sans cesse. Notre esprit est naturellement très agité. Il faut apprendre à le dompter. Nous qualifions ces ennemis à l'amélioration de notre esprit: les distractions internes.
 
-#### distractions externes
+### distractions externes
 
 Les distractions externes sont les plus faciles à faire taire. On peut désactiver les notifications de notre ordinateur et smartphone. On peut même fermer son téléphone pendant nos séances de deep work. Si on ne peut pas éteindre ses collègues, il demeure possible de se retirer dans un endroit calme pour une séance de deep work. 
 
@@ -56,7 +57,7 @@ On doit remarquer qu'on parle de séance de deep work. Il n'est pas nécessaire 
 
 On apprend à alterner entre séances de travail superficiel (meetings, séances de collaboration entre collègues) et séances de deep work où toute notre attention est portée à notre travail.
 
-#### distractions internes
+### distractions internes
 
 Il demeure que le plus grand ennemi à l'atteinte de l'état de flow est notre propre esprit. Notre esprit est continuellement actif. Ce dialogue interne, le fait que nous nous parlions à nous-même, doit être pris en charge. 
 
@@ -66,7 +67,7 @@ La pratique régulière de la méditation est une méthode efficace pour dompter
 
 Tenir un journal de réflexion est aussi une bonne pratique pour libérer son esprit. L'écriture permet de canaliser le marasme d'idées et d'émotions qui embourbent notre esprit. En libérant notre esprit, on préserve son énergie. 
 
-Le tourment des idées qui s'enchaînent sans pouvoir s'échapper peut-être épuisant, non? 
+Le tourment des idées qui s'enchaînent sans pouvoir s'échapper peut être épuisant, non? 
 
 On veut que notre esprit soit un générateur d'idées de haute qualité. Pas un grenier où les entreposer!
 
