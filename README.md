@@ -1,3 +1,4 @@
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/socraticDevBlog/jamstackBlog?style=plastic)
 # Le blogue de socraticDev porte sur la technologie et la philosophie
 
 ## (2022-07-04) end of life
