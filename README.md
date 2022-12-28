@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5649699f-11d8-4880-befe-755133eccba8/deploy-status)](https://app.netlify.com/sites/modest-hugle-a4dc07/deploys)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/socraticDevBlog/jamstackBlog?style=plastic)
 # Le blogue de socraticDev porte sur la technologie et la philosophie
 
