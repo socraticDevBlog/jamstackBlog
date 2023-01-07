@@ -8,7 +8,7 @@ tags:
   - technologie
 ---
 
-En technologie, on peut soi innover soi imiter les autres.
+En technologie, on peut soit innover soit imiter les autres.
 
 ## Bloomberg Terminal: des dizaines de millier de dollars par mois
 
@@ -120,7 +120,7 @@ architectes de système en herbe. Les fournisseurs infonuagiques offrent des
 plate-formes de développement clé en main nous permettant de déployer un nouveau projet en
 production en peu de temps.
 
-En technologie, on peut soi innover soi imiter les autres.
+En technologie, on peut soit innover soit imiter les autres.
 
 Personne ne s'est jamais fait congédier pour avoir imité les autres ;)
 
