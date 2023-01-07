@@ -4,7 +4,7 @@ date: 2022-09-12
 author: "SocraticDev"
 image: ../../images/sbom.png
 tags:
-  - idée
+  - idées
   - sécurité
 ---
 
