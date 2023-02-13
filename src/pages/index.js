@@ -7,7 +7,10 @@ import PageLinks from "../components/page-links"
 import { Helmet } from "react-helmet"
 
 const IndexPage = () => {
-  const postsPerPage = 10
+
+  // todo: federate this value (have only one). it is also configured in 'gatsby-node.js'.
+  const postsPerPage = 20
+
   let numberOfPages
   return (
     <Layout pageTitle="">
