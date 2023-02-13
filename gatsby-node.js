@@ -99,9 +99,12 @@ exports.createPages = ({ actions, graphql }) => {
         },
       })
     })
-    const postsPerPage = 20
-    const pagesCount = Math.ceil(posts.length / postsPerPage)
 
+    // todo: federate this value (have only one). it is also configured in 'index.js'.
+    const postsPerPage = 20
+    
+    const pagesCount = Math.ceil(posts.length / postsPerPage)
+    
     Array.from({ length: pagesCount }).forEach((_, index) => {
       const isFirstPage = index === 0
       const currentPage = index + 1
