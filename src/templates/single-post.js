@@ -2,7 +2,7 @@ import React from "react"
 import Layout from "../components/layout"
 import { graphql, Link } from "gatsby"
 import Seo from "../components/seo"
-import { Card, CardSubtitle, CardBody, Badge } from "reactstrap"
+import { Card, CardTitle, CardSubtitle, CardBody, Badge } from "reactstrap"
 import Img from "gatsby-image"
 import { slugify } from "../util/util-functions"
 import { Helmet } from "react-helmet"
@@ -13,7 +13,7 @@ const rootUrlImg = "https://socratic.dev"
 const SinglePost = ({ data }) => {
   const post = data.markdownRemark.frontmatter
   return (
-    <Layout pageTitle={post.title}>
+    <Layout pageTitle="">
       <Seo title={post.title} />
 
       <Helmet>
@@ -55,6 +55,7 @@ const SinglePost = ({ data }) => {
           fluid={post.image.childImageSharp.fluid}
         />
         <CardBody>
+        <CardTitle>{post.title}</CardTitle>
           <p>
             <span className="text-secondary">{post.date}</span> par{" "}
             <span className="text-secondary">{post.author}</span>
