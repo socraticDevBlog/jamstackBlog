@@ -13,7 +13,7 @@ aide à atteindre un état de flow (_flow state_). Écouter de la musique en tra
 aide à élever leur niveau de concentration. 
 
 En se tournant vers le passé, on constate que les bienfaits de la musique sur
-le développement humain était déjà connu au moins depuis l'Antiquité grecque. Autant
+le développement humain étaient déjà connus au moins depuis l'Antiquité grecque. Autant
 l'éducation des jeunes Athéniens que celle des jeunes Spartiates était fondée sur
 deux disciplines: la gymnastique et la musique. La gymnastique comme activité
 préparant les jeunes aux rigueurs militaires. Mais aussi comme activité
@@ -21,12 +21,12 @@ excellente en soi. Le caractère combattif (agonal) des Grecs anciens
 s'exprimait notamment lors des jeux olympiques où le triomphe assurait aux
 vainqueurs d'être honorés par leurs pairs toute leur vie.
 
-La musique était quant à elle considérée comme l'art suprême. En "occupant une
+La musique était quant à elle considérée comme l'art suprême en "occupant une
 place essentielle dans la vie politique, sociale et religieuse de la Grèce
-Antique". Par nature intangible (non matérielle), la musique représente la
-porte d'entrée dans le monde de l'esprit: les mathématiques et la philosophie.
+Antique". Par sa nature intangible (non matérielle), la musique représente la
+porte d'entrée dans le monde de l'esprit: des mathématiques à la philosophie.
 De plus, l'apprentissage et la pratique de la mesure et la science des
-proportions revêt aussi un aspect éthique.
+proportions revêtent aussi un aspect éthique.
 
 https://www.wikiwand.com/fr/Musique_de_la_Gr%C3%A8ce_antique
 
@@ -36,12 +36,12 @@ _Rembetika_ est la musique qu'on associe le plus souvent à la Grèce. Le son du
 bouzouki, des tonalités orientales et des chants semblables à une litanie.
 
 Ce n'est pas tant un style musical qu'une sous-culture à part entière. La culture de la
-classe ouvrière et opprimée par l'occupant ottoman. La _rembetika_ c'est une façon artistique de
-résister à l'envahisseur. Une façon de se rappeler à soi-même.
+classe ouvrière et opprimée par l'occupant ottoman. La _rembetika_ est une
+façon artistique de résister à l'envahisseur. Une façon de se rappeler à soi-même.
 Affirmer son identité.
 
 On dit aussi que la _rembetika_ est le 'blues grec'. On comprend le _blues_
-comme un état d'esprit, un sentiment viscéral. Une façon d'exprimer des émotions
+comme un état d'esprit, comme un sentiment viscéral. Une manière d'exprimer des émotions
 complexes comme l'origine perdue et le déracinement. Un état d'esprit l'espoir et
 le désespoir.
 
@@ -73,8 +73,8 @@ vautrer dans notre zone de confort.
 On doit écouter la musique de Genesis P-Orridge, _COUM Transmissions_ et
 _Throbbing Gristle_ à dessein. Comme dans tout art d'avant-garde, il y a une recherche
 artistique préalable à la production. Pour apprécier cette musique un travail
-intellectuel est nécessaire. On fait des recherches sur l'histoire de
-l'artiste, sur sa philosophie et son message. Ca nous aide à dépasser
+intellectuel est nécessaire. On est récompensé d'avoir fait des recherches sur l'histoire de
+l'artiste, sa philosophie et son message. Ca nous aide à dépasser
 l'inconfort et tirer profit du message de l'artiste. 
 
 - https://www.wikiwand.com/en/Genesis_P-Orridge
@@ -84,7 +84,7 @@ l'inconfort et tirer profit du message de l'artiste.
 
 ## guérir par la musique
 
-La musique du village marocain de Jahejouka fut rendue populaire en occident
+La musique du village marocain de Jahejouka fut popularisée en occident
 dans les années 1960 par le guitariste des Rolling Stones Brian
 Jones et Timothy Leary, le porte-parole de la culture psychédélique.
 
