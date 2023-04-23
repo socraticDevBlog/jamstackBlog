@@ -132,3 +132,6 @@ technologies à utiliser pour livrer une solution parfaite.
 
 La clé du succès c'est de livrer un produit qui répond aux besoins du client.
 Ni davantage ni moins.
+
+<small>attribution pour l'image d'en-tête: <a href="https://www.vecteezy.com/free-vector/sign">Sign Vectors by Vecteezy</a>
+</small>
