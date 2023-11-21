@@ -68,12 +68,6 @@ farce dans la communauté technologique.
 Avec OpenAI et le congédiement de Sam Altman, le Conseil d'administration a
 vraisemblablement manqué de prudence et de jugement. 
 
-Les noms d'Ilya Sutskever, d'Helen Toner, de Tasha McCauley et d'Adam D'Angelo,
-les membres du conseil d'administration ayant maladroitement éjecté Salm
-Altman pour "manque de candeur", seront-ils désormais marqué du soupçon et de
-la méfiance qu'inspire tout fomenteur de mutineries?
-
-
 ### sources
 
 [https://www.cnbc.com/2023/11/18/heres-whos-on-openais-board-the-group-behind-sam-altmans-ouster.html](https://www.cnbc.com/2023/11/18/heres-whos-on-openais-board-the-group-behind-sam-altmans-ouster.html)
