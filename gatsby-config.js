@@ -7,6 +7,7 @@ module.exports = {
   },
   flags: { PRESERVE_WEBPACK_CACHE: true, PARALLEL_QUERY_RUNNING: true },
   plugins: [
+    `gatsby-plugin-image`,
     {
       resolve: `gatsby-plugin-feed`,
       options: {
