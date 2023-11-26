@@ -7,7 +7,6 @@ import PageLinks from "../components/page-links"
 import { Helmet } from "react-helmet"
 
 const IndexPage = () => {
-
   // todo: federate this value (have only one). it is also configured in 'gatsby-node.js'.
   const postsPerPage = 20
 
@@ -48,7 +47,7 @@ const IndexPage = () => {
                   slug={node.fields.slug}
                   date={node.frontmatter.date}
                   body={node.excerpt}
-                  fluid={node.frontmatter.image.childImageSharp.fluid}
+                  fluid={node.frontmatter.image.childImageSharp.gatsbyImageData}
                   tags={node.frontmatter.tags}
                 />
               ))}
@@ -77,9 +76,13 @@ const indexQuery = graphql`
             tags
             image {
               childImageSharp {
-                fluid(maxHeight: 200, maxWidth: 600) {
-                  ...GatsbyImageSharpFluid_withWebp
-                }
+                gatsbyImageData(
+                  layout: CONSTRAINED
+                  width: 1000
+                  height: 300
+                  placeholder: DOMINANT_COLOR
+                  formats: [AUTO, WEBP]
+                )
               }
             }
           }

@@ -3,7 +3,7 @@ import Layout from "../components/layout"
 import { graphql, Link } from "gatsby"
 import Seo from "../components/seo"
 import { Card, CardTitle, CardSubtitle, CardBody, Badge } from "reactstrap"
-import Img from "gatsby-image"
+import { GatsbyImage, getImage, getSrc } from "gatsby-plugin-image"
 import { slugify } from "../util/util-functions"
 import { Helmet } from "react-helmet"
 
@@ -12,6 +12,8 @@ const rootUrlImg = "https://socratic.dev"
 
 const SinglePost = ({ data }) => {
   const post = data.markdownRemark.frontmatter
+  const img = getImage(post.image.childImageSharp.gatsbyImageData)
+  const imgSrc = getSrc(img)
   return (
     <Layout pageTitle="">
       <Seo title={post.title} />
@@ -24,18 +26,12 @@ const SinglePost = ({ data }) => {
           property="og:description"
           content={`${data.markdownRemark.excerpt}`}
         />
-        <meta
-          property="og:image"
-          content={`${rootUrlImg}${post.image.childImageSharp.fluid.src}/`}
-        />
+        <meta property="og:image" content={`${rootUrlImg}${imgSrc}/`} />
         <meta
           property="og:url"
           content={`${rootUrl}${data.markdownRemark.fields.slug}/`}
         />
-        <meta
-          property="twitter:image"
-          content={`${rootUrlImg}${post.image.childImageSharp.fluid.src}`}
-        />
+        <meta property="twitter:image" content={`${rootUrlImg}${imgSrc}`} />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
@@ -50,12 +46,12 @@ const SinglePost = ({ data }) => {
       </Helmet>
 
       <Card>
-        <Img
+        <GatsbyImage
           className="card-image-top"
-          fluid={post.image.childImageSharp.fluid}
+          image={post.image.childImageSharp.gatsbyImageData}
         />
         <CardBody>
-        <CardTitle>{post.title}</CardTitle>
+          <CardTitle>{post.title}</CardTitle>
           <p>
             <span className="text-secondary">{post.date}</span> par{" "}
             <span className="text-secondary">{post.author}</span>
@@ -100,10 +96,13 @@ export const postQuery = graphql`
         tags
         image {
           childImageSharp {
-            fluid(maxHeight: 200, maxWidth: 600) {
-              src
-              ...GatsbyImageSharpFluid
-            }
+            gatsbyImageData(
+              layout: CONSTRAINED
+              width: 1000
+              height: 300
+              placeholder: DOMINANT_COLOR
+              formats: [AUTO, WEBP]
+            )
           }
         }
       }
