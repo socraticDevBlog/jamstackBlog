@@ -2,13 +2,48 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/socraticDevBlog/jamstackBlog?style=plastic)
 # Le blogue de socraticDev porte sur la technologie et la philosophie
 
-## (2022-07-04) end of life
 
-Situation critique: il devient de plus en plus difficile pour moi de compiler le site en local. Je constate la présence de plusieurs vulnérabilités. Beaucoup de librairies utilisées ne sont plus maintenu.
+on utilise le framework [Gatsby - The Best React-Based
+Framework](https://www.gatsbyjs.com/) pour générer ce blogue. Un site web
+simple et réactif doté de peu de _features_:
 
-La décision que je dois prendre c'est soit recoder l'ensemble du site avec des technologies à jour ou mettre à jour le site, une dépendance à la fois.
+1. blog posts rédigés dans des fichiers markdown
+2. un serveur GraphQL intégré qui manage les blog posts en fonction du
+   meta-data (frontMatter) ajouté dans l'en-tête de tous les fichiers markdowns
+3. un feed RSS
+4. une liste de sujets discutés dans le blogue (généré dynamiquement)
 
-À suivre.
+## en production
+
+le site web est buildé et déployé sur le CDN de
+[netlify](https://www.netlify.com/) via une intégration simple avec github
+
+> Netlify is the modern development platform for Enterprises to realize the speed, agility and performance of a scalable, composable web architecture.
+
+## rouler le site web localement en mode _développement_ (macOS, linux)
+
+_l'utilisation est [nvm - Node Version Manager](https://github.com/nvm-sh/nvm)
+est recommendé_
+
+```bash
+git clone git@github.com:socraticDevBlog/jamstackBlog.git
+
+cd jamstackBlog
+```
+
+install appropriate NodeJs as configured in  `.nvmrc` file
+```bash
+nvm install
+
+node --version # to validate node installation
+```
+
+install project dependencies with npm
+```bash
+npm install .
+```
+
+run website locally to url [localhost:8000](http://localhost:8000)
 
 ![assets de socraticDev](src/images/assets.jpeg?raw=true)
 
