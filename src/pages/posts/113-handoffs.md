@@ -35,9 +35,9 @@ le processus de transfert ("livraison") ne peut pas être terminé.
 
 Les transferts sont un type spécifique de dépendances qui se produisent au sein
 d'une équipe ou d'un ensemble d'équipes collaborant ensemble. Les transferts se
-produisent lorsqu'un élément de travail est travaillé et transmis à la personne
-suivante dans la chaîne ; pour qu'elle y travaille selon une expertise
-spécifiques. Par exemple, un chef de produit confie une user story au
+produisent lorsqu'un élément de travail est pris en charge puis transmis à la personne
+suivante dans la chaîne ; pour qu'elle y travaille selon son expertise
+particulière. Par exemple, un chef de produit confie une _user story_ au
 concepteur de l'équipe pour qu'il conçoive comment cette fonctionnalité
 est inclus dans le produit. Une fois le travail du designer terminé, il le remet
 aux développeurs. Une fois la fonctionnalité implémentée, les développeurs la transmettent
@@ -63,14 +63,17 @@ soigneusement analysés et traités car ils ralentissent la création de valeur.
 ### conclusion
 
 Les dépendances et les transferts sont des effets secondaires intrinsèques du travail dans les logiciels
-et l'ingénierie des systèmes. Ils ne sont pas intrinsèquement mauvais. Mais ils devraient obtenir
-minimisés afin d’améliorer le flux de livraison de valeur.
+et l'ingénierie des systèmes. Ils ne sont pas mauvais en eux-mêmes. Mais ils
+devraient certainement être minimisés afin d’améliorer le flux de livraison de valeur.
 
 Être capable d’identifier ces goulots d’étranglement est un pas dans la bonne direction. Ça
 signifie que vous êtes déjà en mesure de visualiser le _work in progress_ (WIP)
-et vous faire une meilleure idée de la nature des goulots d’étranglement qui ralentissent votre flux de valeur.
+et vous faire une meilleure idée de la nature des goulots d’étranglement qui
+ralentissent votre __flux de valeur__(value stream).
 
-La prochaine étape de votre parcours d'amélioration continue consistera à améliorer les _boucles de rétroaction_.
+La prochaine étape de votre parcours d'amélioration continue consistera à
+relever le défi des __boucles de rétroaction__(feedback loops).
+
 En vous demandant : 
 
 - « Est-ce que je construis la bonne chose ? »  
