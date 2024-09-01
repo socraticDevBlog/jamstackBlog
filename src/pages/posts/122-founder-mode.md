@@ -8,17 +8,29 @@ tags:
   - business  
 ---
 
-Le dernier article de blog du fondateur de YC, Paul Graham, est excellent.
+J'ai bien aimé lire le dernière _blog post_ de Paul Graham, le fameux fondateur
+du YCombinator de la Silicon Valley
 
-Faisant suite à une récente intervention de Brian Chesky, il remet en question l'idée selon laquelle les start-ups devraient être confiées à des managers professionnels lorsqu'elles atteignent un certain stade de maturité.
+Inspiré par le récent _talk_ de Brian Chesky (PDF d'Airbnb), Paul Graham met de
+l'avant l'idée de garder les fondateurs de sa start-up une fois rendue mature
 
-> Le thème de l'intervention de Brian était que la sagesse conventionnelle sur la manière de gérer les grandes entreprises est erronée. À mesure qu'Airbnb grandissait, des personnes bien intentionnées lui conseillaient qu'il devait diriger l'entreprise d'une certaine manière pour qu'elle puisse se développer. Leur conseil pourrait être résumé de manière optimiste par "embaucher de bonnes personnes et leur donner de l'espace pour faire leur travail". Il a suivi ce conseil, et les résultats ont été désastreux.
+> Le thème de l'intervention de Brian était que la sagesse conventionnelle sur
+> la manière de gérer les grandes entreprises est erronée. À mesure qu'Airbnb
+> grandissait, des personnes bien intentionnées lui conseillaient qu'il devait
+> diriger l'entreprise d'une certaine manière pour qu'elle puisse se
+> développer. Leur conseil pourrait être résumé de manière optimiste par
+> "embaucher de bonnes personnes et leur donner de l'espace pour faire leur
+> travail". Il a suivi ce conseil, et les résultats ont été désastreux.
 
-En conclusion, Graham plaide pour une réévaluation de la perception du leadership dans les entreprises en croissance, suggérant que le leadership fort et pratique des fondateurs devrait être plus largement accepté et valorisé, plutôt que de faire automatiquement confiance aux managers professionnels qui peuvent ne pas s'aligner avec la vision originale de l'entreprise.
+Graham plaide donc pour le retour d'un leadership fort et pratique des
+fondateurs plutôt que de faire automatiquement confiance aux gestionnaires de carrière
 
 ### Les managers professionnels peuvent être nuisibles
 
-Graham est particulièrement critique envers les managers professionnels, les qualifiant de "faux professionnels" et de "menteurs habiles" capables de conduire les entreprises à leur perte. Il pense que le problème fondamental est que ces managers manquent souvent de la connexion profonde avec la mission de l'entreprise que les fondateurs possèdent.
+Graham est particulièrement critique envers les managers professionnels, les
+qualifiant de "comédiens" et de "menteurs habiles" capables de conduire les
+entreprises à leur perte.
+
 
 ### Mode Fondateur
 
@@ -28,7 +40,13 @@ Pour contrer cela, Graham propose le concept de "mode fondateur", où les fondat
 
 En dehors de Steve Jobs, je peux penser à DHH de Basecamp et à Elon Musk, qui ont choisi de rester responsables de la vision de leur entreprise.
 
-Graham plaide pour une réévaluation de la perception du leadership dans les entreprises en croissance, suggérant que le leadership fort et pratique des fondateurs devrait être plus largement accepté et valorisé, plutôt que de faire automatiquement confiance aux managers professionnels qui peuvent ne pas s'aligner avec la vision originale de l'entreprise.
+Graham plaide pour une réévaluation de la perception du leadership dans les
+entreprises en croissance, suggérant que le leadership fort et pratique des
+fondateurs devrait être plus largement accepté et valorisé, plutôt que de faire
+automatiquement confiance aux managers professionnels qui peuvent ne pas
+s'aligner avec la vision originale de l'entreprise.
+
+`Traduit de l'anglais par chatGPT puis retravaillé par l'auteur`
 
 ### Sources
 
