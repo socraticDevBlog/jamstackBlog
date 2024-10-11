@@ -85,7 +85,7 @@ qualité définie"(SLA - Service Level Agreement).
 ### conclusion
 
 « construisez-le (votre produit SaaS) et ils viendront » n'est pas une stratégie viable.
-L’économie régule votre succès et votre échec ! Offrir de la valeur aux clients est votre raison d'être. 
+L’économie régule votre succès et votre échec ! Offrir de la valeur aux clients est votre raison d'être.
 
 Être le premier à commercialiser ; détenir le monopole d'une niche ou d'un marché restent des stratégies commerciales solides.
 
@@ -96,7 +96,7 @@ Comment tu fais ça? Cela dépend de qui vous êtes !
 Une startup Lean commencera par
 une idée, de nombreuses compétences en cloud computing et une carte de crédit. Ils construiront un
 MVP (minimal viable product) afin de rapidement le mettre entre les mains de
-clients. 
+clients.
 
 Comment? En « externalisant » la plupart des infrastructures
 aspects liés aux services cloud gérés (sans serveur, authentification, stockage, etc.)

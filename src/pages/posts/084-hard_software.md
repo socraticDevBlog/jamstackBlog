@@ -10,13 +10,13 @@ tags:
 
 Robert States est un ingénieur mécanique spécialisé dans le design de produits de plastique. Interviewé au sujet de son expérience de partenaire dans la firme de consultation [Stress Engineering Services inc.](https://www.stress.com), l'ingénieur se décrit comme le personnage du film _Pulp Fiction_: Winston Wolf. Ce personnage joué par Harvey Keitel appelé d'urgence pour camoufler le résultat d'un meurtre commis dans une voiture par un des personnages principal du film.
 
-> "I am Winston Wolfe. I solve problems."  
+> "I am Winston Wolfe. I solve problems."
 >
 > "It's about 30 minutes away, I'll be there in 10."
 
 Lors de cette interview centrée sur le thème de la résolution de problèmes, Robert States souligne les avantages qu'apportent une firme de consultation dans le développement de produits manufacturés destinés à des industries hautement réglementée comme l'industrie médicale.
 
-En tant que développeur de logiciels, ma curiosité a été attisée : est-ce que l'industrie du software aurait des leçons à tirer du processus de design de produits physiques ? 
+En tant que développeur de logiciels, ma curiosité a été attisée : est-ce que l'industrie du software aurait des leçons à tirer du processus de design de produits physiques ?
 
 En terme de fiabilité à long terme.
 
@@ -39,7 +39,7 @@ Robert States énumère quatre façons courantes menant à des échecs dans le d
 
 ##### un anti-pattern organisationnel menant aux échecs
 
-Un taux de roulement élevé au sein d'une organisation est problématique. 
+Un taux de roulement élevé au sein d'une organisation est problématique.
 
 Dans une telle organisation, il n'y a personne d'expérimentée connaissant l'historique des projets de l'organisation. Selon Robert States, il est primordial que ces gens expérimentés soient totalement inclus dans le développement de projets afin de transmettre la 'connaissance tribale' aux nouveaux membres de l'organisation.
 

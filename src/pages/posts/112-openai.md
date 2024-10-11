@@ -16,7 +16,7 @@ startups technos et du financement par investissement en capital-risque
 (venture capitalism).
 
 Son objectif avec OpenAI était de `packager` l'intelligence
-artificielle pour la mettre entre les mains du public en général. 
+artificielle pour la mettre entre les mains du public en général.
 
 OpenAI est une organisation à but non-lucratif connue comme le leader mondial en
 intelligence artificielle. Le `chatbot` ChatGPT fut notamment développé par
@@ -50,7 +50,7 @@ artificielle.
 Sam Altman, représentant des gens qui veulent accélerer le développement de
 l'intelligence artificielle, a résisté avec brio à l'attaque mal préparée du
 reste du conseil d'administration ; surtout de son chercheur principal Ilya
-Sustskever. 
+Sustskever.
 
 ### conclusions "philosophiques"
 
@@ -66,7 +66,7 @@ confiance d'une grande part de leurs employés et sont devenus les dindons de la
 farce dans la communauté technologique.
 
 Avec OpenAI et le congédiement de Sam Altman, le Conseil d'administration a
-vraisemblablement manqué de prudence et de jugement. 
+vraisemblablement manqué de prudence et de jugement.
 
 ### sources
 

@@ -12,7 +12,7 @@ Programmer c'est établir un parcours complexe où, peu importe quelle informati
 
 Ces 'parcours complexes' ont le nom d'algorithme. Un algorithme est comme une recette : une séquence d'opérations bien définies sur des ingrédients précis qui garantit un succès presqu'assuré.
 
-Imaginons que nous sommes perdus dans une campagne inconnue et nous désirons rejoindre la ville la plus proche. Nous rencontrons deux frères à la croisée des chemins. Un est réputé pour dire la vérité à tout coup alors que l'autre est un absolu menteur. Mais nous ne savons pas, des deux, qui est le véridique et qui est le menteur. D'emblée nous sommes tentés de nous attaquer au problème insoluble de déterminer lequel nous dira la vérité. 
+Imaginons que nous sommes perdus dans une campagne inconnue et nous désirons rejoindre la ville la plus proche. Nous rencontrons deux frères à la croisée des chemins. Un est réputé pour dire la vérité à tout coup alors que l'autre est un absolu menteur. Mais nous ne savons pas, des deux, qui est le véridique et qui est le menteur. D'emblée nous sommes tentés de nous attaquer au problème insoluble de déterminer lequel nous dira la vérité.
 
 C'est en vain !
 

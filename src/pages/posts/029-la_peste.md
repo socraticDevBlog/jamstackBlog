@@ -9,7 +9,7 @@ tags:
 
 Le roman _La Peste_ d'Albert Camus fut publié au mois de juin 1947. Depuis le début de la pandémie de Covid-19, beaucoup de lecteurs se sont procuré une copie du livre ou ont fouillé dans leur bibliothèque pour le relire.
 
-On y suit l'évolution de la peste dans une ville d'Algérie française. C'est surtout le parcours du docteur Bernard Rieux qui nous fait pénétrer dans l'esprit de cette ville qui passe du déni, à la colère, à la négociation et l'acceptation. 
+On y suit l'évolution de la peste dans une ville d'Algérie française. C'est surtout le parcours du docteur Bernard Rieux qui nous fait pénétrer dans l'esprit de cette ville qui passe du déni, à la colère, à la négociation et l'acceptation.
 
 Le narrateur présente subtilement des thèmes et questions philosophiques comme l'angoisse et l'absurdité de l'existence humaine. Camus offre même un clin d'oeil aux amis par la mort sur scène d'un comédien interprétant _Orphée et Eurydice_ à l'opéra municipal.
 

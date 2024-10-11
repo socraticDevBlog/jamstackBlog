@@ -11,7 +11,7 @@ tags:
 Je me demande parfois si ça emmerde les gens que je publie des hyperliens
 relatifs à mes recherches et travaux sur LinkedIn.
 
-Je comprends la nature de l'inconfort. 
+Je comprends la nature de l'inconfort.
 
 Certains croient que les publications sur LinkedIn sont motivés par le désir de
 recevoir des accolades. D'autres
@@ -19,7 +19,7 @@ concluent que la plupart des commentaires publiés se résument à des flatterie
 superficielles. Finalement, beaucoup de prudents s'auto-censurent de peur que
 leurs propos soient mal reçus ou dérangent.
 
-## l'opinion de Jeff Atwood, fondateur de la plateforme __Stack Overflow__
+## l'opinion de Jeff Atwood, fondateur de la plateforme **Stack Overflow**
 
 Le succès du web 2.0 est de permettre à tous d'interagir publiquement ensemble. Que ce
 soit en publiant des évaluations de restaurants ou en félicitant un collègue
@@ -37,7 +37,7 @@ professionnel en évitant de discuter publiquement de leurs intérêts, leurs
 passions et leurs défis ?
 
 Le développeur informatique Jeff Atwood bien conscient des écueils à "se
-publier" sur Internet juge que le jeu en vaut la chandelle: 
+publier" sur Internet juge que le jeu en vaut la chandelle:
 
 > Cela ne veut pas dire que nous devrions remplir le monde de bruit sur tous les aspects banals de notre existence. Mais qui décide de ce qui est banal ? Qui décide de ce qui est intéressant ? Tout est intéressant pour quelqu'un, même si cette personne n'est que vous et quelques autres personnes dans le monde.
 >
@@ -46,8 +46,8 @@ publier" sur Internet juge que le jeu en vaut la chandelle:
 > chaque contribution, aussi petite soit-elle, nous enrichit tous. Mais plus
 > égoïstement, si vous souhaitez tirer le meilleur parti de votre travail, rien
 > ne remplace le fait de le rendre public et trouvable. L'obscurité c'est nul.
-> Mais l'obscurité par choix est irrationnelle. __En cas de doute, rendez-le
-> public__.
+> Mais l'obscurité par choix est irrationnelle. **En cas de doute, rendez-le
+> public**.
 
 ## pourquoi publier ?
 
@@ -69,4 +69,3 @@ Si notre contenu n'intéressera que 5% de nos contacts, alors souhaitons que les
 ## sources
 
 https://blog.codinghorror.com/when-in-doubt-make-it-public/
-

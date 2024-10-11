@@ -59,7 +59,7 @@ que Gino s'est brûlé pour être simplement une mauvaise scientifique.
 ### risques et devoir
 
 Pourquoi tolérerions-nous qu’on nous abuse et qu’on nous mente ?
-Qu'est-ce qui incite quelqu'un à vouloir tromper autrui en premier lieu ? 
+Qu'est-ce qui incite quelqu'un à vouloir tromper autrui en premier lieu ?
 
 Il s'agirait d'incitatifs tel que l'argent et la réputation, selon la
 couverture médiatique du scandale Dan Ariely et Francesca Gino. Ces deux  
@@ -83,10 +83,10 @@ ses méthodes de recherche douteuses. Une étudiante française,
 Zoé Ziani, avait ouvertement douté de la science de Gino. Mais ses professeurs l'auraient invité
 à se taire :
 
->Lorsqu’elle a exprimé ses doutes, son directeur de thèse lui aurait lancé : «
->Ne dis jamais ça ! [...] Dans un e-mail, un autre professeur aurait écrit : « La recherche
->universitaire est comme une conversation lors d'un cocktail. Vous faites
->irruption en criant « Tu es nul ! »
+> Lorsqu’elle a exprimé ses doutes, son directeur de thèse lui aurait lancé : «
+> Ne dis jamais ça ! [...] Dans un e-mail, un autre professeur aurait écrit : « La recherche
+> universitaire est comme une conversation lors d'un cocktail. Vous faites
+> irruption en criant « Tu es nul ! »
 > <cite>Gideon Lewis-Kraus (2023), "The New Yorker"</cite>
 
 Le monde universitaire est en effet un écosystème étrange. Les professeurs
@@ -128,7 +128,7 @@ sagesse et de leçons de vie.
 Premièrement, nous devons nous abstenir de faire aveuglément confiance aux gens
 ; surtout ceux qui semblent jouir d'une renommée inédite. Bien sûr, nous devrions
 faire confiance aux autres, mais nous devons également être prudents et
-vérifier la solidité de leurs propositions. 
+vérifier la solidité de leurs propositions.
 
 #### protégez-vous et protégez votre carrière
 

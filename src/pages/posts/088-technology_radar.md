@@ -26,7 +26,7 @@ Les techniques incluent le processus de développement, le design, l'architectur
 
 Les outils incluent les systèmes de base de données, les outils utilisés par les développeurs comme les IDEs, le système de contrôle de version, etc.
 
-Les plateformes concernent le choix de technologies sur lesquelles le code va être déployés (runtimes). Ca concerne aussi le choix d'infrastructure : allons-nous utiliser un cloud hybride ?  allons-nous consommez davantage de services clef-en-main d'un fournisseur public en infonuagique ?
+Les plateformes concernent le choix de technologies sur lesquelles le code va être déployés (runtimes). Ca concerne aussi le choix d'infrastructure : allons-nous utiliser un cloud hybride ? allons-nous consommez davantage de services clef-en-main d'un fournisseur public en infonuagique ?
 
 ## les quadrants du radar
 
@@ -46,19 +46,19 @@ Le quadrant où placer les éléments que vous avez essayé ou qui sont prêts �
 
 #### `adopt`
 
-On place les éléments qui ont fait leurs preuve dans le quadrant `adopt`.  Ce sont des technologies dont la valeur et la fiabilité a été démontrée. Ils sont prêts à être utilisé et seront maintenus à long terme.
+On place les éléments qui ont fait leurs preuve dans le quadrant `adopt`. Ce sont des technologies dont la valeur et la fiabilité a été démontrée. Ils sont prêts à être utilisé et seront maintenus à long terme.
 
 ## les avantages 'business'
 
-L'utilisation du `Technology Radar` a un impact positif sur différents secteurs de l'organisation. 
+L'utilisation du `Technology Radar` a un impact positif sur différents secteurs de l'organisation.
 
-En participant à la création et la mise à jour du radar, les __équipes de développement__ ont le sentiment d'être entendus et surtout le sentimement d'avoir le contrôle sur les technologies utilisées au quotidien. Concrètement, les équipes de développement acquiert une autonomie dans ses décisions. Elles peuvent consulter le plus récent radar et prendre des décisions immédiates au lieu de demander l'assistance d'une autre équipe.
+En participant à la création et la mise à jour du radar, les **équipes de développement** ont le sentiment d'être entendus et surtout le sentimement d'avoir le contrôle sur les technologies utilisées au quotidien. Concrètement, les équipes de développement acquiert une autonomie dans ses décisions. Elles peuvent consulter le plus récent radar et prendre des décisions immédiates au lieu de demander l'assistance d'une autre équipe.
 
-Pour le __gestionnaire__, la création d'un radar rend toutes les parties prenantes conscientes des coûts et des besoins encourus par le parc technologique de l'organisation. Autant au niveaux des achats (`capx` et `opx`) que des compétences requises de la part des développeurs.
+Pour le **gestionnaire**, la création d'un radar rend toutes les parties prenantes conscientes des coûts et des besoins encourus par le parc technologique de l'organisation. Autant au niveaux des achats (`capx` et `opx`) que des compétences requises de la part des développeurs.
 
-Pour les __responsables de produits__, on accélère le développement et la mise en marché en évitant l'inertie et le chaos inhérent à un catalogue technologique débridé.
+Pour les **responsables de produits**, on accélère le développement et la mise en marché en évitant l'inertie et le chaos inhérent à un catalogue technologique débridé.
 
-Pour l'équipe des __ressources humaines et des recruiteurs__, le radar permet de mieux cibler les candidats potentiels. En ayant le radar en main, un recruteur peut mieux informer le candidat des technologies privilégiés dans son prochain emploi. Finalement, grâce au radar, un comité d'embaûche peut prendre une décision plus éclairée. Par exemple, si un candidat possède uniquement de l'expérience dans les technologies du quadrant `hold` - c'est-à-dire des technologies dont l'organisation veut cesser l'utilisation - alors on peut en discuter ouvertement lors de l'entrevue.
+Pour l'équipe des **ressources humaines et des recruiteurs**, le radar permet de mieux cibler les candidats potentiels. En ayant le radar en main, un recruteur peut mieux informer le candidat des technologies privilégiés dans son prochain emploi. Finalement, grâce au radar, un comité d'embaûche peut prendre une décision plus éclairée. Par exemple, si un candidat possède uniquement de l'expérience dans les technologies du quadrant `hold` - c'est-à-dire des technologies dont l'organisation veut cesser l'utilisation - alors on peut en discuter ouvertement lors de l'entrevue.
 
 ## produire un `Technology Radar`
 
@@ -67,6 +67,7 @@ La création d'un radar est un exercice collaboratif. On doit impliquer des dév
 C'est un dialogue ouvert où on discute du futur de différentes technologies utilisées au sein de l'organisation.
 
 Des critères généraux guident la classification:
+
 - coûts en argent et en acquisition de compétences
 - sécurité du produit
 - expérience de développement et vitesse d'itération
@@ -87,8 +88,7 @@ Certaines compagnies comme [thoughtworks.com](https://www.thoughtworks.com/radar
 ## sources
 
 [CNCF end user technology radar, September 2021 - DevSecOps
-](https://www.youtube.com/watch?v=UxooaG1WWRg)  
+](https://www.youtube.com/watch?v=UxooaG1WWRg)
 
 [https://www.linkedin.com/pulse/technology-radar-karen-cleale
-](https://www.linkedin.com/pulse/technology-radar-karen-cleale
-)
+](https://www.linkedin.com/pulse/technology-radar-karen-cleale)

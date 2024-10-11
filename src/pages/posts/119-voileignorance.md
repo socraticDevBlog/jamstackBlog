@@ -41,11 +41,11 @@ autre sexe que leur sexe biologique.
 ### l'inéxorable limite du concret
 
 La pensée abstraite a permis aux philosophes de réfléchir à des thèmes comme la
-justice et la science. 
+justice et la science.
 
 En géométrie par exemple, il est question de points,
 d'angles et de théorème à partir desquels on peut tracer différentes formes
-concrètes. 
+concrètes.
 
 Le plus grand mal de l'humanité est de ne plus être en mesure de penser de
 façon abstraite. Nous sommes enchaînés aux ombres des cas particuliers. La
@@ -95,11 +95,10 @@ bleus, est-ce que la décision de cette société est juste ?
 
 > Le voile d'ignorance est une notion philosophique développée par Thomas Hobbes, John Locke et Emmanuel Kant, formalisée par John Harsanyi et reprise par John Rawls dans son ouvrage Théorie de la justice (1971). C'est une méthode pour établir la moralité d'un problème qui s'appuie sur l'expérience de pensée consistant à se mettre dans une position originelle et à faire abstraction de ses goûts, ses attributs et sa position dans l'espace social.
 >
-><br/>
+> <br/>
 > En étant derrière ce voile d'ignorance, les individus sont censés prendre des décisions équitables et justes, car ils ne sont influencés ni par des intérêts personnels ni des préjugés favorisant une certaine position sociale ou économique. L'objectif est de parvenir à des principes de justice qui bénéficieront à tous les membres de la société, indépendamment de leur position initiale.
-><br/>
+> <br/>
 > <cite>wikipedia.fr, "voile d'ignorance"</cite>
-
 
 ### sources
 

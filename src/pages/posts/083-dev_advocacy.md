@@ -7,11 +7,13 @@ tags:
   - carrière
   - croissance
 ---
+
 Le logiciel est le moteur de tous les aspects de l'économie. Au bas de l'industrie se trouvent les développeurs de logiciels. Les développeurs sont les artisans du logiciel. C'est super et pas si bien à la fois. Pas si terrible car ils sont souvent victimes de pressions et de frictions de la part de leurs collègues et de l'entreprise qu'ils servent.
 
 Lors d'un déjeuner-causerie en ligne organisé par [Parasoft](https://www.parasoft.com/), trois spécialistes en développement de logiciels ont discuté de sujets tels que la défense des intérêts des développeurs, l'accent mis sur la sécurité et les métriques `DORA`. Le titre du webinaire était [Why Developer Advocacy Is the Key to Transforming Your DevOps Environment](https://www.parasoft.com/webinar/why-developer-advocacy-is-the-key-to-transforming-your-devops-environment/)
 
 `Developer Advocacy` est un mouvement informel mené par des techleads et des managers éclairés. Ils croient qu'un bon logiciel n'est possible que lorsque les développeurs sont correctement évalués par l'entreprise. Les enjeux pertinents au succès des développeurs consistent en :
+
 - la sécurité psychologique
 - la formation continue rémunérée pendant les heures de travail
 - l'intégration attentive des nouveaux développeurs
@@ -40,7 +42,8 @@ Les cabinets de conseil doivent promouvoir la qualité logiciel et la santé pro
 > Un bon logiciel est construit par des équipes ayant une vision commune. Des développeurs soucieux du produit. Des développeurs soucieux des utilisateurs finaux.
 
 ## promouvoir la formation des développeurs
-Bryan Finster déclare carrément que "les collèges et les bootcamps ne produisent pas de bons développeurs". L'embauche de développeurs juniors implique la nécessité de les éduquer pour répondre aux besoins de l'entreprise. Tracy Bannon parle d'un recalibrage de leurs compétences. 
+
+Bryan Finster déclare carrément que "les collèges et les bootcamps ne produisent pas de bons développeurs". L'embauche de développeurs juniors implique la nécessité de les éduquer pour répondre aux besoins de l'entreprise. Tracy Bannon parle d'un recalibrage de leurs compétences.
 
 L'enseignement est souvent déphasée par rapport à la réalité de l'industrie. Tracy Bannon utilise le terme `influence forward` en mettant de l'avant la nécessité, pour l'industrie du logiciel, d'aller dans les collèges pour discuter des compétences nécessaires aux futurs développeurs. Elle souligne que certaines grandes organisations technologiques sont déjà en relation avec certaines institutions académiques. Mais de telles initiatives sont encore rares.
 
@@ -53,4 +56,5 @@ Lors des entretiens d'embauche, lorsqu'on leur demande comment ils se tiennent �
 Jusqu'à ce que les développeurs soient considérés comme des `code monkeys`, nous aurons besoin d'un plaidoyer des développeurs pour améliorer l'industrie du logiciel.
 
 ##### sources
+
 [https://www.parasoft.com/webinar/why-developer-advocacy-is-the-key-to-transforming-your-devops-environment/](https://www.parasoft.com/webinar/why-developer-advocacy-is-the-key-to-transforming-your-devops-environment/)

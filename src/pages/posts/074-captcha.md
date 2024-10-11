@@ -12,6 +12,7 @@ L'acronyme `CAPTCHA` signifie littéralement "Completely Automated Public Turing
 On utilise aussi la procédure pour limiter le `spam` pouvant être généré par des robots malveillants.
 
 ##### qu'est-ce qu'un test de Turing ?
+
 Le `test de Turing` est aussi appelé `jeu d'imitation`. Il s'agit d'un jeu où l'ordinateur tente d'imiter le comportement humain. Si on ne réussit pas à distinguer l'humain de la machine, alors la machine a passé le test avec succès.
 
 Dans le contexte du `CAPTCHA` on tente de faire l'inverse : prouver que l'utilisateur est bel et bien un être humain.
@@ -21,12 +22,14 @@ Dans le contexte du `CAPTCHA` on tente de faire l'inverse : prouver que l'utilis
 > Si la personne qui engage les conversations n’est pas capable de dire lequel de ses interlocuteurs est un ordinateur, on peut considérer que le logiciel de l’ordinateur a passé avec succès le test. Cela sous-entend que l’ordinateur et l’humain essaieront d’avoir une apparence sémantique humaine."
 
 ##### invention académique
+
 Le `CAPTCHA` est une marque déposée de l'université américaine Carnegie-Mellon. Mais, des ingénieurs du défunt moteur de recherche `Altavista` soutiennent avoir développé un processus pour contrer les mécanismes de reconnaissance de caractères (`OCR`) d'attaquer leurs systèmes en 1997. Soit plus de cinq années avant l'université de Pittsburgh. Les ingénieurs de Silicone Valley expliquent s'être inspirésy du manuel d'instruction de leur scanneur optique de marque `Brother` afin de rendre la reconnaissance de caractères encore plus difficile. En pivotant les lettres et en ajoutant des lignes, etc.
 
 Remarquons que `CAPTCHA` est un concept plutôt qu'une invention. L'implémentation du début des années 2000 a cédé le pas à d'autres implémentations plus complexes. Les ordinateurs d'aujourd'hui étant assez puissants pour berner sans peine les premiers `CAPTCHA`.
 
 ##### variants
-`Google` a breveté un système plus complexe baptisé `reCAPTCHA`.  Il s'agit d'une forme plus complexe du test de Turing.  Il est essentiellement distribué. C'est-à-dire que la réponse au challenge découle généralement d'une corroboration entre le résultat d'un système de reconnaissance optique (`OCR`) et d'interactions avec plusieurs utilisateurs.
+
+`Google` a breveté un système plus complexe baptisé `reCAPTCHA`. Il s'agit d'une forme plus complexe du test de Turing. Il est essentiellement distribué. C'est-à-dire que la réponse au challenge découle généralement d'une corroboration entre le résultat d'un système de reconnaissance optique (`OCR`) et d'interactions avec plusieurs utilisateurs.
 
 En 2012, la firme de Mountain View a ajouté des images tirées de `Google Maps` dans ses challenges.
 
@@ -38,9 +41,10 @@ Depuis longtemps, `Google` offre son service de `reCAPTCHA` gratuitement. En éc
 
 Un autre scandale récent est celui nourri par la société `Defenders of the American Dream, LLC`. Elle prétend détenir un brevet pour la mécanique de `reCAPTCHA` et envoie des mises en demeure à une multitude de propriétaires de site web ; elle demande plusieurs milliers de dollars pour couvrir des frais de licences.
 
- ##### sources
- [https://fr.wikipedia.org/wiki/ReCAPTCHA](https://fr.wikipedia.org/wiki/ReCAPTCHA)
+##### sources
 
- [https://fr.wikipedia.org/wiki/Test_de_Turing](https://fr.wikipedia.org/wiki/Test_de_Turing)
+[https://fr.wikipedia.org/wiki/ReCAPTCHA](https://fr.wikipedia.org/wiki/ReCAPTCHA)
 
- [https://www.eff.org/deeplinks/2021/08/captcha-patent-all-american-nightmare](https://www.eff.org/deeplinks/2021/08/captcha-patent-all-american-nightmare)
+[https://fr.wikipedia.org/wiki/Test_de_Turing](https://fr.wikipedia.org/wiki/Test_de_Turing)
+
+[https://www.eff.org/deeplinks/2021/08/captcha-patent-all-american-nightmare](https://www.eff.org/deeplinks/2021/08/captcha-patent-all-american-nightmare)

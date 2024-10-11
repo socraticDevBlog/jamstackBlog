@@ -10,7 +10,7 @@ tags:
 
 La plupart des développeurs croient qu'écouter de la musique en travaillant les
 aide à atteindre un état de flow (_flow state_). Écouter de la musique en travaillant les
-aide à élever leur niveau de concentration. 
+aide à élever leur niveau de concentration.
 
 En se tournant vers le passé, on constate que les bienfaits de la musique sur
 le développement humain étaient déjà connus au moins depuis l'Antiquité grecque. Autant
@@ -54,7 +54,7 @@ radicale. Une critique de la société capitaliste et de tout ce qui peut être
 considéré comme un opium intellectuel. Autant par sa personnalité, son identité
 sexuelle que par sa musique, Genesis P-Orridge assume pleinement son rôle
 d'artiste. Quelqu'un qui remet en question les idées reçues et propose une
-nouvelle vision du monde. 
+nouvelle vision du monde.
 
 > "Étrangement, ceux qui sont le plus méprisés aujourd'hui sont les mieux
 > taillés pour la survie" - Genesis P-Orridge
@@ -75,7 +75,7 @@ _Throbbing Gristle_ à dessein. Comme dans tout art d'avant-garde, il y a une re
 artistique préalable à la production. Pour apprécier cette musique un travail
 intellectuel est nécessaire. On est récompensé d'avoir fait des recherches sur l'histoire de
 l'artiste, sa philosophie et son message. Ca nous aide à dépasser
-l'inconfort et tirer profit du message de l'artiste. 
+l'inconfort et tirer profit du message de l'artiste.
 
 - https://www.wikiwand.com/en/Genesis_P-Orridge
 - https://www.theguardian.com/music/2018/dec/10/genesis-p-orridge-throbbing-gristle
@@ -91,7 +91,7 @@ Jones et Timothy Leary, le porte-parole de la culture psychédélique.
 Les maîtres musiciens de Jajouka sont inspirés par le soufisme. Le soufisme est un
 courant mystique de l'islam. Le soufisme est organisée en confréries et il
 nourrit une approche mystique à la spiritualité. Leur musique a pour effet d'induire un état de
-transe chez ses auditeurs. 
+transe chez ses auditeurs.
 
 Leur pratique musicale vise l'extase : l'union avec le divin.
 
@@ -105,6 +105,5 @@ Leur pratique musicale vise l'extase : l'union avec le divin.
 > et nous les attachons et nous jouons de la musique chaque semaine, et ils se
 > sentent mieux. - Bachir Attar
 
-
-  - https://www.wikiwand.com/en/Master_Musicians_of_Joujouka
-  - [Neil Strauss (2011), "Everyone Loves You When You're Dead"](https://www.neilstrauss.com/books/everyone-loves-you-when-youre-dead/)
+- https://www.wikiwand.com/en/Master_Musicians_of_Joujouka
+- [Neil Strauss (2011), "Everyone Loves You When You're Dead"](https://www.neilstrauss.com/books/everyone-loves-you-when-youre-dead/)

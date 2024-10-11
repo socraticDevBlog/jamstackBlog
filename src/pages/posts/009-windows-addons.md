@@ -12,9 +12,9 @@ Il est possible de rendre l'utilisation de notre ordinateur plus agréable sans 
 
 Par contre, en prenant conscience des problèmes que nous réglons quotidiennement à l'aide d'outils informatiques, nous nous rendrons maître de ces outils.
 
-```Quels sont les cinq utilisations principales de mon ordinateur ?```
+`Quels sont les cinq utilisations principales de mon ordinateur ?`
 
-```Y a-t-il des tâches répétitives que je pourrais automatiser ?```
+`Y a-t-il des tâches répétitives que je pourrais automatiser ?`
 
 ## QuickLook amène une fonctionnalité essentielle de MacOS sur Windows 10
 
@@ -29,11 +29,11 @@ L'essayer c'est l'adopter.
 
 ## Lightshot : prendre des captures d'écran sur mesure à la vitesse de l'éclair
 
-Le système d'exploitation Windows offre l'outil 'Capture d'écran' permettant de prendre des captures d'écran en peu de temps. 
+Le système d'exploitation Windows offre l'outil 'Capture d'écran' permettant de prendre des captures d'écran en peu de temps.
 
 Si une image vaut mille mots, une image où vous avez ajouté des flèches, des cercles, et des notes en vaut bien cent mille.
 
-Lightshot s'active au clic de la touche 'Print Screen' de votre clavier. Isolez la partie de l'écran à saisir, ajoutez des flèches, des dessins ou des notes. Une fois terminé, l'image est en mémoire dans le presse-papier et il suffit de coller (```ctrl + v```) l'image dans un email pour l'envoyer ou dans un répertoire de votre disque dur pour la sauvegarder.
+Lightshot s'active au clic de la touche 'Print Screen' de votre clavier. Isolez la partie de l'écran à saisir, ajoutez des flèches, des dessins ou des notes. Une fois terminé, l'image est en mémoire dans le presse-papier et il suffit de coller (`ctrl + v`) l'image dans un email pour l'envoyer ou dans un répertoire de votre disque dur pour la sauvegarder.
 
 L'essayer c'est l'adopter.
 
@@ -45,21 +45,22 @@ La valeur ajoutée offerte par les systèmes informatisés se résume souvent en
 
 Il y a un dicton ironique voulant que les meilleurs informaticiens soient les plus paresseux. Nos idoles sont ceux qui ont appris à se libérer des tâches répétitives en programmant des scripts complexes les accomplissant de façon automatique. Ainsi, on remarque que les équipes de développement les plus performantes utilisent des outils de déploiement continu et optimisent leur base de code en la ceinturant de tests unitaires et intégrés.
 
-Bien que nécessitant un apprentissage conséquent, l'automatisation est aussi à la portée de l'utilisateur moyen de Windows 10 grâce au langage de scripting gratuit AutoHotKey. AHK a un potentiel quasiment infini. Au plus simple, on peut utiliser la fonctionnalité d'interception des touches pour définir des raccourcis sur mesure. Par exemple, j'utilise des raccourcis personnalisés pour commander l'ouverture des applications que j'utilise le plus fréquement (navigateur web, éditeur de texte, application de courriel). 
+Bien que nécessitant un apprentissage conséquent, l'automatisation est aussi à la portée de l'utilisateur moyen de Windows 10 grâce au langage de scripting gratuit AutoHotKey. AHK a un potentiel quasiment infini. Au plus simple, on peut utiliser la fonctionnalité d'interception des touches pour définir des raccourcis sur mesure. Par exemple, j'utilise des raccourcis personnalisés pour commander l'ouverture des applications que j'utilise le plus fréquement (navigateur web, éditeur de texte, application de courriel).
 
 Il existe beaucoup d'autres possiblités :
 
-  1. remapper un clavier QWERTY vers Dvorak ou azerty;
-  - utiliser facilement des symboles typographiques non-disponibles sur votre clavier (ex. : des guillements courbées(“…”));
-  - contrôler votre souris avec le clavier;
-  - ouvrir des documents ou des sites web en tappant sur une touche;
-  - ajouter une signature uniforme à vos courriels et réponses sur des forums, clavardage;
-  - mémoriser des séquences de touches pour devenir imbatables à votre jeu vidéo préféré;
-  - assurer le monitoring de votre système;
-  - céduler des tâches cycliques (mise à jour, rappels, backups);
-  - automatiser des actions répétitives;
-  - remplir des formulaires de façon automatique;
-  - etc.
+1. remapper un clavier QWERTY vers Dvorak ou azerty;
+
+- utiliser facilement des symboles typographiques non-disponibles sur votre clavier (ex. : des guillements courbées(“…”));
+- contrôler votre souris avec le clavier;
+- ouvrir des documents ou des sites web en tappant sur une touche;
+- ajouter une signature uniforme à vos courriels et réponses sur des forums, clavardage;
+- mémoriser des séquences de touches pour devenir imbatables à votre jeu vidéo préféré;
+- assurer le monitoring de votre système;
+- céduler des tâches cycliques (mise à jour, rappels, backups);
+- automatiser des actions répétitives;
+- remplir des formulaires de façon automatique;
+- etc.
 
 L'essayer c'est l'adopter.
 

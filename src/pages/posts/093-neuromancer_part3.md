@@ -6,6 +6,7 @@ image: ../../images/neuromancer-chapter3.png
 tags:
   - roman
 ---
+
 (mis-à-jour finale: vendredi 1er juillet 2022)
 
 # Troisième partie - Minuit rue Jules-Verne
@@ -132,6 +133,7 @@ déclencher leur haine. Pour les manipuler.
 > "Elle pense que Wintermute a en quelque sorte organisé son émission, afin qu'elle déteste Riviera et soit motivée à entrer dans Straylight après lui. Elle dit à Case qu'elle va tuer Riviera. Case parle à Molly de la Lonny Zone et de Linda Lee. Molly se demande si Wintermute essaie de lui faire détester quelque chose aussi.
 
 ## chapitre 12 - La police de Turing.
+
 Dans le dernier chapitre de _Troisième partie - Minuit rue Jules-Verne_, Case
 réfléchit à sa dépendance à la drogue ; son réflexe de s'engourdir.
 

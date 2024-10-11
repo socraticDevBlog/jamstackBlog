@@ -19,6 +19,7 @@ Le blogueur [Yegor Bugayenko](https://www.yegor256.com/) aka `@yegor256` propose
 3. le développeur répond au demandeur et l'informe que le problème a été réglé. Il lui demander de réessayer.
 
 ## le réflexe humain
+
 > "J'ai découvert votre plugin et voulu l'essayer. J'ai fait un petite preuve de concept avec peu de code, mais ça ne fonctionne pas. Pouvez-vous m'aider?"
 
 Quand un utilisateur rapporte un bogue à un développeur, le réflexe du développeur est de vouloir aider cet utilisateur.
@@ -27,31 +28,31 @@ Ce type d'interaction est naturelle dans le monde du logiciel libre ("free and o
 
 Donc à chacune des demandes d'aide, le développeur stoppe ses activités courantes et se lance à la rescousse du demandeur d'aide.
 
-> "Et réagir ainsi est une erreur" <cite>@yegor256</cite> 
+> "Et réagir ainsi est une erreur" <cite>@yegor256</cite>
 
-Réagir en aidant les gens individuellement est une erreur car ce n'est pas _évolutif_ ("scalable"). 
+Réagir en aidant les gens individuellement est une erreur car ce n'est pas _évolutif_ ("scalable").
 
 Si le produit gagne en popularité, alors ces demandes individuelles d'assistance ne saurait que croître. Bien sûr, les utilisateurs seront heureux de recevoir de l'assistance individuelle, mais pendant ce temps le produit ne sera pas amélioré. Les développeurs maîtrisant le produit sont désormais occupés à faire du service à la clientèle au lieu d'être occupé à améliorer le produit.
 
 À chaque fois que le développeur propose des explications via email, chat ou téléphone avec l'utilisateur, il se tire dans le pied.
 
-> "N'expliquez pas le produit à l'utilisateur. Améliorez la documentation et réparez le produit." <cite>@yegor256</cite> 
+> "N'expliquez pas le produit à l'utilisateur. Améliorez la documentation et réparez le produit." <cite>@yegor256</cite>
 
 ## le réflexe produit
 
 `@yegor256` recommande de réagir autrement aux demandes et questions provenant d'utilisateurs. Au lieu de commencer à les aider individuellement, le développeur devrait réfléchir à la raison de la demande.
 
->"Pourquoi demande-t-il de l'aide? En quoi est-ce que le produit est fautif? Comment l'utilisateur en est-il venu à ce problème; jusqu'à écrire un email pour demander de l'aide?
+> "Pourquoi demande-t-il de l'aide? En quoi est-ce que le produit est fautif? Comment l'utilisateur en est-il venu à ce problème; jusqu'à écrire un email pour demander de l'aide?
 >
->Si un utilisateur a besoin d'aide c'est qu'il y a un problème avec le produit. Réparez le problème à sa racine." <cite>@yegor256</cite>
+> Si un utilisateur a besoin d'aide c'est qu'il y a un problème avec le produit. Réparez le problème à sa racine." <cite>@yegor256</cite>
 
 Bien sûr le développeur sait comment aider rapidemment l'utilisateur. Il connaît bien le produit. En plus il va se sentir bien d'avoir aidé quelqu'un. Mais c'est une erreur car le problème n'est pas réglé à sa racine.
 
 ## conclusion
+
 > "La documentation du produit a été ajustée. S'il-vous-plaît réessayez en suivant la nouvelle procédure."
 
 La véritable assistance qu'un développeur apporte à l'utilisateur est de régler les problèmes du produit. Par exemple, ajouter de la documentation ou la corriger. Ensuite, il peut répondre à l'utilisateur:
-
 
 ## source
 

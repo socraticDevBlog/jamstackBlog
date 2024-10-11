@@ -39,7 +39,7 @@ problèmes lorsque des besoins plus complexes doivent être répondus.
 
 Dans l'écosystème infonuagique d'`AWS`, le bucket `S3` peut être utilisé à toutes
 les sauces. Pour contenir aussi bien des petits que des gros fichiers. Pour contenir les fichiers source
-d'un site web, etc. 
+d'un site web, etc.
 
 En lisant les commentaires sur Twitter, j'ai appris que `AWS` propose
 même un langage de requête semblable à `SQL` pour effectuer des recherches dans le contenu
@@ -48,17 +48,17 @@ systèmes de gestion de base de données éprouvés ?!?🤦
 
 ## commentaires des internautes
 
-|user|tweet|
-|----|-----|
-|@webguy|"Sort of - many companies and libraries support any provider and all using the same S3 API or have support for it"|
-|@michoo_42|"I agree and I would go further: aws is more like the old dying oracle ( closed, need certification, expansive,…). Of course is not the same technology but it’s the same capitalist system. That’s why I enjoy kube (with nuances)… it’s kind agnostic and you can choose your providr"|
-|@lispcat|"Prone to spontaneously corrupting its data, and to deceiving laypeople into thinking this database thing is easier than those so-called pros try to tell us?"|
-|@dotyousra|"Yeah let's just build our data lake on s3 who needs a datawarehouse anyways *internal screaming*"|
+| user       | tweet                                                                                                                                                                                                                                                                                    |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| @webguy    | "Sort of - many companies and libraries support any provider and all using the same S3 API or have support for it"                                                                                                                                                                       |
+| @michoo_42 | "I agree and I would go further: aws is more like the old dying oracle ( closed, need certification, expansive,…). Of course is not the same technology but it’s the same capitalist system. That’s why I enjoy kube (with nuances)… it’s kind agnostic and you can choose your providr" |
+| @lispcat   | "Prone to spontaneously corrupting its data, and to deceiving laypeople into thinking this database thing is easier than those so-called pros try to tell us?"                                                                                                                           |
+| @dotyousra | "Yeah let's just build our data lake on s3 who needs a datawarehouse anyways _internal screaming_"                                                                                                                                                                                       |
 
 ## conclusion
 
 Dans le cadre de mon travail,
-j'ai récemment opté pour l'utilisation d'un bucket `S3` comme solution rapide et 
+j'ai récemment opté pour l'utilisation d'un bucket `S3` comme solution rapide et
 facile pour résoudre un besoin d'affaires. À la lumière de mon investigation ici, je ne regrette pas mon choix. Les
 faiblesses de mon choix furent expliquées et le choix fut fait de façon éclairé.
 

@@ -14,7 +14,6 @@ Patrick Thomas Delaney est un développeur full-stack focusant sur le développe
 
 (_Patrick Thomas Delaney_) Je vais vous épargner une histoire d'origine ennuyeuse mais je mentionnerai que _The Matrix_ est sorti quand j'étais un garçon de onze ans. Ce film m'a donné l'idée que les ordinateurs sont perpetuellement excitants et que les filles adorent les pirates. Cela s'est avéré être tout à fait vrai, et ma carrière n'a vraiment pas été une sorte d'éveil difficile me prouvant le contraire.
 
-
 ##### Tous les développeurs ont une histoire d'échec. Un événement significatif où ils ont raté ou manqué une opportunité. Habituellement, nous en tirons des enseignements et nous nous améliorons. As-tu une histoire d'échec à partager? Qu'en as-tu appris?
 
 (_Ptdel_) Bien que les échecs soient inhérents au développement, j'ai un cas dont je me retrouve à rire avec le recul. L'une de mes premières tâches facturables pour un client m'a amené à supprimer tout son site Web pendant quinze heures pendant le week-end (leurs heures de pointe). La cause principale était un seul caractère mal placé dans un fichier de configuration _yaml_ pour le sel. Comme par hasard, le prestataire de surveillance du client a également flanché. Ils avaient donc l'impression qu'ils n'étaient jamais tombés hors-ligne qu'une heure (une coïncidence dont j'étais reconnaissant). Bien qu'embarrassant au départ, c'était vraiment juste un exemple que l'erreur humaine est toujours un facteur de risque, mais qui peut être atténué avec les _processus_ et l'_automatisation_.
@@ -27,18 +26,18 @@ Je pense que je peux mieux exprimer les avantages du passage à une méthodologi
 
 ##### Quels sont les pièges dont vous avez été témoins au sujet des entreprises traditionnelles qui souhaitent migrer vers le cloud et les devops. Quels sont les problèmes habituels auxquels ils sont confrontés?
 
- (_Ptdel_) Pour le bénéfice de tous, les propriétaires d'entreprise doivent être en mesure de reconnaître quand il y a une véritable raison pour passer à un fournisseur hébergé. Il est extrêmement difficile de justifier le passage au «cloud» si une entreprise conserve toutes ses pratiques traditionnelles centrées sur une infrastructure sur place.
+(_Ptdel_) Pour le bénéfice de tous, les propriétaires d'entreprise doivent être en mesure de reconnaître quand il y a une véritable raison pour passer à un fournisseur hébergé. Il est extrêmement difficile de justifier le passage au «cloud» si une entreprise conserve toutes ses pratiques traditionnelles centrées sur une infrastructure sur place.
 
 Je vais me débrouiller et ne fournir aucun écueil technique spécifique. Au lieu de cela, je vais décrire des situations que j'ai souvent vécues pendant mon temps en tant que consultant. Nous nous présentions à une entreprise où un département spécifique de l'entreprise allait être le cobaye [pour une transformation agile]. Les clients n'avaient pas vraiment d'exigences précises et beaucoup de membres du personnel étaient toujours redevables de tâches manuelles quotidiennes banales. Ils voyaient souvent l'intérêt de passer à une méthodologie agile, pour finalement réaliser que leur département financier ou l'équipe de sécurité rendait impossible toute tentative réelle de changement. À mi-chemin du projet, d'autres départements prenaient conscience du projet pilote et cherchaient soit à prendre les rênes soit à élargir la portée du projet. Au moment où le contrat avait été épuisé, la portée de la mission était complètement méconnaissable par rapport à l'original et rien n'avait été réalisé à un niveau satisfaisant.
- 
+
 Tout cela est une façon détournée de dire qu'il doit y avoir l'adhésion de tout le monde, et c'est la direction qui doit le communiquer à tout le monde. Si c'est un projet pilote d'une équipe laissée à elle-même, j'espère que les fonds derrière lui sont fongibles ou que la perte est justifiable.
 
- ##### De nombreux développeurs se préoccupent principalement du code et des fonctionnalités disponibles dans leur environnement de développement. Nous ne connaissons pas vraiment les pipelines de livraison, l'automatisation, la sécurité et les performances des bases de données, etc.  As-tu des suggestions à offrir à de jeunes développeurs qui désirent rester 'pertinent' dans les 15-20 prochaines années ?
+##### De nombreux développeurs se préoccupent principalement du code et des fonctionnalités disponibles dans leur environnement de développement. Nous ne connaissons pas vraiment les pipelines de livraison, l'automatisation, la sécurité et les performances des bases de données, etc. As-tu des suggestions à offrir à de jeunes développeurs qui désirent rester 'pertinent' dans les 15-20 prochaines années ?
 
-  (_Ptdel_) Honnêtement, avec l'état des choses aujourd'hui, je n'ai vraiment aucune idée de ce à quoi ressemblerait la pertinence dans quinze ou vingt ans.
+(_Ptdel_) Honnêtement, avec l'état des choses aujourd'hui, je n'ai vraiment aucune idée de ce à quoi ressemblerait la pertinence dans quinze ou vingt ans.
 
 Pour ceux qui entrent dans la profession maintenant, ou peut-être essaient de progresser eux-mêmes, je dirais simplement ceci: vous n'êtes pas spécial. Pendant longtemps, les développeurs ont gardé une certaine mystique autour de leur profession, mettant en avant que ce qu'ils font est un défi unique. Bien que cela ait pu être vrai à un moment donné, ce n'est plus le cas. Si vous ne vous familiarisez pas avec l'environnement dans lequel votre code vit et comment contrôler tout cela, je peux vous assurer que quelqu'un d'autre avec plus de motivation le fera et que son avantage sera significatif.
-  
+
 Ayez la volonté d'acquérir des compétences dans de nouvelles choses en sachant que c'est pour votre bien. Enfin, abandonnez tout dogmatisme ou prétention que vous avez sur la façon dont les choses devraient être dans le monde réel et concentrez-vous sur la livraison de résultats concrets.
 
-  ```L'entrevue a été conduite en anglais et traduite en grande partie par Google Translate```
+`L'entrevue a été conduite en anglais et traduite en grande partie par Google Translate`

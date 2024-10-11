@@ -16,7 +16,7 @@ TabNine est un _plugin_ compatible avec la majorité des éditeurs de texte et u
 
 L'outil supporte la majorité des langages de programmation en offrant davantage de fonctionnalités pour les utilisateurs du langage Rust car TabNine consiste en 14 000 lignes de Rust et n'aurait pas été possible sans la fiabilité et l'efficacité de Rust.
 
-> In recognition of the fact that TabNine could not exist without the Rust ecosystem, TabNine's paid features are always enabled when completing Rust code. 
+> In recognition of the fact that TabNine could not exist without the Rust ecosystem, TabNine's paid features are always enabled when completing Rust code.
 >
 > <cite>-- Section FAQ du site web de TabNine</cite>
 

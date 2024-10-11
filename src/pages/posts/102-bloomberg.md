@@ -16,7 +16,7 @@ Ce "software as a service" (SaaS) jouit d'un succès indéniable malgré le fait
 qu'il ne soit ni "user friendly" ni bien poli. Il ne promet surtout pas une
 expérience utilisateur (UX) supérieure malgré son prix faramineux.
 
-Vendu à prix fort depuis le début des années 1980, le Bloomberg Terminal  est un
+Vendu à prix fort depuis le début des années 1980, le Bloomberg Terminal est un
 succès commercial retentissant.
 
 Je crois que tout technologiste devrait se familiariser avec ce produit afin
@@ -37,8 +37,7 @@ commercial d'un produit technologique.
 > est devenue un trait reconnaissable du service. Il n'est pas rare de voir les
 > visuels plutôt fades de Bloomberg dans leur station de télévision, bien
 > qu'ils complètent leur empire médiatique avec un contenu visuellement riche
-> dans leur magazine phare Bloomberg Businessweek. <br><br>
-> <cite>Investopedia, "What Is a Bloomberg Terminal? Functions, Costs, and Alternatives", https://www.investopedia.com/terms/b/bloomberg_terminal.asp</cite>
+> dans leur magazine phare Bloomberg Businessweek. <br><br> > <cite>Investopedia, "What Is a Bloomberg Terminal? Functions, Costs, and Alternatives", https://www.investopedia.com/terms/b/bloomberg_terminal.asp</cite>
 
 ## la valeur en technologie
 
@@ -50,7 +49,7 @@ de la valeur pour le client à qui est destiné un produit ou un service.
 
 > La conception subjective définit la valeur comme l'expression de l'intérêt
 > qu'un agent particulier porte à un bien ou à un service, qui résulte d'un
-> processus psychologique d'évaluation. 
+> processus psychologique d'évaluation.
 > <br><br><cite>Wikipedia, "Valeur (économie)", https://www.wikiwand.com/fr/Valeur_(%C3%A9conomie)</cite>
 
 En termes crus, on dit que la valeur est ce qui fait en sorte que l'usager soit
@@ -94,8 +93,7 @@ informatisée destinée au monde financier.
 > utilisables. La société a vendu des terminaux informatiques personnalisés
 > qui fournissaient des données de marché en temps réel, des calculs financiers
 > et d'autres analyses aux entreprises de Wall Street.
-> <br><br>
-> <cite>Wikipedia, "Bloomberg Terminal", https://www.wikiwand.com/en/Bloomberg_Terminal</cite>
+> <br><br> > <cite>Wikipedia, "Bloomberg Terminal", https://www.wikiwand.com/en/Bloomberg_Terminal</cite>
 
 ## conclusion
 
@@ -110,7 +108,7 @@ Terminal nous aide à relativiser l'importance du User Experience (UX) et
 d'autres gadgets omniprésents dans le web.
 
 Les habiletés techniques sont de moins en moins cruciales pour le succès d'un
-projet technologique. 
+projet technologique.
 
 Il est inutile de réinventer la roue. La plupart des problèmes
 informatiques ont déjà été résolus. Il existe d'innombrables librairies de code

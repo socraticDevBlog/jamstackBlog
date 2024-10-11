@@ -36,7 +36,7 @@ Comme Linux favorise la simplicité et la modularité, vous n'allez pas trouver 
 
 #### 3. Installer l'extension WSL sur VS Code
 
-Développer sous linux signifiait autrefois de multiple allers-retours entre un éditeur de texte et le terminal. Ou bien coder directement dans le terminal avec des éditeurs de texte ésotériques comme ``Vi`` ou ``Emacs``. Heureusement, Microsoft a mis le paquet et, avec un plugin s'intégrant à votre éditeur de texte `Visual Studio Code` vous allez être en mesure d'être connecté directement sur votre système linux tout en restant dans l'environnement fenêtré de Windows.
+Développer sous linux signifiait autrefois de multiple allers-retours entre un éditeur de texte et le terminal. Ou bien coder directement dans le terminal avec des éditeurs de texte ésotériques comme `Vi` ou `Emacs`. Heureusement, Microsoft a mis le paquet et, avec un plugin s'intégrant à votre éditeur de texte `Visual Studio Code` vous allez être en mesure d'être connecté directement sur votre système linux tout en restant dans l'environnement fenêtré de Windows.
 
 Pour ce faire, il suffit d'installer `Remote WSL` à votre éditeur de texte. Cliquez sur le symbole spécial (><) en bas à gauche de votre VS Code. Et voilà: vous êtes directement lié à votre système d'exploitation linux.
 

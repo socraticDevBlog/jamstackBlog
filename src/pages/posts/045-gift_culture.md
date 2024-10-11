@@ -4,12 +4,13 @@ date: 2020-09-13
 author: "SocraticDev"
 image: ../../images/gift-economy.png
 tags:
-- croissance
-- philosophie
+  - croissance
+  - philosophie
 ---
-La ``culture du don``, également appelée _Gift Economy_ en anglais, est un système social d'échange économique historiquement adopté par certaines sociétés humaines lorsque les ressources disponibles sont assez abondantes pour assurer le bien-être de tous. Dans les sociétés où les besoins de chacun sont pris en compte, les anthropologues ont décrit ce phénomène curieux où le fait de distribuer sa propre richesse rend plus riche et élève son statut social. 
 
-Par exemple, l'anthropologue européen Bronisław Malinowski rencontra la culture du don dans certaines tribus d'îles du Pacifique et de Mélanésie ; une zone profitant de climats doux et où la nourriture est abondante. En Amérique, Sur la côte ouest américaine, lors de la cérémonie ancestrale du ``potlach`` les chefs tribaux distribuent massivement des cadeaux à leur communauté. 
+La `culture du don`, également appelée _Gift Economy_ en anglais, est un système social d'échange économique historiquement adopté par certaines sociétés humaines lorsque les ressources disponibles sont assez abondantes pour assurer le bien-être de tous. Dans les sociétés où les besoins de chacun sont pris en compte, les anthropologues ont décrit ce phénomène curieux où le fait de distribuer sa propre richesse rend plus riche et élève son statut social.
+
+Par exemple, l'anthropologue européen Bronisław Malinowski rencontra la culture du don dans certaines tribus d'îles du Pacifique et de Mélanésie ; une zone profitant de climats doux et où la nourriture est abondante. En Amérique, Sur la côte ouest américaine, lors de la cérémonie ancestrale du `potlach` les chefs tribaux distribuent massivement des cadeaux à leur communauté.
 
 Sous d'autres formes, cette culture de la générosité est également présente dans le _show business_ et chez les gens très riches.
 
@@ -17,7 +18,7 @@ Sous d'autres formes, cette culture de la générosité est également présente
 
 #### Et nous, développeurs du 21e siècle ?
 
-Le mode de développement ``open source`` est fondé sur l' ``économie de don``. Le contexte professionnel du développeur qualifié en est un d'abondance. Il ne craint pas de manquer de boulot. Du côté du matériel, surtout depuis la démocratisation de l'infonuagique, les serveurs et autres nécessités technologiques sont disponibles gratuitement ou à peu de frais.
+Le mode de développement `open source` est fondé sur l' `économie de don`. Le contexte professionnel du développeur qualifié en est un d'abondance. Il ne craint pas de manquer de boulot. Du côté du matériel, surtout depuis la démocratisation de l'infonuagique, les serveurs et autres nécessités technologiques sont disponibles gratuitement ou à peu de frais.
 
 Pendant leur temps libre, plusieurs développeurs aiment créer volontairement quelque chose d'utile et le partager librement avec la communauté. Si vous partagez du bon code ou aidez les gens : vous enrichirez la communauté et augmenterez votre statut social à l'intérieur de la communauté. Bien sûr, ceux que vous aidez directement ne pourront peut-être pas vous rendre immédiatement service. Mais quand ils seront capables de vous aider, ils le feront. Ou si des inconnus apprennent que vous êtes un programmeur aimable et que vous contribuez à la communauté : ils vous aideront certainement à atteindre les objectifs que vous désirez atteindre.
 
@@ -26,7 +27,7 @@ D'un autre côté, si vous vous contentez de prendre et faire le malin : personn
 > Aujourd'hui, les professions où l'on peut gagner le plus d'argent ne sont pas celles qui contribuent le plus à la société. Vous pouvez gagner beaucoup d'argent en faisant des choses terribles. Et pour les choses dont nous avons le plus besoin: elles n'offrent pas beaucoup d'argent.
 > <cite>-- Charles Eisenstein</cite>
 
-L'objectif de ``la culture du don`` est de "favoriser un système de liens et d'obligations". Alors que ``l'économie monétaire`` favorise la relation entre les choses échangées, ``l'économie de don`` favorise les relations entre les personnes qui font le commerce.
+L'objectif de `la culture du don` est de "favoriser un système de liens et d'obligations". Alors que `l'économie monétaire` favorise la relation entre les choses échangées, `l'économie de don` favorise les relations entre les personnes qui font le commerce.
 
 ##### sources
 

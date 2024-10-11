@@ -22,9 +22,9 @@ Dans une micro-conférence d’un quart d’heure, il présente sa philosophie (
 
 "_Apprendre c'est se connecter au futur_"
 
- "_Être vieux, pour moi, c'est celui qui n'apprend plus. C'est ceux qui disent_ 'je ne comprends pas la jeunesse', 'je ne comprends pas les jeans déchirés'. _Quand on dit ça, on a déjà un pied dans la tombe. Parce que ne pas comprendre le futur, c'est ne plus y participer_"
+"_Être vieux, pour moi, c'est celui qui n'apprend plus. C'est ceux qui disent_ 'je ne comprends pas la jeunesse', 'je ne comprends pas les jeans déchirés'. _Quand on dit ça, on a déjà un pied dans la tombe. Parce que ne pas comprendre le futur, c'est ne plus y participer_"
 
- "_On a simplement transporté la mentalité, les habitudes, les concepts, la philosophie, la politique, l'impérialisme du XXe siècle au XXIe siècle. Mais le XXIe commencera, quand ceux qui façonneront ce siècle et façonneront leurs futurs seront ceux qui sont nés dans ce siècle_"
+"_On a simplement transporté la mentalité, les habitudes, les concepts, la philosophie, la politique, l'impérialisme du XXe siècle au XXIe siècle. Mais le XXIe commencera, quand ceux qui façonneront ce siècle et façonneront leurs futurs seront ceux qui sont nés dans ce siècle_"
 
 ## L'écouter (6 minutes 25 secondes)
 

@@ -42,13 +42,13 @@ logistique" en français".
 > (nomenclature étendue), ou confinée à une seule usine ou atelier de
 > fabrication. En d'autres termes, c'est le recensement structuré de l'ensemble
 > des articles qui composent un produit.
-> <cite>Wikipedia.fr(2022-09-12), "Nomenclature_(logistique)"</cite>
+> <cite>Wikipedia.fr(2022-09-12), "Nomenclature\_(logistique)"</cite>
 
 ## Software Bill of Materials
 
 La forme et le contenu d'un SBOM est analogue au traditionnel BOM du secteur
 manufacturier. C'est une liste ou un inventaire de toutes les dépendances d'un
-système logiciel déployé en production: 
+système logiciel déployé en production:
 
 Les librairies open-source et les sous-systèmes provenant d'une source tierce.
 Leurs versions. L'état d'application des patches. Et leur licence d'utilisation.
@@ -57,16 +57,16 @@ Leurs versions. L'état d'application des patches. Et leur licence d'utilisation
 
 L'attaque de Solarwinds découverte en décembre 2020 ciblait plusieurs agences
 publiques américaines, plusieurs organisations privées ainsi que des
-institutions étrangères. 
+institutions étrangères.
 
->Début 2020, des pirates ont secrètement pénétré dans les systèmes de SolarWind, basé au Texas, et ont ajouté du code malveillant dans le système logiciel de l'entreprise. Le système, appelé "Orion", est largement utilisé par les entreprises pour gérer les ressources informatiques. Solarwinds compte 33 000 clients qui utilisent Orion, selon les documents de la SEC.
+> Début 2020, des pirates ont secrètement pénétré dans les systèmes de SolarWind, basé au Texas, et ont ajouté du code malveillant dans le système logiciel de l'entreprise. Le système, appelé "Orion", est largement utilisé par les entreprises pour gérer les ressources informatiques. Solarwinds compte 33 000 clients qui utilisent Orion, selon les documents de la SEC.
 >
->La plupart des fournisseurs de logiciels envoient régulièrement des mises à
->jour à leurs systèmes, qu'il s'agisse de corriger un bogue ou d'ajouter de
->nouvelles fonctionnalités. SolarWinds ne fait pas exception. Dès mars 2020,
->SolarWinds a involontairement envoyé des mises à jour logicielles à ses
->clients qui incluaient le code piraté.
-><cite>Business Insider.com, "Solarwinds hack explained"</cite>
+> La plupart des fournisseurs de logiciels envoient régulièrement des mises à
+> jour à leurs systèmes, qu'il s'agisse de corriger un bogue ou d'ajouter de
+> nouvelles fonctionnalités. SolarWinds ne fait pas exception. Dès mars 2020,
+> SolarWinds a involontairement envoyé des mises à jour logicielles à ses
+> clients qui incluaient le code piraté.
+> <cite>Business Insider.com, "Solarwinds hack explained"</cite>
 
 Le gouvernement américain a récemment introduit un décret exécutif exigeant la
 production de "SBOM" pour tout produit logiciel développé par un
@@ -80,7 +80,7 @@ logicielle.
 Un peu avant le départ des vacances l'an dernier, la plupart des opérateurs de
 systèmes informatisés ont
 dû mettre des bouchées doubles pour traiter une vulnérabilité critique
-découverte dans la populaire librairie de logging 
+découverte dans la populaire librairie de logging
 [log4j](https://theconversation.com/what-is-log4j-a-cybersecurity-expert-explains-the-latest-internet-vulnerability-how-bad-it-is-and-whats-at-stake-173896).
 
 C'est ça le monde de la TI sans SBOM. Beaucoup de stress et beaucoup de travail
@@ -89,7 +89,7 @@ manuel.
 Les quelques acteurs ayant une saine gestion de leur chaîne d'approvisionnement
 ont traité la situation avec calme et rigueur. Ils savaient exactement sur quels systèmes
 ils utilisaient la librairie log4j. Pendant que leurs confrères scannaient des
-dizaines de serveurs, ils avaient déjà patché leurs systèmes !  
+dizaines de serveurs, ils avaient déjà patché leurs systèmes !
 
 ## les étapes fondamentales
 
@@ -113,7 +113,7 @@ On tombe rapidement dans l'absurde.
 
 Avoir en main un SBOM à jour va vous faire économiser des centaines d'heures de
 travail. Va vous permettre d'avoir des produits plus sécuritaires et
-facile à faire évoluer. 
+facile à faire évoluer.
 
 En plus d'alléger vos coûts d'opération, ayez en tête la rétention d'employés,
 la diminution de leur stress ; la diminution du sentiment d'impuissance de vos employés de TI envers

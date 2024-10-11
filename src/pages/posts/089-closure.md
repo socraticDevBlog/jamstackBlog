@@ -35,7 +35,7 @@ La `liaison de variables` est quelque chose qui dépasse ma compréhension pour 
 
 Pour moi, dès le départ, c'est une solution géniale à un problème de programmation courant dans la vie réelle : lorsque vous aviez accès à une variable, mais plus maintenant. Avec une closure, vous pouvez retourner une fonction contenant les valeurs dont vous avez besoin là où vous n'y avez plus accès.
 
->Sur le plan opérationnel, une closure est un enregistrement stockant une fonction[a] avec un environnement.L'environnement est un mappage associant chaque variable libre de la fonction (variables utilisées localement, mais définies dans une portée englobante) à la valeur ou à la référence à laquelle le nom était lié lors de la création de la closure. [b] Contrairement à une fonction ordinaire. , une closure permet à la fonction d'accéder à ces variables capturées via les copies de la closure de leurs valeurs ou références, même lorsque la fonction est invoquée en dehors de leur portée. (Wikipedia, "closure")
+> Sur le plan opérationnel, une closure est un enregistrement stockant une fonction[a] avec un environnement.L'environnement est un mappage associant chaque variable libre de la fonction (variables utilisées localement, mais définies dans une portée englobante) à la valeur ou à la référence à laquelle le nom était lié lors de la création de la closure. [b] Contrairement à une fonction ordinaire. , une closure permet à la fonction d'accéder à ces variables capturées via les copies de la closure de leurs valeurs ou références, même lorsque la fonction est invoquée en dehors de leur portée. (Wikipedia, "closure")
 
 ### exemple d'utilisation d'une `closure`
 
@@ -68,8 +68,8 @@ Ne peut pas attendre!
 
 [https://www.oreilly.com/library/view/functional-javascript/9781449360757/](https://www.oreilly.com/library/view/functional-javascript/9781449360757/)
 
-[https://www.wikiwand.com/en/Functional_programming](https://www.wikiwand.com/en/Functional_programming)  
+[https://www.wikiwand.com/en/Functional_programming](https://www.wikiwand.com/en/Functional_programming)
 
-[https://en.wikipedia.org/wiki/First-class_function](https://en.wikipedia.org/wiki/First-class_function)  
+[https://en.wikipedia.org/wiki/First-class_function](https://en.wikipedia.org/wiki/First-class_function)
 
-[https://www.wikiwand.com/en/Closure_(computer_programming)](https://www.wikiwand.com/en/Closure_(computer_programming))
+[https://www.wikiwand.com/en/Closure\_(computer_programming)](<https://www.wikiwand.com/en/Closure_(computer_programming)>)

@@ -16,7 +16,7 @@ regardant l'historique du dépôt de code (code repository) on constate qu'à pa
 quelques ajustements, l'ensemble des fichiers n'ont jamais eu à être retouché
 de façon significative.
 
-Je sais qu'avancer une telle proposition va à l'encontre d'idées reçues dans le 
+Je sais qu'avancer une telle proposition va à l'encontre d'idées reçues dans le
 monde du développement logiciel. Et franchement c'est tant mieux!
 
 Présenter différentes perspectives ne peut qu'enrichir le dialogue et
@@ -28,7 +28,7 @@ C'est plutôt arrogant de dire qu'on livre un ouvrage parfait du premier coup, n
 
 C'est peut-être arrogant mais ça vaut le coup parce qu'on aura un client
 heureux. Un client qui n'aura pas à dépenser quatre fois plus qu'il avait d'abord
-budgété pour un produit qui répond à la moitié de ses attentes. 
+budgété pour un produit qui répond à la moitié de ses attentes.
 
 La clé du succès est dans le mot "planification". Avant d'écrire centaine de
 lignes de code et déployer un tas de ressources infonuagiques coûteuses, il est
@@ -52,6 +52,7 @@ tags:
   - programmation
 ---
 ```
+
 <small>fig 1. Front Matter du présent article</small>
 
 En somme, le code source du blogue (`JavaScript React`) n'a pas beaucoup évolué
@@ -68,7 +69,7 @@ lui avait permis d'élaborer un cahier de charge complet.
 Sur son compte GitHub, socraticDev met en évidence le projet
 [encrypted-backups](https://github.com/socraticDevBlog/encrypted-backups). Loin
 d'être un chef d'oeuvre d'ingénierie logicielle, il utilise pourtant ce projet régulièrement dans
-sa stratégie de sauvegarde de fichiers informatiques personnels. 
+sa stratégie de sauvegarde de fichiers informatiques personnels.
 
 Une stratégie complète de sauvegarde de fichiers informatiques, dans les
 grandes lignes, consiste à conserver trois copies du même fichier. Une copie
@@ -92,8 +93,8 @@ moi, en tant que développeur et client, des succès.
 
    Dans le cas d'un système de publication de blogue sur mesure, on parle du
    besoin du technologue désirant s'approprier son outil pour rédiger et
-   publier un blogue sur le web. 
-   
+   publier un blogue sur le web.
+
    J'ajoute l'adverbe "complètement" de façon intentionnelle. Parce que c'est
    souvent là que ça dérape. On peut craindre que le développeur utilise l'excuse typique du
    "good enough" pour éviter de sortir de sa zone de confort et effectuer des
@@ -116,7 +117,7 @@ moi, en tant que développeur et client, des succès.
    pas le client.
 
    Pour le blogue, on peut noter qu'il ne repose pas sur un système de base de
-   données. Pourquoi?  Pas besoin et, surtout, ça ajouterait inutilement de la
+   données. Pourquoi? Pas besoin et, surtout, ça ajouterait inutilement de la
    complexité au produit.
 
    Pour le système d'encryption de backups, le client-développeur a tout
@@ -125,14 +126,14 @@ moi, en tant que développeur et client, des succès.
    à être utilisé. Pourquoi? Il voulait garder le système simple et, surtout,
    comprendre ce qui se passe pendant l'encryption et la décryption de ses
    fichiers.
-   
+
    Ici le concept de "good enough" s'applique en toute bonne foi. Utiliser un
    petit script BASH réutilisable et utiliser une librairie fiable pour gérer
    l'encryption et la décryption est vraiment un produit minimal viable (MVP)
    pouvant être mis entre les mains du client.
 
    Est-ce que la solution retenue est la meilleure du point de vue de la
-   sécurité? Pas du tout!  Quelques personnes ont révisé mon script et pointé
+   sécurité? Pas du tout! Quelques personnes ont révisé mon script et pointé
    des failles de sécurité
    (https://github.com/socraticDevBlog/encrypted-backups/pulls). Or, comme je
    suis appelé à utiliser ce script sur
@@ -142,10 +143,10 @@ moi, en tant que développeur et client, des succès.
 ## de l'empathie pour le client
 
 En conclusion, je crois que la clé du succès c'est d'avoir de l'empathie envers
-nos clients et nos utilisateurs finaux. 
+nos clients et nos utilisateurs finaux.
 
 Lors de l'élaboration d'un système logiciel, le besoin est rarement clairement
-circonscrit. Habituellement, client ne sait pas ce dont il a besoin exactement. 
+circonscrit. Habituellement, client ne sait pas ce dont il a besoin exactement.
 Dans ce cas, le rôle du concepteur de logiciels est de creuser davantage, poser
 des questions et conseiller le client. Creuser autant du côté des besoins du
 client que du côté des technologies à utiliser pour livrer une solution parfaite.

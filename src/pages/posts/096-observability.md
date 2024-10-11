@@ -25,7 +25,7 @@ Fondamentalement, l'observabilité est la qualité d'un système qui permet aux 
 comprendre son état à partir de ses _outputs_.
 
 > "notre définition de "l'observabilité" pour les systèmes logiciels est une mesure de
-> 'Eh bien, vous pouvez comprendre et expliquer n'importe quel état dans lequel votre système peut entrer, 
+> 'Eh bien, vous pouvez comprendre et expliquer n'importe quel état dans lequel votre système peut entrer,
 > peu importe qu'il soit nouveau ou bizarre'."
 
 Les systèmes informatiques modernes sont complexes. Les systèmes informatiques en tant que piles monolithiques vivant sur des serveurs sont une chose du
@@ -42,7 +42,7 @@ monitoring. Le monitoring d'une application ne donne qu'un mince aperçu du
 système : le nombre de requêtes par minute, un décompte d'erreurs 500, etc.
 
 Ce dont les développeurs ont besoin, ce sont des outils qui leur permettent de
-jeter un coup d'œil à l'intérieur des systèmes qu'ils entretiennent. 
+jeter un coup d'œil à l'intérieur des systèmes qu'ils entretiennent.
 Par exemple, ils doivent être en mesure de retracer une erreur depuis la
 requête qu'un utilisateur a soumis.
 
@@ -51,7 +51,7 @@ requête qu'un utilisateur a soumis.
 > observabilité. Un outil d'observabilité peut avoir accès à un très grand volume
 > de données très granulaires, mais réussissant à donner un sens à la montagne de
 > les données, qui sont l'arbitre ultime de la viabilité et de l'utilité globales de
-> l'outil, et sans doute celui de l'observabilité elle-même! 
+> l'outil, et sans doute celui de l'observabilité elle-même!
 > Un état d'esprit de débogage itératif basé sur des hypothèses."
 > <cite>Charity Majors and al.(2022), "Observability Engineering", O'Reilly</cite>
 

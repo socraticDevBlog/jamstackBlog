@@ -15,7 +15,7 @@ communications. Surtout, celles avec lesquelles ils sont en désaccords.
 "Préambuler" ("prefacing" en anglais) signifie d'introduire son propos par une
 information supplémentaire ayant pour objectif de mettre l'auditeur en
 contexte. Or, cette manoeuvre de communication aurait récemment acquis une connotation
-négative dans les médias sociaux, particulièrement sur X (ex-Twitter). 
+négative dans les médias sociaux, particulièrement sur X (ex-Twitter).
 
 Moins souvent utilisé pour enrichir le propos, le préambule est devenu une stratégie
 pour décourager le dialogue voire simplement le refuser.
@@ -34,7 +34,7 @@ Préambuler est un élément intéressant de notre communication quotidienne. To
 comme la communication non-verbale, je m'encourage à ajouter cet aspect à ma
 routine de [lecture de la
 pièce](https://socratic.dev/reading-the-room-est-un-soft-skill) pour mieux
-comprendre la situation. 
+comprendre la situation.
 
 Un peu comme le sophisme, le préambule pourrait être utilisé comme
 tactique déloyale pour étouffer le dialogue ; une action non-rationnelle visant à
@@ -48,7 +48,7 @@ sympatise avec les détracteurs de cette tactique tout en faisant preuve de
 mesure.
 
 Établir une base commune entre l'orateur et l'auditoire est
-fondamental pour une communication réussie. 
+fondamental pour une communication réussie.
 
 La notion d'_ethos_ (le caractère de l'orateur) fait partie de l'art de la
 rhétorique. Par exemple, allons nous nous insurger parce qu'un orateur prend le
@@ -56,7 +56,7 @@ temps de présenter son histoire personnelle avant de plonger dans sa conférenc
 
 Pour ma part, j'ajoute volontier cet aspect à mon coffre à outils de penseur
 critique. Tout en me gardant d'utiliser cette nouvelle notion pour m'aider à
-m'insurger davantage. (╯°□°）╯︵ 
+m'insurger davantage. (╯°□°）╯︵
 
 ### sources
 

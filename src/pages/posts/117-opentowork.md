@@ -67,7 +67,7 @@ que votre objectif est d'obtenir une entrevue de sélection ! Soyez capable de:
   déterminer si le salaire offert vous conviendrait, facilitez lui la vie sans
   donner de chiffre exact
 
-####  décrocher une offre
+#### décrocher une offre
 
 Habituellement, vous participerez à au moins deux entrevues et un
 entretien technique. Votre objectif est de décrocher une offre.
