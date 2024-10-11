@@ -7,13 +7,15 @@ tags:
   - productivité
   - technologie
 ---
-Quel est la durée idéale d'un sprint de développement ?  Dans le doute : itérez le plus rapidement ! Voilà le conseil de Jeff Atwood : co-créateur du site web Stack Overflow et artisan techno respecté.
+
+Quel est la durée idéale d'un sprint de développement ? Dans le doute : itérez le plus rapidement ! Voilà le conseil de Jeff Atwood : co-créateur du site web Stack Overflow et artisan techno respecté.
 
 > <abbr title="Extrait du film Better off Dead">["Go that way, really fast. If something gets in your way … turn."](https://www.imdb.com/title/tt0088794/)</abbr>
 
 Colonel John Boyd était un stratège militaire spécialisé dans les combats aériens. Il a participé à la Deuxième Guerre mondiale, la Guerre de Corée ainsi que la Guerre du Vietnam. Il est ensuite devenu consultant pour le Pentagone. Ses théories eurent un fort impact dans plusieurs autres domaines que l'art militaire : le sport, les affaires, et les litiges en Droit.
 
 ### Prise de décision : le cycle OODA
+
 Boyd a proposé une série d'actes mentaux à poser afin d'optimiser toute prise de décision. Il s'agit d'un cycle répétable portant l'acronyme OODA et signifiant : "_Observer, Orienter, Décider, Agir_". C'est un pattern générique décrivant comment un individu tout comme une organisation prend des décisions efficacement.
 
 Dans le cadre d'une opération de combat, les militaires sont appelés à effectuer cette boucle de façon continue. La phase d'_observation_ consiste en l'acquisition d'informations brutes. La phase d'_orientation_ consiste à filtrer et interpréter ces informations brutes. Par exemple, un pilote de chasse aguerri filtre et interprète les informations selon ses connaissances à propos de la psychologie humaine, ses traditions culturelles ainsi que ses expériences préalables. À la lumière de l'interprétation (orientation) des informations observées, il peut prendre une décision éclairée. Par exemple, placer son avion dans le soleil, au-dessus de son adversaire. Une fois l'action effectuée, le cycle recommence.
@@ -21,6 +23,7 @@ Dans le cadre d'une opération de combat, les militaires sont appelés à effect
 La force de la théorie de Boyd n'est pas d'avoir divisé l'acte de prise de décision en quatre phases. C'est plutôt d'avoir pris conscience que nos adversaires, consciemment ou non, effectuent le même cycle. En prenant conscience de ça, le stratège distingue les quatre moments critiques sur lesquels agir pour assurer la victoire. Par exemple, le stratège veillera à dissimuler ses intentions tout en cherchant à connaître les intentions de son adversaire. Bref, il cherchera à se rendre imprévisible allant peut-etre jusqu'à semer la confusion chez son adversaire.
 
 ### Le secret est la vitesse d'itération
+
 Colonel John Boyd s'intéressait particulièrement aux combats aériens entre le MIG-15 (Russe) et le F-86 (Américain). En tant que pilote et concepteur d'avions de combat, il savait que le MIG-15 était supérieur au F-86 sur la majorité des points. Toutefois, lors de combats entre avions de chasse, le F-86 l'emportait 9 fois sur 10. Le MIG-15 n'était qu'inférieur selon deux facteurs : la visibilité latérale et une direction manuelle plutôt qu'hydraulique.
 
 D'un point de vue d'ingénieur, ces deux faiblesses étaient largement compensée par la vitesse du MIG-15. Même si le pilote russe réagissait un peu plus lentement que l'américain, une fois la décision de grimper ou de virer était prise, le MIG-15 pouvait rapidement déjouer le F-86 par sa pure vitesse de grimpe et de virage.
@@ -46,7 +49,7 @@ Pour expliquer cette réalité, Boyd a raffiné sa théorie du cycle OODA. Le su
 
 - Wikipedia "OODA loop", [https://www.wikiwand.com/en/OODA_loop](https://www.wikiwand.com/en/OODA_loop)
 
-- Wikipedia, "John Boyd (stratège)", [https://www.wikiwand.com/fr/John_Boyd_(strat%C3%A8ge)](https://www.wikiwand.com/fr/John_Boyd_(strat%C3%A8ge))
+- Wikipedia, "John Boyd (stratège)", [https://www.wikiwand.com/fr/John*Boyd*(strat%C3%A8ge)](<https://www.wikiwand.com/fr/John_Boyd_(strat%C3%A8ge)>)
 
 - Wikipedia, "Mikoyan-Gurevich MiG-15", [https://www.wikiwand.com/en/Mikoyan-Gurevich_MiG-15](https://www.wikiwand.com/en/Mikoyan-Gurevich_MiG-15)
 

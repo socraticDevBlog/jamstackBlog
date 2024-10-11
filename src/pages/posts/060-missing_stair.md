@@ -8,13 +8,13 @@ tags:
   - croissance
 ---
 
-Imaginez entrer dans une maison inconnue et d'emblée vous constatez qu'il manque une marche à l'escalier principal. Vous vous inquiétez à voix haute du danger que ça représente. Mais l'hôte vous fait taire : 
+Imaginez entrer dans une maison inconnue et d'emblée vous constatez qu'il manque une marche à l'escalier principal. Vous vous inquiétez à voix haute du danger que ça représente. Mais l'hôte vous fait taire :
 
->"Ouais... On sait que ce n'est pas sécuritaire, mais tous les résidents de la maison ont pris l'habitude de prendre une plus grande enjambée pour éviter le trou. En fait: on n'a jamais eu de problème ! Tu n'as qu'à faire attention."
+> "Ouais... On sait que ce n'est pas sécuritaire, mais tous les résidents de la maison ont pris l'habitude de prendre une plus grande enjambée pour éviter le trou. En fait: on n'a jamais eu de problème ! Tu n'as qu'à faire attention."
 
-La métaphore de la ``marche manquante`` évoque une situation problématique tacitement acceptée par une communauté au lieu d'être corrigée. On attribue sa caractérisation au blogue __The Pervocracy__ dans un article traitant de la tolérance envers un prédateur sexuel avéré dans une communauté _x_.
+La métaphore de la `marche manquante` évoque une situation problématique tacitement acceptée par une communauté au lieu d'être corrigée. On attribue sa caractérisation au blogue **The Pervocracy** dans un article traitant de la tolérance envers un prédateur sexuel avéré dans une communauté _x_.
 
-La métaphore ne se limite pas au silence et l'inaction d'une communauté face à des actes criminels. On peut parler de la ``marche manquante`` dans différents contextes : 
+La métaphore ne se limite pas au silence et l'inaction d'une communauté face à des actes criminels. On peut parler de la `marche manquante` dans différents contextes :
 
 - Un ami a l'habitude d'emprunter de l'argent sans jamais le remettre;
 - Un collègue au travail ne termine jamais les tâches qui lui sont confiées;

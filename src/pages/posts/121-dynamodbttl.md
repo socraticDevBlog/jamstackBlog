@@ -123,4 +123,3 @@ En 2024, il faut vraiment cesser de partager du texte via des captures d'écran
 - https://github.com/socraticDevBlog/pastebin
 - https://www.wikiwand.com/en/Pastebin
 - https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/TTL.html
-

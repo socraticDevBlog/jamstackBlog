@@ -17,7 +17,8 @@ Toutefois, il faut être prudent et envisager le destin de ces fichiers confiés
 Ma réponse est non. Et la solution que je propose est de n'entreposer que des fichiers encryptés sur l'infonuagique publique. C'est-à-dire sur des serveurs rendus disponibles et gérés par quelqu'un d'autre que soi-même.
 
 ##### Processus manuel sous `linux`
-Sous linux, le processus est très simple. En moins de 3 lignes de commande, on encrypte le contenu d'un répertoire à l'aide de la librairie `GPG - GNU Privacy Guard`.  Toutefois, le processus de backup devrait être effectué régulièrement et de façon consistante. La meilleure option demeure l'automatisation. Automatiser nous évitera des erreurs et nous évitera surtout de négliger par paresse ces manoeuvres qui vont nous sauver la vie en cas de bris de matériel ou attaque par rançongiciels ('ransomware').
+
+Sous linux, le processus est très simple. En moins de 3 lignes de commande, on encrypte le contenu d'un répertoire à l'aide de la librairie `GPG - GNU Privacy Guard`. Toutefois, le processus de backup devrait être effectué régulièrement et de façon consistante. La meilleure option demeure l'automatisation. Automatiser nous évitera des erreurs et nous évitera surtout de négliger par paresse ces manoeuvres qui vont nous sauver la vie en cas de bris de matériel ou attaque par rançongiciels ('ransomware').
 
 ##### Automatiser à l'aide de scripts `bash`
 
@@ -28,7 +29,6 @@ Le scripting est souvent une étape temporaire et intermédiaire. Avant d'en arr
 Par exemple, dans le temps d'une soirée, j'ai codé deux scripts `bash` pour répondre à mon besoin. Un premier script pour encrypter un répertoire. Un second script pour décrypter le fichier encrypté. Avec ces deux scripts, je suis en mesure d'économiser du temps dans le processus de backup. Et surtout, ça me motive à rester discipliné et backupper régulièrement mes fichiers.
 
 > Ces scripts sont disponibles et prêts à être utilisés : [https://github.com/socraticDevBlog/encrypted-backups](https://github.com/socraticDevBlog/encrypted-backups)
-
 
 Le fichier `encrypt.sh` compresse le contenu d'un répertoire ; c'est-à-dire qu'il le réduit à un fichier compressé. Enuite, il utilise la librairie `GPG` pour l'encrypter. `GPG` a besoin d'une `passphrase` pour son algorithme d'encryption symétrique. Alors notre script passe la main à cette librairie qui ouvre une fenêtre modale et demande à l'utilisateur de saisir un phrase 'mot de passe'.
 
@@ -63,6 +63,6 @@ rm ${archive_file_name}
 
 Grâce à ces deux scripts je me sens armé pour implémenter une stratégie saine de sauvegarde de fichiers personnels sur l'infonuagique publique.
 
-Toutefois, j'envisage de modifier ces scripts et éventuellement automatiser de A à Z le processus de sauvegarde. C'est-à-dire céduler un processus régulier (quotidien ou hebdomadaire) qui se chargera d'envoyer un jeu de sauvegardes sur le cloud.  Cela me permettra d'avoir l'esprit en paix : en cas de problème technique ou attaque `ransomware`, je serai en mesure de récupérer mes données essentielles en peu de temps.
+Toutefois, j'envisage de modifier ces scripts et éventuellement automatiser de A à Z le processus de sauvegarde. C'est-à-dire céduler un processus régulier (quotidien ou hebdomadaire) qui se chargera d'envoyer un jeu de sauvegardes sur le cloud. Cela me permettra d'avoir l'esprit en paix : en cas de problème technique ou attaque `ransomware`, je serai en mesure de récupérer mes données essentielles en peu de temps.
 
 Si vous êtes tentés d'utiliser une stratégie semblable à la mienne, j'aimerais en entendre parler. N'hésitez jamais à me contacter via `Twitter` ou `LinkedIn` pour entamer une discussion techno!

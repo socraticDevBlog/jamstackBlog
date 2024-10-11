@@ -11,10 +11,10 @@ tags:
 Que ce soit sur votre machine locale ou sur le pipeline CI/CD, le `tfswitch` de warrensbox vous permet de changer la version de Terraform à la volée.
 
 ## qu'est-ce que Terraform?
->Terraform est un environnement logiciel d'« infrastructure as code » publié en open-source par la société HashiCorp. Cet outil permet d'automatiser la construction des ressources d'une infrastructure de centre de données comme un réseau, des machines virtuelles, un groupe de sécurité ou une base de données.
->
->L'infrastructure est décrite sous forme du langage de configuration HCL (Hashicorp Configuration Language). Il est aussi possible d'utiliser le langage JSON. [https://fr.wikipedia.org/wiki/Terraform_(logiciel)](https://fr.wikipedia.org/wiki/Terraform_(logiciel))
 
+> Terraform est un environnement logiciel d'« infrastructure as code » publié en open-source par la société HashiCorp. Cet outil permet d'automatiser la construction des ressources d'une infrastructure de centre de données comme un réseau, des machines virtuelles, un groupe de sécurité ou une base de données.
+>
+> L'infrastructure est décrite sous forme du langage de configuration HCL (Hashicorp Configuration Language). Il est aussi possible d'utiliser le langage JSON. [https://fr.wikipedia.org/wiki/Terraform\_(logiciel)](<https://fr.wikipedia.org/wiki/Terraform_(logiciel)>)
 
 Fondamentalement, lorsque vous choisissez d'utiliser des ressources de fournisseurs de cloud telles qu'Amazon « aws » et Microsoft « Azure », le moyen le plus efficace de provisionner des ressources consiste à écrire et à exécuter du code. Terraform est un langage déclaratif de haut niveau spécialement conçu pour cela.
 
@@ -33,7 +33,6 @@ Sur n'importe quelle machine sur laquelle Terraform n'est pas installé, je ne p
 fais-le!
 
 `traduit par Google Translate`
-
 
 ## sources
 

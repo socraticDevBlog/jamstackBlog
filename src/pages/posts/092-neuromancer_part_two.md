@@ -6,9 +6,11 @@ image: ../../images/neuromancer-part-2.png
 tags:
   - roman
 ---
+
 (mis-à-jour: jeudi 2022-06-17)
 
 ## chapitre 3 (partie 2 - L'expédition shopping)
+
 À la fin du chapitre 3, Case se sera connecté au cyberespace, à la Matrice.
 
 > Matrix - A ses racines dans les jeux d'arcade primitifs. Les premiers programmes graphiques et l'expérimentation militaire avec des vérins crâniens.
@@ -17,13 +19,14 @@ tags:
 
 ##### the Finn
 
-Molly et Case intégre un nouveau membre à l'équipe: le Finlandais. Officieusement,   le dos d'Armitage, ils consultent le Finlandais pour scanner leur corps. Ont-ils reçu de nouveaux implants dont ils n'étaient pas au courant ? Molly commence et confirme une liste d'implants connus. Le Finlandais révèle, à propos de Case
+Molly et Case intégre un nouveau membre à l'équipe: le Finlandais. Officieusement, le dos d'Armitage, ils consultent le Finlandais pour scanner leur corps. Ont-ils reçu de nouveaux implants dont ils n'étaient pas au courant ? Molly commence et confirme une liste d'implants connus. Le Finlandais révèle, à propos de Case
 
 > "Le gars est vierge. Des soins dentaires bon marché, c'est tout."
 
 Ils discutent également de l'identité et des objectifs d'Armitage. Le Finlandais révèle qu'Armitage ne fait que suivre les ordres. De qui? Il ne sait pas. Mais il sait que les ordres ne viennent pas d'un gouvernement, de la mafia japonaise ou d'un grand conglomérat japonais (zaibatsu).
 
 ##### Molly
+
 Molly amène Case à Manhattan pour un vrai petit-déjeuner. En fait, son objectif principal est de rendre visite au Finlandais.
 
 Case remarque que Molly est chez elle à _the Sprawl_. Le Sprawl, également connu sous le nom de BAMA (Boston-Atlanta Metropolitan Axis), est une zone urbaine où la matrice et les données circulent à fort volume. Surtout dans quelques pâtés de maisons de Manhattan et dans une zone industrielle centenaire d'Atlanta.
@@ -31,11 +34,13 @@ Case remarque que Molly est chez elle à _the Sprawl_. Le Sprawl, également con
 > "son Sprawl n'était pas le sien [...] Elle l'avait conduit à travers une douzaine de bars et de clubs qu'il n'avait jamais vus auparavant, s'occupant des affaires, généralement avec un simple signe de tête. Maintenir les relations."
 
 ##### Case
+
 Case a du mal à se souvenir de son voyage de retour du Japon. Seuls les aéroports et quelques virées shopping avec Molly Narita, Schipol, Orly. Il se souvient d'un voyage en train avec Molly vers leur destination finale :
 
 > Une grande salle vide. "Des murs vides, pas de fenêtres, une seule porte en acier peinte en blanc. Les murs étaient recouverts d'innombrables couches de peinture au latex blanc. Espace d'usine."
 
 ##### Armitage
+
 Armitage ajoute des précisions sur la mission de Case. Plus précisément à propos de ses traitements médicaux: un nouveau pancréas et un traitement ayant guéri son système nerveux affaibli.
 
 Armitage explique que, pendant la chirurgie, quinze sacs de toxine contenant une mycotoxine ont été "collés à la muqueuse de diverses artères principales". Les sacs se désintégreront lentement et libéreront une toxine similaire à celle dont Case avait été victime. Des toxines qui avaient détruit son système nerveux.
@@ -57,7 +62,7 @@ Pendant 9 jours, il est resté dans le cyberespace ou dans la peau de Molly.
 Sur un marché électronique, Molly a rencontré Larry. Un personnage louche qui l'a mise en contact avec les _Panther Moderns_.
 
 > Les _Moderns_ sont "un groupe mondial d'adolescents hackers et farceurs, qui peuvent être achetés par des groupes extérieurs".
- 
+
 Ils aideront Molly à créer le chaos dans le bâtiment Sense/net afin de voler la construction de Dixie Flatline. Un trait notable des _Modernes_ est leurs tenues de camouflage ; ils peuvent se fondre dans l'environnement comme des caméléons !
 
 Molly a été grièvement blessée pendant le braquage. Pour s'échapper du bâtiment, elle a dû engourdir sa douleur avec des endorphines. Puis elle a été opérée.
@@ -66,7 +71,7 @@ De retour au loft, Armitage a reçu la construction de Yonderboy (le leader des 
 
 Youderboy explique à Armitage pourquoi il ne compterait pas l'argent :
 
->"Vous allez payer. Vous êtes un Monsieur Qui. Vous payez pour en rester un. Pas un Monsieur Nom."
+> "Vous allez payer. Vous êtes un Monsieur Qui. Vous payez pour en rester un. Pas un Monsieur Nom."
 
 Malgré cela, Yonderboy délivre un message à Case. Un nom.
 
@@ -78,6 +83,7 @@ Nous en apprendrons plus sur la puissance derrière l'opération pour laquelle C
 engagé au chapitre 5.
 
 ### Tessier-Ashpool
+
 Molly avait chargé les _Panther Moderns_ d'enquêter sur Armitage.
 Après le braquage, son chef Youderboy a présenté à Case la réponse :
 MUET D'HIVER. De retour à New York, Case et Molly rendent visite au Finlandais pour poursuivre leur clandestinité
@@ -129,7 +135,7 @@ Le Finlandais, Case et Molly se retrouvent à Istanbul pour une mission d'enlèv
 
 Leur cible est Riviera. Riviera a un savoir-faire spécifique. Il peut projeter
 des hologrammes réalistes; créer
-illusion et hallucination chez les autres. Comment? Il s'est fait remplacer un 
+illusion et hallucination chez les autres. Comment? Il s'est fait remplacer un
 poumon par des implants
 qui lui donnent ce pouvoir.
 
@@ -142,11 +148,10 @@ Armitage leur dit de faire leurs valises pour leur prochaine destination : le Fr
 > institutions, la Villa Straylight et la famille Tessier-Ashpool."
 
 À la fin de la deuxième partie, Wintermute tend la main à Case en faisant sonner
-un téléphone public à l'hôtel  : "Bonjour Case... Wintermute, Case. Il est temps de parler.[...] N'est-ce pas
+un téléphone public à l'hôtel : "Bonjour Case... Wintermute, Case. Il est temps de parler.[...] N'est-ce pas
 tu veux parler, Case?".
 
 _Fin de la deuxième partie_
-
 
 `traduit de l'anglais par Google Translate`
 

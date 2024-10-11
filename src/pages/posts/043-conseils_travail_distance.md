@@ -8,7 +8,7 @@ tags:
   - croissance
 ---
 
-Encore une autre liste de conseils pour le travail à distance !  Pourquoi pas se rappeler régulièrement ces conseils, examiner nos habitudes et corriger le tir ?
+Encore une autre liste de conseils pour le travail à distance ! Pourquoi pas se rappeler régulièrement ces conseils, examiner nos habitudes et corriger le tir ?
 
 #### Changements des comportements par rapport au pré-COVID
 
@@ -22,7 +22,7 @@ Une étude de [Otka](https://www.okta.com/), une plate-forme de gestion de l'acc
 
 - La plupart des travailleurs à distance travaillent en dehors de leur plage horaire habituelle (ex.: 9h00 à 17h00);
 
-- La disparition du besoin de préparer les enfants et les transporter le matin amènent les travailleurs à distance à débuter la journée de travail de plus en plus de bonne heure : 
+- La disparition du besoin de préparer les enfants et les transporter le matin amènent les travailleurs à distance à débuter la journée de travail de plus en plus de bonne heure :
 
   - augmentation de 26% des connexions au travail à 4h00 du matin
 
@@ -34,7 +34,7 @@ Une étude de [Otka](https://www.okta.com/), une plate-forme de gestion de l'acc
 
   - Baisse des connexions entre 13h00 et 17h00. Une étude propose qu'il s'agit d'une plage horaire utilisée pour s'occuper de responsabilités familiales et d'autres responsabilités
 
-- L'étude remarque une augmentation des connexions tard dans la soirée : 
+- L'étude remarque une augmentation des connexions tard dans la soirée :
 
   - augmentation de 30% des connexions à 1h00 du matin
 
@@ -46,7 +46,7 @@ Une étude de [Otka](https://www.okta.com/), une plate-forme de gestion de l'acc
 >
 > <cite>--Scott Adams: "Le Principe de Dilbert"</cite>
 
-[EMTRAIN](https://emtrain.com/workplace-culture-report/), une société offrant des formations spécialisées sur la culture d'entreprise pour les travailleurs à distance, remarque une baisse du niveau de satisfaction en termes de santé de la culture de travail : 
+[EMTRAIN](https://emtrain.com/workplace-culture-report/), une société offrant des formations spécialisées sur la culture d'entreprise pour les travailleurs à distance, remarque une baisse du niveau de satisfaction en termes de santé de la culture de travail :
 
 - Une augmentation de 7% de travailleurs à distance ressentant le besoin de diminuer leur héritage ou identité personnelle pour s'intégrer
 
@@ -58,7 +58,7 @@ Une étude de [Otka](https://www.okta.com/), une plate-forme de gestion de l'acc
 
 #### Changements en termes de planification des rencontres
 
-[Doodle](https://doodle.com), une plate-forme en ligne de gestion de meetings à distance, remarque des changements dans la planification et la tenue de réunions en ligne. Suivant l'analyse de 30 millions de meetings ayant eu lieu au second trimestre 2020, Doodle remarque : 
+[Doodle](https://doodle.com), une plate-forme en ligne de gestion de meetings à distance, remarque des changements dans la planification et la tenue de réunions en ligne. Suivant l'analyse de 30 millions de meetings ayant eu lieu au second trimestre 2020, Doodle remarque :
 
 - Augmentation de 109% de l'utilisation de tableaux et rencontres virtuels
 
@@ -70,7 +70,7 @@ Une étude de [Otka](https://www.okta.com/), une plate-forme de gestion de l'acc
 
 - En Allemagne, 50% des meetings ont lieu entre 12h00 et 18h00. Le matin est consacré au travail ininterrompu. Surprise : c'est en Allemagne que les meetings pendant le week-end sont les plus fréquents. Ils battent les États-Unis et tous les pays européens.
 
-#### Étapes pour adresser les défis du travail à la maison 
+#### Étapes pour adresser les défis du travail à la maison
 
 1. Traiter votre espace de travail comme s'il était à 10km de chez vous. Demander aux autres occupants de votre domicile de ne pas vous interrompre pendant les heures de travail. À moins d'une urgence bien sûr 🚨
 

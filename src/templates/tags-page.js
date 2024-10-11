@@ -10,10 +10,13 @@ const tagsPage = ({ pageContext }) => {
     <Layout pageTitle="Les sujets abordés">
       <Seo title="Sujets" keywords={["sujets", "tags", "thèmes"]} />
       <ul>
-        {tags.map(tag => (
+        {tags.map((tag) => (
           <li key={tag} style={{ marginBottom: "10px" }}>
             <Button color="primary" href={`/tag/${slugify(tag)}`}>
-              {tag} <Badge pill bg="dark">{tagPostCounts[tag]}</Badge>
+              {tag}{" "}
+              <Badge pill bg="dark">
+                {tagPostCounts[tag]}
+              </Badge>
             </Button>
           </li>
         ))}

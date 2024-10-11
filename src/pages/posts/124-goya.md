@@ -16,10 +16,10 @@ locale qui répond aux caprices de plusieurs touristes aisés de passage dans la
 ville. Au début les étudiants attendaient anxieusement la commande d'un nouveau
 client. Sauraient-ils la satisfaire ? Étonnamment jamais une peau de giraffe ou
 des cigares exclusifs n'étaient demandés. En fait leur clientèle ne savaient
-pas vraiment quoi demander une fois les services de la firme offerts. 
+pas vraiment quoi demander une fois les services de la firme offerts.
 
 C'était plutôt le représentant qui suggérait le tableau de Goya posé à côté du
-grand lit de la chambre principale. 
+grand lit de la chambre principale.
 
 Pensons-y, on vous offre la possibilité de
 demander qu'on vous fournisse quelque chose d'inusité avec la confiance de voir

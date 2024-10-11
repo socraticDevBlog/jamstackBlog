@@ -15,9 +15,10 @@ L’objectif du testeur n’est pas de trouver tous les bogues ou de rendre le l
 En plus d’être le juge de la qualité du logiciel, le testeur est aussi un analyste. Son travail débute avant même qu’une ligne de code soit écrite. Il connaît le comportement et les fonctionnalités du logiciel et décide ce qui doit être testé et comment cela doit être testé. Il échafaude un plan systématique de tests et effectue les tests nécessaires après avoir reçu le produit final des mains du programmeur.
 
 ## Différents types de test
+
 ### black-box testing
 
-Les tests à la boîte noire sont les plus courants. Le logiciel y est testé dans le même contexte que celui d’un usager ordinaire : sans connaître le code ou les technologies impliquées à l’arrière-plan. Tout ce que le testeur connaît sont les entrées et les sorties. Il s’agit donc de tests non biaisés : le testeur se fiche de savoir si la base de données ou le service web est bien configuré. Le test est un succès quand il reçoit le résultat escompté. Par exemple, si on teste la fonction de multiplication, alors on s’attend à recevoir 6 quand on saisit l’opération 2 * 3.
+Les tests à la boîte noire sont les plus courants. Le logiciel y est testé dans le même contexte que celui d’un usager ordinaire : sans connaître le code ou les technologies impliquées à l’arrière-plan. Tout ce que le testeur connaît sont les entrées et les sorties. Il s’agit donc de tests non biaisés : le testeur se fiche de savoir si la base de données ou le service web est bien configuré. Le test est un succès quand il reçoit le résultat escompté. Par exemple, si on teste la fonction de multiplication, alors on s’attend à recevoir 6 quand on saisit l’opération 2 \* 3.
 
 ### white-box testing
 
@@ -25,12 +26,14 @@ Les tests à la boîte blanche représentent l’envers du black-box testing. On
 Acceptance testing
 
 ### Tests d'acceptation
+
 Les tests d’acceptation représentent une comparaison entre le comportement et les fonctionnalités attendues d’un système et le comportement et les fonctionnalités actuelles de la solution. Ces tests sont effectués de façon globale : on teste l’ensemble du système et non pas des zones isolées.
 
 Le but des tests d’acceptation est de juger si le système développé remplit les exigences fonctionnelles et non-fonctionnelles demandées par le client.
 Automated testing
 
 ### Tests automatisés
+
 > On définit les tests automatisés comme tout test dont l’exécution et la vérification est automatisée.
 
 Avec le cycle de développement Agile, une équipe est appelée à livrer fréquemment des fonctionnalités et des correctifs au client; souvent de façon bimensuelle. Cela signifie que les cahiers de test élaborés par le testeur doivent être roulés tout aussi fréquemment. La meilleure façon d’assurer une couverture optimale est d’automatiser ces tests.
@@ -40,7 +43,7 @@ Il existe de nombreux outils technologiques pour automatiser les tests. Je pense
 Automatiser le testing permet d’augmenter la qualité logicielle en libérant le testeur de la tâche ingrate de tester manuellement pour lui laisser le temps d’analyser et bâtir des cahiers de test.
 Regression testing
 
-En fait, la plupart des tests automatisés sont des tests de régression. Avec le cycle de développement Agile, de nouvelles fonctionnalités sont développées à chaque sprint. Or, est-ce que ces nouveautés ont  brisé des fonctionnalités existantes? Les tests de régression sont élaborés autour des fonctionnalités existantes d’un logiciel. Ils permettent de détecter efficacement des bris provoqués par le développement de nouvelles fonctionnalités.
+En fait, la plupart des tests automatisés sont des tests de régression. Avec le cycle de développement Agile, de nouvelles fonctionnalités sont développées à chaque sprint. Or, est-ce que ces nouveautés ont brisé des fonctionnalités existantes? Les tests de régression sont élaborés autour des fonctionnalités existantes d’un logiciel. Ils permettent de détecter efficacement des bris provoqués par le développement de nouvelles fonctionnalités.
 
 Il s’agit donc d’un filet de sécurité qui permet d’augmenter la valeur d’une solution en limitant les risques inhérents à un cycle de développement itératif rapide.
 Functional testing
@@ -58,16 +61,20 @@ C’est une blague! L’idée c’est d’avoir un plan de match à propos des z
 Il s’agit donc de tests non-systématiques mais relativement utiles pour améliorer la qualité d’un logiciel.
 Autres formes de testing
 
-### Load testing 
+### Load testing
+
 Déterminer le comportement d’une application fortement sollicitée
 
 ### Performance testing
+
 Mesurer la performance d’une application selon un scénario précis
 
 ### Recovery testing
+
 Évaluer comment une application réagit lorsqu’elle rencontre des erreurs ou lors de bris matériels
 
 ### Autres types de test
+
 Security testing, stress testing, usability testing, etc.
 
 #### Source :

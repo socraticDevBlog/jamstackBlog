@@ -17,4 +17,4 @@ L’_Allégorie de la caverne_ de Platon contient de nombreuses formes symboliqu
 #### Source
 
 Une excellente explication de la double-ignorance :
-[https://plus.lapresse.ca/screens/95df7a32-0df5-4ecb-bca8-c719e4962155__7C___0.html](https://plus.lapresse.ca/screens/95df7a32-0df5-4ecb-bca8-c719e4962155__7C___0.html)
+[https://plus.lapresse.ca/screens/95df7a32-0df5-4ecb-bca8-c719e4962155**7C\_**0.html](https://plus.lapresse.ca/screens/95df7a32-0df5-4ecb-bca8-c719e4962155__7C___0.html)

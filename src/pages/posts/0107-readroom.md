@@ -7,6 +7,7 @@ tags:
   - croissance
   - communication
 ---
+
 _Reading the room_ (lire la salle) est une expression anglaise courante faisant référence à une
 compétence favorisant une communication optimale:
 
@@ -45,7 +46,7 @@ peut avoir mauvaise réputation. Ou bien, l'auditoire ne le connaît simplement 
 ### II - Pathos
 
 _Pathos_ ou « émotions » se rapporte au public. Quel est l’état d’esprit de
-l'auditoire pendant la communication ?  Est-il impatient d'entendre ce que
+l'auditoire pendant la communication ? Est-il impatient d'entendre ce que
 l'orateur a à dire à dire ou craint-il plutôt d'entendre de mauvaises nouvelles ? Est-il
 pressé ? Pense-t-il que l'orateur puisse les aider à obtenir ce qu'il veut
 ou pense-t-il plutôt que l'orateur cherche à les arnaquer?
@@ -102,7 +103,7 @@ nous pouvons aujourd'hui nous dispenser de "lire la pièce".
 ## lire la salle aide à réduire l'écart entre l'orateur et le public
 
 Lire la salle exige de l'orateur une ouverture d'esprit et une humilité envers
-son auditoire.  Il sait reconnaître que ses connaissances, son expertise, ses
+son auditoire. Il sait reconnaître que ses connaissances, son expertise, ses
 succès passés et les mérites de ses idées ne suffisent tout simplement à
 assurer une communication efficace.
 

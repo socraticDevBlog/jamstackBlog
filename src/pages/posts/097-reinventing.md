@@ -15,7 +15,7 @@ Mais le monde du développement supporte aussi les conformistes et les
 paresseux.
 
 De nombreux dogmes sont d'ailleurs érigés pour conforter les développeurs
-moyens à faire persister le statu quo: 
+moyens à faire persister le statu quo:
 
 - un bon programmeur est un programmeur paresseux
 - il ne faut pas réinventer la roue
@@ -32,7 +32,7 @@ l'optique, la météorologie et la géométrie. Il refusa de se soumettre au
 principe d'autorité et rejeta le respect aveugle de la tradition philosophique.
 
 Il publia le _Discours de la méthode_ en français en 1637. À cette époque, la langue des
-savants étaient le latin. Le français était la langue du peuple non-éduqué. 
+savants étaient le latin. Le français était la langue du peuple non-éduqué.
 
 Pourquoi écrire pour se faire lire par le petit peuple?
 
@@ -57,7 +57,7 @@ Je pense. Mon esprit est la chose la plus certaine du monde.
 Ainsi Descartes inaugura la philosophie moderne. Une pensée non plus centrée
 sur les choses du monde, mais sur l'esprit qui pense et qui connaît. Bien sûr,
 c'est intéressant de connaître la biologie, par exemple. Mais rien ne bat que
-de connaître son propre esprit. 
+de connaître son propre esprit.
 
 Notre esprit est l'unité fondamentale de tout
 notre savoir.
@@ -65,14 +65,15 @@ notre savoir.
 ## David Heinemeier Hansson et Ruby on rails
 
 David Heinemeier Hansson (DHH) est une figure connue des développeurs web. Il
-est le créateur du célèbre framework [Ruby on rails](https://rubyonrails.org).  
+est le créateur du célèbre framework [Ruby on rails](https://rubyonrails.org).
 
 > Ruby on Rails, également appelé RoR ou Rails, est un framework web libre écrit en Ruby. Il suit le motif de conception modèle-vue-contrôleur. Il propose une structure qui permet de développer rapidement et intuitivement.
+>
 > <p><cite>Wikipedia, "Ruby on rails"</cite><p>
 
 Un peu comme pour Descartes, l'élaboration d'un framework web crédible était
 devenu une nécessité pour _DHH_. En tant que développeur web, son objectif
-principal était de construire des applications web et son expérience avec les 
+principal était de construire des applications web et son expérience avec les
 technologies existantes étaient pour lui toujours aussi frustrantes.
 
 L'idée directrice de _Ruby on rails_ était de favoriser l'expérience positive
@@ -85,6 +86,7 @@ compris et apprécié par tous les développeurs.
 > [...] je m'avisai de considérer que souvent il n'y a pas tant de perfection
 > dans les ouvrages composés de plusieurs pièces, et faits de la main de divers
 > maîtres, qu'en ceux auxquels un seul a travaillé.
+>
 > <p><cite>Descartes, "Discours de la méthode", seconde partie</cite></p>
 
 Au début de l'aventure, _DHH_ n'a autorisé aucun autre contributeur à pouvoir
@@ -106,7 +108,7 @@ moteur premier de leurs projets. Ils ont ceci en commun qu'aucune solution
 n'existait pour répondre à leurs visions.
 
 De plus, en créant un nouveau système de pensée ou un nouveau framework de
-développement web, la vision est primordiale. 
+développement web, la vision est primordiale.
 
 On peut se permettre de réinventer la roue si notre vision promet un progrès
 considérable vis-à-vis le statu quo.

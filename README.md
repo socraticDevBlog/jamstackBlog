@@ -1,7 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5649699f-11d8-4880-befe-755133eccba8/deploy-status)](https://app.netlify.com/sites/modest-hugle-a4dc07/deploys)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/socraticDevBlog/jamstackBlog?style=plastic)
-# Le blogue de socraticDev porte sur la technologie et la philosophie
 
+# Le blogue de socraticDev porte sur la technologie et la philosophie
 
 on utilise le framework [Gatsby - The Best React-Based
 Framework](https://www.gatsbyjs.com/) pour générer ce blogue. Un site web
@@ -31,7 +31,8 @@ git clone git@github.com:socraticDevBlog/jamstackBlog.git
 cd jamstackBlog
 ```
 
-install appropriate NodeJs as configured in  `.nvmrc` file
+install appropriate NodeJs as configured in `.nvmrc` file
+
 ```bash
 nvm install
 
@@ -39,26 +40,31 @@ node --version # to validate node installation
 ```
 
 install project dependencies with npm
+
 ```bash
 npm install .
+
+npm run build
+
+npm run develop
 ```
 
 run website locally to url [localhost:8000](http://localhost:8000)
 
 ![assets de socraticDev](src/images/assets.jpeg?raw=true)
 
-## Bâti autour du _framework_ GatsbyJS, la plate-forme techno du blogue est au goût du jour : 
+## Bâti autour du _framework_ GatsbyJS, la plate-forme techno du blogue est au goût du jour :
 
 ![static site sequence](https://dzone.com/storage/temp/11453293-static-site-generator.jpg)
 
-- Site web généré via ``NodeJS``
-- Site web hébergé sur un ``CDN``
-- Pipeline d'intégration et déploiement continu via ``GitHub`` et ``Netlify``
-- Contenu éditable au format ``Markdown``
-- Contenu queryable par ``GraphQL``
-- Composants visuels réutilisables ``React``
-- Style avec ``Saas`` : Syntactically Awesome Style Sheets
-- Optimisation du format des images livrées selon la compatibilité du browser : ``WebP`` quand c'est possible
+- Site web généré via `NodeJS`
+- Site web hébergé sur un `CDN`
+- Pipeline d'intégration et déploiement continu via `GitHub` et `Netlify`
+- Contenu éditable au format `Markdown`
+- Contenu queryable par `GraphQL`
+- Composants visuels réutilisables `React`
+- Style avec `Saas` : Syntactically Awesome Style Sheets
+- Optimisation du format des images livrées selon la compatibilité du browser : `WebP` quand c'est possible
 
 ## Performant
 

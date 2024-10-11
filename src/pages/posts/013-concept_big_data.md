@@ -12,8 +12,8 @@ Les concepts de _big data_ et de _données massives_ représentent l'entrée dan
 
 ### Premier défi : recrutement de talents
 
-> Sans traitement préalable, les données massives n'ont aucune valeur. 
-Il faut les analyser en vue d'espérer en tirer quelque chose d'utile. Afin de créer de la valeur, le domaine du big data est segmenté en différents rôles spécialisés. Chacun de ces rôles requiert un haut niveau de compétence. Il va sans dire qu'un des premiers défis du big data est le recrutement de talents experts en big data : 
+> Sans traitement préalable, les données massives n'ont aucune valeur.
+> Il faut les analyser en vue d'espérer en tirer quelque chose d'utile. Afin de créer de la valeur, le domaine du big data est segmenté en différents rôles spécialisés. Chacun de ces rôles requiert un haut niveau de compétence. Il va sans dire qu'un des premiers défis du big data est le recrutement de talents experts en big data :
 
 - Big Data Architect : design de systèmes;
 - Big Data Admin : monitoring et maintenance de systèmes;
@@ -21,7 +21,7 @@ Il faut les analyser en vue d'espérer en tirer quelque chose d'utile. Afin de c
 - Big Data Analyst : processing, analyse, rapports, visualisation;
 - Data Scientist : préparation des données en libre-service (_data wrangling_), processing avancé, analyse, business insights.
 
-### Les applications concrètes du Big Data 
+### Les applications concrètes du Big Data
 
 - Industrie : assurance qualité et maintenance préventive;
 - Distribution : optimisation de l’expérience en magasin et pricing dynamique;

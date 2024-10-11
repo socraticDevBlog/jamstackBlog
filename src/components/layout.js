@@ -23,7 +23,12 @@ const Layout = ({ children, pageTitle }) => {
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
       <div className="container" id="content">
-        <img id="main_logo" class="center" src={ Logo } alt="le logo de Socratic point Dev" />
+        <img
+          id="main_logo"
+          class="center"
+          src={Logo}
+          alt="le logo de Socratic point Dev"
+        />
         <h2>{pageTitle}</h2>
         <Row>
           <Col md="2"></Col>

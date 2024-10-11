@@ -6,7 +6,9 @@ image: ../../images/neuromancer-part4.png
 tags:
   - roman
 ---
+
 (Mise-à-jour finale: dimanche 2022-07-10)
+
 ## quatrième partie - The Straylight Run
 
 Case et Molly exécutent leur mission : une course dans la Villa Straylight de Tessier-Ashpool. Il devient clair qui est leur employeur : Wintermute. Wintermute est une IA essayant d'augmenter sa puissance. Selon la loi, les IA ne sont pas censées être autonomes. En mettant les humains dans des situations, Wintermute défie la loi pour atteindre son objectif.

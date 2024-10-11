@@ -8,18 +8,19 @@ tags:
   - linux
 ---
 
-Tout système informatisé est une structure complexe reposant sur plusieurs couches de protocoles logiciels et des éléments matériels. Le modèle `OSI` part de la couche physique, des impulsions électriques pour aboutir sur la couche applicative. Pour le commun des mortels la couche applicative est une interface utilisateur attrayante (`UI` pour _user interface_) : une application web ou mobile. 
+Tout système informatisé est une structure complexe reposant sur plusieurs couches de protocoles logiciels et des éléments matériels. Le modèle `OSI` part de la couche physique, des impulsions électriques pour aboutir sur la couche applicative. Pour le commun des mortels la couche applicative est une interface utilisateur attrayante (`UI` pour _user interface_) : une application web ou mobile.
 
 Habituellement, pour les développeurs, la couche applicative se présente comme des fonctionnalités rendues disponibles via des commandes textuelles tappées sur un clavier et visualisées sur un terminal.
 
 ##### autre analogie
+
 Le modèle `linux` repose sur un kernel, un noyau logiciel orchestrant les interactions entre logiciels et hardware. La couche extérieure, la coque logicielle, est appelée en anglais `shell`. Dans le monde `Unix/Unix-like`, l'informaticien accède à la puissance du système via une coque logicielle comme `shell`, `bash` ou `zsh`.
 
-> "Le terme anglais « shell » vient à l'origine de la terminologie employée avec les premiers systèmes d'exploitation de type Unix où il avait le sens plus spécifique de shell Unix. Cette appellation est une métaphore (on peut la traduire par coque en français) pour désigner la couche la plus haute des interfaces des systèmes Unix, par opposition à la couche de bas niveau, appelée noyau.  
->   
->Les premiers concepteurs informatiques américains avaient l’habitude de décrire les différentes couches logicielles d’un système par une analogie : celle du noyau et de la coque de noix.
+> "Le terme anglais « shell » vient à l'origine de la terminologie employée avec les premiers systèmes d'exploitation de type Unix où il avait le sens plus spécifique de shell Unix. Cette appellation est une métaphore (on peut la traduire par coque en français) pour désigner la couche la plus haute des interfaces des systèmes Unix, par opposition à la couche de bas niveau, appelée noyau.
 >
->En anglais, le mot « kernel » désigne le cerneau, la partie comestible du noyau de la noix. Il s’agit de la partie renfermée dans la coque. La coque étant la partie non comestible du fruit, appelée « shell » en anglais. L’idée sous-jacente étant que « pour accéder à la partie comestible (utile), il faut passer par la coque »."
+> Les premiers concepteurs informatiques américains avaient l’habitude de décrire les différentes couches logicielles d’un système par une analogie : celle du noyau et de la coque de noix.
+>
+> En anglais, le mot « kernel » désigne le cerneau, la partie comestible du noyau de la noix. Il s’agit de la partie renfermée dans la coque. La coque étant la partie non comestible du fruit, appelée « shell » en anglais. L’idée sous-jacente étant que « pour accéder à la partie comestible (utile), il faut passer par la coque »."
 
 #### POSIX
 
@@ -31,7 +32,7 @@ Toutefois, la norme n'est pas parfaite. Certains bogues subsistent et plusieurs 
 
 #### sh ou Bourne Shell
 
-`sh` ou `Bourne shell` est un langage de programmation de commandes respectant la norme `POSIX`. Son avantage est la compatibilité avec différents systèmes. Ce langage utilise la syntaxe et la sémantique d'anciens langages de programmation ; en majeure partie `ALGOL68`. 
+`sh` ou `Bourne shell` est un langage de programmation de commandes respectant la norme `POSIX`. Son avantage est la compatibilité avec différents systèmes. Ce langage utilise la syntaxe et la sémantique d'anciens langages de programmation ; en majeure partie `ALGOL68`.
 
 Un script `sh` va donc s'exécuter sans problème sur un système roulant `bash`. C'est le langage de scripting le plus portable. On est certain qu'il pourra être exécuté sur tout système `POSIX`, `UNIX` et `UNIX-like`.
 
@@ -45,8 +46,8 @@ On peut préférer `bash` pour la richesse de ses fonctionnalités en termes de 
 
 #### bash vs. sh
 
-|                           bash                          |sh                                                            |
-|---------------------------------------------------------|--------------------------------------------------------------|
+| bash                                                    | sh                                                           |
+| ------------------------------------------------------- | ------------------------------------------------------------ |
 | Bourne Again SHell                                      | SHell                                                        |
 | développé par Brain Fox                                 | développé par Stephen R. Bourne                              |
 | successeur de sh                                        | prédécesseur de bash                                         |
@@ -64,6 +65,7 @@ On peut préférer `bash` pour la richesse de ses fonctionnalités en termes de 
 > La première version de zsh a été écrite par Paul Falstad en 1990, à l'époque étudiant à l'université de Princeton. Le nom « zsh » vient de Zhong Shao, professeur à Yale, et assistant d'enseignement à l'université de Princeton. Paul Falstad pensait que l'identifiant de connexion de Shao, « zsh », était un nom convenable pour un shell.
 
 ##### (tiré de wikipedia)
+
 En particulier, zsh apporte les fonctionnalités suivantes :
 
 - Complétion des commandes, des options et des arguments de la plupart des commandes. En particulier, taper la suite de caractères « cd <TAB> » ne permettra la complétion que par des répertoires.

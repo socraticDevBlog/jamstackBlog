@@ -18,7 +18,7 @@ Dans un plan de cours, un prof de philosophie de NYU (New York University), expl
 
 En s'imaginant un lecteur _paresseux_, on écrit un texte clair et simple. Ce lecteur détestera vos longues phrases confuses. Si vous hésitez à demander directement ce que vous voulez, il ne fera pas l'effort de deviner. Soyez explicite. Utilisez des phrases courtes. Utilisez des mots simples ayant une seule interprétation possible.
 
-En s'imaginant un lecteur _stupide_, on prendra la peine de tout expliquer en détail. Ce lecteur n'a sûrement pas lu Proust, alors soyez futé et évitez de lui parler de la madeleine ...  Aussi, c'est perdu d'avance si vous osez référer à des notions complexes et denses. Il faut lui donner l'information en petites bouchées. Osez omettre les détails.
+En s'imaginant un lecteur _stupide_, on prendra la peine de tout expliquer en détail. Ce lecteur n'a sûrement pas lu Proust, alors soyez futé et évitez de lui parler de la madeleine ... Aussi, c'est perdu d'avance si vous osez référer à des notions complexes et denses. Il faut lui donner l'information en petites bouchées. Osez omettre les détails.
 
 En s'imaginant un lecteur _méchant_, vous saurez qu'il n'aura aucune pitié envers vous. Il ne sera pas charitable. Si vous lui fournissez une information discutable, il utilisera cette faille pour provoquer une argumentation et ralentir le processus. Alors, avant d'envoyer un email important : relisez-le et peaufinez vos phrases afin d'exclure toute possibilité d'interpréter votre propos de différentes façons. Il est fort probable qu'un lecteur méchant choisira l'interprétation vous étant la moins favorable.
 
@@ -35,4 +35,3 @@ Si tu as voulu dire _X_, pourquoi ne l'as-tu simplement pas dit ?
 Lee LeFever (2016), [Writing Help: Imagine Your Audience is Lazy, Stupid and Mean](https://explaineracademy.com/blog/4227/lazy-stupid-mean)
 
 Jim Pryor (2012), [Guidelines on Writing a Philosophy Paper](http://www.jimpryor.net/teaching/guidelines/writing.html)
-

@@ -20,7 +20,7 @@ Le travail à distance et la nouvelle mode du "travail collaboratif" a peut êtr
 
 Qu'entendons-nous par "flow state" et "deep work"? Ça peut sembler un idéal froid et élitiste ; une réalité destinée à quelques entrepreneurs survoltés.
 
-Je ne suis pas de cet avis. 
+Je ne suis pas de cet avis.
 
 Autant un cuisinier, une directrice de banque qu'un électricien peut bénéficier d'un état de pleine conscience.
 
@@ -28,10 +28,10 @@ Autant un cuisinier, une directrice de banque qu'un électricien peut bénéfici
 
 Le flow state est un état mental caractérisé par la concentration totale sur une tâche. Un état d'immersion totale où on perd la notion du temps. Les sportifs appellent cet état: "être dans la zone".
 
->Popularisé par les psychologues positifs Mihaly Csikszentmihalyi et Jeanne Nakamura, le flow state décrit un sentiment où, dans les bonnes conditions, vous vous immergez complètement dans tout ce que vous faites.
+> Popularisé par les psychologues positifs Mihaly Csikszentmihalyi et Jeanne Nakamura, le flow state décrit un sentiment où, dans les bonnes conditions, vous vous immergez complètement dans tout ce que vous faites.
 >
->«Il y a cette concentration qui, une fois devenue intense, conduit à un sentiment d'extase, un sentiment de clarté : vous savez exactement ce que vous voulez faire d'un moment à l'autre ; vous obtenez un retour immédiat », a déclaré Csikszentmihalyi dans une conférence TED en 2004. Csikszentmihalyi et Nakamura sont parvenus à cette conclusion en interrogeant une variété de personnes performantes et auto-actualisées : y compris des alpinistes, des joueurs d'échecs, des chirurgiens et des danseurs de ballet.
-><cite>--Headspace, "What it means to be in a flow state"</cite>
+> «Il y a cette concentration qui, une fois devenue intense, conduit à un sentiment d'extase, un sentiment de clarté : vous savez exactement ce que vous voulez faire d'un moment à l'autre ; vous obtenez un retour immédiat », a déclaré Csikszentmihalyi dans une conférence TED en 2004. Csikszentmihalyi et Nakamura sont parvenus à cette conclusion en interrogeant une variété de personnes performantes et auto-actualisées : y compris des alpinistes, des joueurs d'échecs, des chirurgiens et des danseurs de ballet.
+> <cite>--Headspace, "What it means to be in a flow state"</cite>
 
 La conviction des défenseurs du flow state est qu'une vie vraiment humaine n'est pas une vie de loisirs, mais plutôt une vie remplie de défis surmontés grâce à nos facultés de concentration et d'engagement.
 
@@ -41,7 +41,7 @@ La conviction des défenseurs du flow state est qu'une vie vraiment humaine n'es
 
 Le deep work est une compétence acquise par la pratique et l'adoption de saines pratiques. Il consiste à mener notre esprit avec intention, éviter d'être manipulés par les distractions et l'addiction aux gratifications instantanées.
 
->Selon Cal Newport, auteur du livre "Deep Work: Rules for focused success in a distracted world", l'habileté à rester concentré, ou deep work, est l'une des compétences les plus précieuses qu’une personne puisse apporter à son travail et à l’économie en général. Le concept de deep work est la base pour développer de précieux atouts, des idées innovantes, et des résultats percutants. Et, oui, c'est également extrêmement rare ! <cite>--Trello - "Deep work et efficacité au travail : les effets d’un manque de concentration? Entretien avec Cal Newport"</cite>
+> Selon Cal Newport, auteur du livre "Deep Work: Rules for focused success in a distracted world", l'habileté à rester concentré, ou deep work, est l'une des compétences les plus précieuses qu’une personne puisse apporter à son travail et à l’économie en général. Le concept de deep work est la base pour développer de précieux atouts, des idées innovantes, et des résultats percutants. Et, oui, c'est également extrêmement rare ! <cite>--Trello - "Deep work et efficacité au travail : les effets d’un manque de concentration? Entretien avec Cal Newport"</cite>
 
 ## nos ennemis
 
@@ -51,7 +51,7 @@ Encore pire, notre propre esprit est trop souvent notre pire ennemi! Les spécia
 
 ### distractions externes
 
-Les distractions externes sont les plus faciles à faire taire. On peut désactiver les notifications de notre ordinateur et smartphone. On peut même fermer son téléphone pendant nos séances de deep work. Si on ne peut pas éteindre ses collègues, il demeure possible de se retirer dans un endroit calme pour une séance de deep work. 
+Les distractions externes sont les plus faciles à faire taire. On peut désactiver les notifications de notre ordinateur et smartphone. On peut même fermer son téléphone pendant nos séances de deep work. Si on ne peut pas éteindre ses collègues, il demeure possible de se retirer dans un endroit calme pour une séance de deep work.
 
 On doit remarquer qu'on parle de séance de deep work. Il n'est pas nécessaire de s'exiler dans un monastère!
 
@@ -59,15 +59,15 @@ On apprend à alterner entre séances de travail superficiel (meetings, séances
 
 ### distractions internes
 
-Il demeure que le plus grand ennemi à l'atteinte de l'état de flow est notre propre esprit. Notre esprit est continuellement actif. Ce dialogue interne, le fait que nous nous parlions à nous-même, doit être pris en charge. 
+Il demeure que le plus grand ennemi à l'atteinte de l'état de flow est notre propre esprit. Notre esprit est continuellement actif. Ce dialogue interne, le fait que nous nous parlions à nous-même, doit être pris en charge.
 
 On doit calmer l'esprit ; apprendre à le maîtriser.
 
 La pratique régulière de la méditation est une méthode efficace pour dompter un esprit hyperactif. Il est scientifiquement prouvé que la méditation permet d'accroître notre potentiel de concentration, diminuer notre dialogue intérieur et améliorer notre bien-être.
 
-Tenir un journal de réflexion est aussi une bonne pratique pour libérer son esprit. L'écriture permet de canaliser le marasme d'idées et d'émotions qui embourbent notre esprit. En libérant notre esprit, on préserve son énergie. 
+Tenir un journal de réflexion est aussi une bonne pratique pour libérer son esprit. L'écriture permet de canaliser le marasme d'idées et d'émotions qui embourbent notre esprit. En libérant notre esprit, on préserve son énergie.
 
-Le tourment des idées qui s'enchaînent sans pouvoir s'échapper peut être épuisant, non? 
+Le tourment des idées qui s'enchaînent sans pouvoir s'échapper peut être épuisant, non?
 
 On veut que notre esprit soit un générateur d'idées de haute qualité. Pas un grenier où les entreposer!
 

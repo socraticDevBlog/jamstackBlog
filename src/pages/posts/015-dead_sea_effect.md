@@ -13,7 +13,7 @@ La Mer Morte est un grand plan d'eau situé à la frontière d'Israël et de la 
 sous le niveau de la mer, la seule façon dont l'eau en sort est par évaporation.
 Le taux de sel de son eau est donc beaucoup plus élevé que celui des océans (8 fois plus élevé) et la vie animale y est impossible.
 
-L'idée de cet _anti-pattern_ fut proposée en 2008 par Bruce F. Webster :  un consultant en TI expert en redressement de projets informatiques.
+L'idée de cet _anti-pattern_ fut proposée en 2008 par Bruce F. Webster : un consultant en TI expert en redressement de projets informatiques.
 
 #### Extrait :
 
@@ -60,11 +60,10 @@ les participants à la discussion ont soulevé :
 - Absence de liberté créative et de contrôle créatif ('micromanagement');
 - Différences de culture et de valeurs avec la majorité des collègues
 
-
 ### Pistes de solution
 
 Dans un prochain _post_, nous allons aborder le système Cravath comme piste de solution.
-Il s'agit d'un système sans pitié implémenté dans les firmes d'avocat. Le principe est __'Up or Out'__. Il est entendu qu'un nouvel employé est appelé à quitter l'entreprise
+Il s'agit d'un système sans pitié implémenté dans les firmes d'avocat. Le principe est **'Up or Out'**. Il est entendu qu'un nouvel employé est appelé à quitter l'entreprise
 dans un certain délai s'il n'est pas en mesure d'obtenir une promotion.
 
 À suivre ...
@@ -76,4 +75,3 @@ dans un certain délai s'il n'est pas en mesure d'obtenir une promotion.
 [Alex Papadimoulis (2008)](https://thedailywtf.com/articles/Up-or-Out-Solving-the-IT-Turnover-Crisis)
 
 [Erik Dietrich](https://daedtech.com/how-to-keep-your-best-programmers/)
-

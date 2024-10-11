@@ -14,32 +14,35 @@ Je suggère d'installer `tfswitch` au lieu d'installer la version du site d' `Ha
 
 `tfswitch` permet d'installer et switcher à n'importe quelle version de `Terraform` ; versions passées, présentes et futures.
 
-Avec `Homebrew`, il suffit d'exécuter la commande suivante dans le `terminal` : 
+Avec `Homebrew`, il suffit d'exécuter la commande suivante dans le `terminal` :
 
 ```
 brew install tfswitch
 ```
 
 #### astuce : ajouter le fichier binaire à votre path
+
 Suite à l'installation de `Terraform` via `tfswitch`, je rencontrai la réponse suivante en tentant d'exécuter `terraform`:
-````
+
+```
 terraform version
 > zsh: command not found: zsh
-````
+```
 
-Où `tfswitch` a-t-il déposé le fichier binaire de `Terraform` ?  Voilà la question à se poser.
+Où `tfswitch` a-t-il déposé le fichier binaire de `Terraform` ? Voilà la question à se poser.
 
 Dans mon cas, c'était dans un répertoire propre à mon utilisateur:
-````
+
+```
 which terraform
 > /Users/socraticdev/bin/terraform
-````
+```
 
 Il suffit donc d'ajouter ce répertoire `bin` au `PATH`:
 
-````
+```
 sudo vi /etc/paths
-````
+```
 
 On ajoute à la fin le path complet : `/Users/{votre username}/bin`
 

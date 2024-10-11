@@ -25,9 +25,9 @@ En JavaScript, vous avez de la chance: le langage le prend
 nativement en charge
 
 ```javascript
-let a = {"foo": "bar"};
+let a = { foo: "bar" }
 
-console.log(a.foo);
+console.log(a.foo)
 
 // bar
 ```

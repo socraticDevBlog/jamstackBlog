@@ -16,7 +16,7 @@ envers ses investisseurs (mais acquitée d'avoir fraudé les patients ayant reç
 de mauvais diagnostics ...).
 
 Le produit phare de Theranos était un appareil médical promettant d'exécuter
-une multitude d'analyses sanguines à partir d'un petit échantillon de sang. 
+une multitude d'analyses sanguines à partir d'un petit échantillon de sang.
 
 Malgré l'avis d'experts soutenant qu'il est théoriquement impossible d'exécuter
 une multitude de tests sanguins à partir d'un faible échantillon de sang,
@@ -66,7 +66,7 @@ Pour conserver leur emploi et éviter des répercussions négatives de la
 compagnie, les employés ont été forcé à fermer les yeux relativement à la
 qualité du produit développé, ils ont été forcés à se mentir à eux-mêmes.
 Certains se sont vu forcé à démissionner par éthique personnelle, d'autres ont
-développé des problèmes psychologiques. 
+développé des problèmes psychologiques.
 
 Les magouilles de Holmes ont même poussé un employé au suicide.
 
@@ -92,17 +92,17 @@ de l'information sur Theranos à un journaliste.
 ## conclusion - vérifiez, vérifiez et vérifiez
 
 La saga d'Elizabeth Holmes et Theranos est grandiose et peu courantre. Certes
-mais des imposteurs moins imposants sont présents autour de nous tous. 
+mais des imposteurs moins imposants sont présents autour de nous tous.
 
 Personne n'est dupe. À la longue on remarque que ces gens exagèrent certains
 faits, parlent avec assurance de sujets qu'ils ne maîtrisent pas, font des
 promesses qu'ils ne pourront pas tenir, dissimulent certaines informations.
 
-"Faire confiance mais vérifier" est une stratégie prudente et efficace. 
+"Faire confiance mais vérifier" est une stratégie prudente et efficace.
 
 Nous vivons en société et nous travaillons en équipe. Pour atteindre des
 résultats il est primordial de faire confiance aux autres. Ce faisant, il est
-notre responsabilité de vérifier que le travail d'autrui est adéquat. 
+notre responsabilité de vérifier que le travail d'autrui est adéquat.
 
 > "Dans certaines formes d'escalade, un individu, la grimpeuse, utilisera une corde et un baudrier comme protection contre les chutes. La deuxième personne, l'assureur, surveille la tension de la corde, donnant à la grimpeuse suffisamment de tension pour éviter une longue chute tout en fournissant suffisamment de mou pour lui donner une marge de manœuvre pendant qu'elle grimpe.
 > <br/><br/>
@@ -126,8 +126,6 @@ Faites confiance, mais vérifiez !
 - https://www.npr.org/2021/09/23/1040033127/mattis-elizabeth-holmes-theranos-trial
 
 - https://www.wikiwand.com/en/Ian_Gibbons_(biochemist)
-
-
 
 _De l'aide est disponible pour la crise et la prévention du suicide._
 

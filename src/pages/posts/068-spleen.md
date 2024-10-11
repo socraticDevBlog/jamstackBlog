@@ -14,7 +14,7 @@ Quand on regarde du mauvais code, notre corps réagit immédiatement. On ressent
 
 Notre cerveau nous empêche de démisionner sur le champ. Il nous pousse à relativiser notre première impression ; à adoucir notre dégoût instinctif. Ce déni peut même aller jusqu'à croire que ce mauvais code est, peut-être, très bien.
 
-La programmation orientée rate (`POR`) nous oblige à mettre un frein à nos rationalisations. Elle fait taire notre cerveau. Elle nous oblige à écouter notre corps. Même si le cerveau tente de nous convaincre que ce code n'est pas si terible, notre rate sait. 
+La programmation orientée rate (`POR`) nous oblige à mettre un frein à nos rationalisations. Elle fait taire notre cerveau. Elle nous oblige à écouter notre corps. Même si le cerveau tente de nous convaincre que ce code n'est pas si terible, notre rate sait.
 
 Quand une rate dit 'non' : c'est non !
 

@@ -1,11 +1,11 @@
 ---
-title: "C'est pas parce que ta start-up devient mature qu'elle doit être gérée par des gestionnaires de carrière"  
-date: 2024-09-01  
-author: "socraticDev"  
-image: ../../images/founder-mode3.png  
-tags:  
-  - idées  
-  - business  
+title: "C'est pas parce que ta start-up devient mature qu'elle doit être gérée par des gestionnaires de carrière"
+date: 2024-09-01
+author: "socraticDev"
+image: ../../images/founder-mode3.png
+tags:
+  - idées
+  - business
 ---
 
 J'ai bien aimé lire le dernière _blog post_ de Paul Graham, le fameux fondateur
@@ -30,7 +30,6 @@ fondateurs plutôt que de faire automatiquement confiance aux gestionnaires de c
 Graham est particulièrement critique envers les managers professionnels, les
 qualifiant de "comédiens" et de "menteurs habiles" capables de conduire les
 entreprises à leur perte.
-
 
 ### Mode Fondateur
 

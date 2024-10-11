@@ -8,9 +8,9 @@ tags:
   - productivité
 ---
 
- Scott Adams est un entrepreneur américain mieux connu comme le créateur du _comic strip_ ``Dilbert``. Cette bande dessinée quotidienne est une satire du monde du travail. Le personnage principal, Dilbert, est un ingénieur informatique en proie aux tourments générés par une organisation du travail absurde et kafkaïenne. Le lecteur y est témoin d’un univers où des patrons incompétents détiennent le pouvoir alors que employés compétents sont, eux, sans aucun pouvoir.
+Scott Adams est un entrepreneur américain mieux connu comme le créateur du _comic strip_ `Dilbert`. Cette bande dessinée quotidienne est une satire du monde du travail. Le personnage principal, Dilbert, est un ingénieur informatique en proie aux tourments générés par une organisation du travail absurde et kafkaïenne. Le lecteur y est témoin d’un univers où des patrons incompétents détiennent le pouvoir alors que employés compétents sont, eux, sans aucun pouvoir.
 
- En novembre 2019, Scott Adams a publié un livre plus sérieux autour du thème de la pensée critique. Ce livre  publié par Penguin Random House est intitulé ``Loserthink : How the Untrained Brains Are Ruining America``. Le propos est empreint de la présidence de Donald Trump. L’auteur se présente comme un fier Républicain et en profite pour offrir une perspective nuancée sur des personnages publics américains tel que Donald Trump, Roseanne Barr et Kanye West.
+En novembre 2019, Scott Adams a publié un livre plus sérieux autour du thème de la pensée critique. Ce livre publié par Penguin Random House est intitulé `Loserthink : How the Untrained Brains Are Ruining America`. Le propos est empreint de la présidence de Donald Trump. L’auteur se présente comme un fier Républicain et en profite pour offrir une perspective nuancée sur des personnages publics américains tel que Donald Trump, Roseanne Barr et Kanye West.
 
 Le livre _Loserthink_ de Scott Adams est un guide destiné à nous faire prendre conscience et nous aider à nous libérer de cette habitude mentale : la pensée des perdants (_loserthink_). La pensée des perdants consiste à fuir la réalité objective pour s'isoler confortablement dans la réalité mensongère de notre petite bulle.
 
@@ -25,7 +25,7 @@ Scott Adams nous encourage à nous distancer de notre ego et apprendre à appré
 - penser comme un entrepreneur;
 - penser comme un économiste.
 
-Tout en reconnaissant que nous n'échappons jamais entièrement à la prison des fausses opinions, il propose quelques bonnes habitudes intellectuelles pour nous aider à briser notre prison mentale : 
+Tout en reconnaissant que nous n'échappons jamais entièrement à la prison des fausses opinions, il propose quelques bonnes habitudes intellectuelles pour nous aider à briser notre prison mentale :
 
 - Considérer son ego comme un outil et non pas comme sa propre identité. Prendre en note nos opinions et prédictions afin de pouvoir reconnaître plus tard, avec humilité, là où nous nous sommes royalement trompés;
 

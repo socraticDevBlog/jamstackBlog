@@ -69,14 +69,14 @@ devraient certainement être minimisés afin d’améliorer le flux de livraison
 Être capable d’identifier ces goulots d’étranglement est un pas dans la bonne direction. Ça
 signifie que vous êtes déjà en mesure de visualiser le _work in progress_ (WIP)
 et vous faire une meilleure idée de la nature des goulots d’étranglement qui
-ralentissent votre __flux de valeur__(value stream).
+ralentissent votre **flux de valeur**(value stream).
 
 La prochaine étape de votre parcours d'amélioration continue consistera à
-relever le défi des __boucles de rétroaction__(feedback loops).
+relever le défi des **boucles de rétroaction**(feedback loops).
 
-En vous demandant : 
+En vous demandant :
 
-- « Est-ce que je construis la bonne chose ? »  
+- « Est-ce que je construis la bonne chose ? »
 - « Dans quelle mesure mes clients sont satisfaits de mon produit ? » .
 
 Savoir que vous construisez la bonne chose est aussi important que de bien la

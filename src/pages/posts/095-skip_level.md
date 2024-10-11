@@ -20,9 +20,9 @@ n'est pas une évaluation de la performance de l'employé. C'est un
 moment dédié à l'employé pour discuter avec son manager de ses idées, ses
 ambitions et ses enjeux au travail.
 
->"Le critère le plus important régissant les choses dont il faut parler [dans un _one-on-one] est
->ce sont les questions qui préoccupent et qui provoquent la grogne du subordonné."
-><cite>Andy Grove - ancien CEO et co-fondateur de Intel</cite>
+> "Le critère le plus important régissant les choses dont il faut parler [dans un _one-on-one] est
+> ce sont les questions qui préoccupent et qui provoquent la grogne du subordonné."
+> <cite>Andy Grove - ancien CEO et co-fondateur de Intel</cite>
 
 ## Skip level One-on-Ones
 
@@ -70,7 +70,7 @@ culture et aux comportements désirés au sein de son département.
 
 Selon Ben Horowitz, partenaire dans la firme _VC_ Andreessen Horowitz, le rôle
 d'un CEO est d'améliorer l'architecture de communication et la circulation de
-l'information au sein de son organisation. 
+l'information au sein de son organisation.
 
 Rencontrer de façon cyclique les contributeurs individuels permet aux hauts
 dirigeants de savoir ce qui se passe dans leur organisation.

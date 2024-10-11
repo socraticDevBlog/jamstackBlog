@@ -8,7 +8,7 @@ tags:
 ---
 
 > "Case était le voleur de données le plus affûté de la Matrice, jusqu'à ce qu'un ex-employeur paralyse son système nerveux.
-> Maintenant, un nouvel employeur l'a recruté pour une course de la dernière chance contre une Intelligence Artificielle 
+> Maintenant, un nouvel employeur l'a recruté pour une course de la dernière chance contre une Intelligence Artificielle
 > incroyablement puissante."
 
 ## chapitre 1
@@ -23,18 +23,19 @@ On ne sait pas si ce personnage principal cherche à se débarrasser de Wage, l'
 s'il essaie au hasard d'échapper à quelqu'un qui le suit secrètement dans ce quartier dangereux.
 
 Le chapitre 1 commence et se termine dans un bar confortable appelé "Chat". Après une folle évasion d'un immeuble à bureau de type industriel,
-Case arrive enfin à affronter Wage au bar. Sous la protection du barman tenant Wage en joue avec un pistolet anti-émeute, 
+Case arrive enfin à affronter Wage au bar. Sous la protection du barman tenant Wage en joue avec un pistolet anti-émeute,
 Case et Wage règlent leur différend.
 
-Le chapitre 1 se termine réellement au domicile temporaire de Case : l'_hôtel Bon Marché_. Là, il loue une chambre de la 
-taille d'un cercueil sur une base hebdomadaire. Remarquant que la serrure avait été tempérée, pensant que c'était probablement 
-un signe de la visite de son ex-petite amie Linda, il retourne néanmoins dans sa cellule. Il est accueilli par le "museau d'un pistolet à fléchettes". 
-Il rencontre Molly, une _bodyguard_ chargée de ramener Case à son employeur. Il ne discutera pas avec cette femme chirurgicalement 
+Le chapitre 1 se termine réellement au domicile temporaire de Case : l'_hôtel Bon Marché_. Là, il loue une chambre de la
+taille d'un cercueil sur une base hebdomadaire. Remarquant que la serrure avait été tempérée, pensant que c'était probablement
+un signe de la visite de son ex-petite amie Linda, il retourne néanmoins dans sa cellule. Il est accueilli par le "museau d'un pistolet à fléchettes".
+Il rencontre Molly, une _bodyguard_ chargée de ramener Case à son employeur. Il ne discutera pas avec cette femme chirurgicalement
 améliorée qui a des miroirs gris pour les yeux et dont les ongles sont dix lames rétractables ; affûtées comme des scalpels.
 
 ## chapitre 2
 
 ### guérir
+
 Case fait réparer ses lésions nerveuses et un nouveau pancréas. Molly escorte Case à un clinique de Chiba où Case est mis sous anesthésie :
 
 - le sang a été remplacé
@@ -43,9 +44,10 @@ Case fait réparer ses lésions nerveuses et un nouveau pancréas. Molly escorte
 
 Avant l'opération, Case a rencontré Armitage : son nouvel employeur. Armitage, se gonflant de son passé militaire, convainc Case d'arrêter sa lutte dans la ville nocturne du Japon pour recommencer à travailler comme jockey. Avant de retourner au Sprawl, Armitage fournira à Case le traitement de santé qu'il est venu chercher pour la première fois à Chiba.
 
-> "Genre... il va payer ces gars spécialistes du système nerveux pour te soigner avec le programme qu'il leur donne pour leur dire comment faire. Ça leur donnera trois ans d'avance sur la compétition. As-tu une idée de ce que ça vaut ?" <cite>Molly to Case</cite> 
+> "Genre... il va payer ces gars spécialistes du système nerveux pour te soigner avec le programme qu'il leur donne pour leur dire comment faire. Ça leur donnera trois ans d'avance sur la compétition. As-tu une idée de ce que ça vaut ?" <cite>Molly to Case</cite>
 
 ### dire au revoir
+
 Case insiste pour dire au revoir à Julie et régler ses affaires avant de quitter définitivement le Japon. Julius Dean, alias Julie, est un trafiquant de 135 ans qui entretient une relation paradoxale avec Case. Julie fournit des informations sur Armitage à Case. Ces informations confirment l'identité d'Armitage. Cependant, il devient clair à la fin de ce chapitre que Julie met les affaires avant l'amitié. Prêt à tuer l'ami d'un ami pour économiser un peu d'argent et des efforts...
 
 Le chapitre 2 se termine dans un lieu où un gala de combat au couteau est en cours. Le combat fascine Molly mais ennuie Case.

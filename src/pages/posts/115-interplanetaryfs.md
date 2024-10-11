@@ -37,18 +37,18 @@ ceux-ci.
 Les avantages d'un tel système? la liberté des utilisateurs de ne pas être
 soumis à une autorité centrale, l'amélioration de la persistance des données
 dans le temps, l'amélioration du software : les applications ayant une vocation
-de partage sans autorité centrale. 
+de partage sans autorité centrale.
 
-### Donc une autre arnaque à la blockchain? 
+### Donc une autre arnaque à la blockchain?
 
 Pas vraiment ... Le problème fondamental d'un système décentralisé est de
 motiver les acteurs à y participer dans le long terme ; de partager leurs
-ressources informatiques (espace disque, compute power, bande passante, électricité) avec des inconnus. 
+ressources informatiques (espace disque, compute power, bande passante, électricité) avec des inconnus.
 
 `IPFS` est discuté dans les mêmes cercles que ceux fréquentés par les adeptes
 de la blockchain. Mais le protocole `IPFS` n'est pas nécessairement lié à technologie du blockchain. L'idée d'un
 système décentralisé est ce qui les unit. Dans le cas du protocole `IPFS`, ce
-sont les données et les fichiers qui sont décentralisés. 
+sont les données et les fichiers qui sont décentralisés.
 
 Considérer la blockchain comme essentiellement une arnaque manque la cible
 selon nous. La cible pour un système d'information décentralisé est d'établir
@@ -68,7 +68,7 @@ Ici, je partage simplement ma découverte récente de l'InterPlanetary File Syst
 Mais je suis loin d'être expert et, si ce nouveau protocole décentralisé vous
 plaît aussi, je vous invite à creuser davantage voire participer au projet !
 
-### sources 
+### sources
 
 [Discover What's Out There with IPFS](https://ipfs.tech/)
 

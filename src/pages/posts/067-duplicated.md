@@ -7,7 +7,7 @@ tags:
   - productivité
 ---
 
-Au fil du temps, nos disques durs se remplissent de nombreux fichiers. Comme nous utilisons divers fournisseurs de stockage cloud comme ``dropbox`` ou ``oneDrive`` et que nous travaillons à partir de différentes machines, nous finissons souvent par avoir les mêmes fichiers en double, en triple, etc.
+Au fil du temps, nos disques durs se remplissent de nombreux fichiers. Comme nous utilisons divers fournisseurs de stockage cloud comme `dropbox` ou `oneDrive` et que nous travaillons à partir de différentes machines, nous finissons souvent par avoir les mêmes fichiers en double, en triple, etc.
 
 Ceci est inacceptable.
 
@@ -25,9 +25,10 @@ Comment ça marche? Après l'avoir installé sur votre machine, vous le pointez 
 
 > dupeGuru est bon avec les images. Il dispose d'un mode d'image spécial qui peut numériser des images de manière floue, vous permettant de trouver des images similaires, mais pas exactement les mêmes.
 
-Ensuite, il listera tous les fichiers et certains d'entre eux seront des doublons, des triplicats, etc. Ensuite, vous sélectionnez celui à supprimer et tapez ``ctrl-D`` pour les supprimer.
+Ensuite, il listera tous les fichiers et certains d'entre eux seront des doublons, des triplicats, etc. Ensuite, vous sélectionnez celui à supprimer et tapez `ctrl-D` pour les supprimer.
 
 Un disque dur propre est un disque dur heureux.
 
 #### sources
+
 https://dupeguru.voltaicideas.net/

@@ -12,7 +12,7 @@ tags:
 
 La secret du succès pour tout consultant est de connaître intimement les besoins du client. Pour maintenir le cap, le consultant doit toujours avoir en tête l'objectif du client et axer ses efforts dans cette direction. La pire erreur serait d'assumer que tous nos clients ont les mêmes besoins. C'est tout à fait faux. Si le contrat s'étend sur une longue période, il est probable que les objectifs et les priorités du client évoluent. Le client appréciera toujours un consultant qui prend le temps de poser des questions au sujet de ses priorités et de ses attentes.
 
-Par exemple, le client d'un consultant en informatique fait appel à lui pour combler différents besoins ne pouvant être adressés par ses propres employés : 
+Par exemple, le client d'un consultant en informatique fait appel à lui pour combler différents besoins ne pouvant être adressés par ses propres employés :
 
 - Maintenir un vieux système informatique capricieux en bon état de fonctionnement;
 - Développer rapidement une application informatique pour répondre à un besoin temporaire;

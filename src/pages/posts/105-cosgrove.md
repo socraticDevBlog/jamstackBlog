@@ -15,10 +15,10 @@ tags:
 > des gens qui terminent ce qu'ils entreprennent.
 
 La série américaine _Mad Men_ met en scène le quotidien des employés d'une agence
-de publicité new-yorkaise des années 1960. 
+de publicité new-yorkaise des années 1960.
 
 Je trouve intéressant que plusieurs youtubeurs et influenceurs font référence à
-cette série télévisée pour illustrer et discuter de certains aspects de la nature humaine. 
+cette série télévisée pour illustrer et discuter de certains aspects de la nature humaine.
 
 À mon tour, je m'inspire d'une scène de _Mad Men_ pour discuter des effets
 indésirables d'une certaine forme de leadership. Malgré de bonnes intentions,
@@ -31,7 +31,7 @@ a écrite fut publiée dans le prestigieux magazine _The Atlantic Monthly_.
 
 Au meeting hebdomadaire, un des grands patrons de la firme félicite le jeune
 écrivain. Roger Sterling souligne particulièrement son admiration pour
-quelqu'un qui termine ce qu'il a entrepris. 
+quelqu'un qui termine ce qu'il a entrepris.
 
 Il termine avec une remarque amère sur cette lacune dont témoigne la majorité
 de ses employés.
@@ -42,7 +42,7 @@ de ses employés.
 
 ## es-tu fier de moi aussi, patron ?
 
-Les félicitations du patron étaient méritées, bien sûr. 
+Les félicitations du patron étaient méritées, bien sûr.
 
 L'essentiel du message était de motiver ses troupes à exceller dans leur
 travail. À faire preuve de détermination.
@@ -98,7 +98,6 @@ Le génie de _Mad Men_ est de montrer que la toxicité dans les relations
 humaines est subtile. C'est souvent par ignorance et faiblesse que les uns
 causent du tort aux autres. Et c'est par une ignorance et une faiblesse
 similaire que les autres le tolèrent.
-
 
 ## références
 
