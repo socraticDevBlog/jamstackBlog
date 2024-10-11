@@ -5,7 +5,6 @@ module.exports = {
     author: `Maxime Bonin`,
     siteUrl: `https://socratic.dev`,
   },
-  flags: { PRESERVE_WEBPACK_CACHE: true, PARALLEL_QUERY_RUNNING: true },
   plugins: [
     `gatsby-plugin-image`,
     {
@@ -64,23 +63,11 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`,
     `gatsby-plugin-catch-links`,
-    `gatsby-plugin-preload-fonts`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
         path: `${__dirname}/src/images`,
-      },
-    },
-    {
-      resolve: `gatsby-plugin-gtag`,
-      options: {
-        // your google analytics tracking id
-        trackingId: `UA-154676737-1`,
-        // Puts tracking script in the head instead of the body
-        head: true,
-        // enable ip anonymization
-        anonymize: true,
       },
     },
     {
