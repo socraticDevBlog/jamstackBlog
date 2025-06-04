@@ -1,5 +1,5 @@
 ---
-title: "La justice kantienne dans le film noir Following de Christopher Nolan"
+title: "Following : quand Kant s’invite dans un film noir de Christopher Nolan"
 date: 2025-06-03
 author: "SocraticDev"
 image: ../../images/following.png
