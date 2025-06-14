@@ -80,13 +80,13 @@ pas commis. Il est devenu le pion dans le jeu d'un joueur plus habile que lui.
 
 Les thèmes de la morale kantienne présents dans le film "Following" de Christopher Nolan sont :
 
-- l'autonomie : de façon progressive, le personnage principal nie l'autonomie
+- __l'autonomie__ : de façon progressive, le personnage principal nie l'autonomie
   d'autrui en les suivant dans la rue et, ensuite, en pénétrant par effraction
   dans leur domicile
 
-- cécité morale : le personnage principal prétend que ses intentions sont nobles. Il désire comprendre les autres et améliorer son art. Toutefois, les intentions ne peuvent pas être une excuse pour commettre des infractions de nature morale
+- __cécité morale__ : le personnage principal prétend que ses intentions sont nobles. Il désire comprendre les autres et améliorer son art. Toutefois, les intentions ne peuvent pas être une excuse pour commettre des infractions de nature morale
 
-- l'illusion de contrôle : Bill croit avoir le contrôle et se voit comme une
+- __l'illusion de contrôle__ : Bill croit avoir le contrôle et se voit comme une
   espèce de surhumain pouvant modifier la vie des autres alors que c'est
   lui-même qui est manipulé.
 
