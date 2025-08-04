@@ -33,3 +33,5 @@ blog)
 
 [kaicode.org/2025.html](https://www.kaicode.org/2025.html)
 
+[How would you assess a programmer's Github profile?](https://softwareengineering.stackexchange.com/questions/82973/how-would-you-assess-a-programmers-github-profile)
+
