@@ -1,7 +1,6 @@
 import React from "react"
 import TwitterLogo from "../images/x-logo-black.png"
 import GithubLogo from "../images/github.png"
-import GitlabLogo from "../images/gitlab.png"
 import MastadonLogo from "../images/mastadon48x48.png"
 
 const Footer = () => (
@@ -21,22 +20,6 @@ const Footer = () => (
             <img
               src={GithubLogo}
               alt="github logo"
-              className="socialMediaLogo"
-            ></img>
-          </a>
-        </li>
-        <li className="">
-          <a
-            className=""
-            title="https://gitlab.com/socraticdev/"
-            href="https://gitlab.com/socraticdev/"
-            rel="noopener noreferrer"
-            target="_blank"
-            alt="lien vers ma page gitLab"
-          >
-            <img
-              src={GitlabLogo}
-              alt="gitlab logo"
               className="socialMediaLogo"
             ></img>
           </a>
