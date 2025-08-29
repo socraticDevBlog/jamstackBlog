@@ -30,7 +30,7 @@ const Layout = ({ children, pageTitle }) => {
           alt="le logo de Socratic point Dev"
         />
         <h2>{pageTitle}</h2>
-        <div
+        {/* <div
       style={{
         backgroundColor: "#000000",
         color: "#FFD700",
@@ -44,7 +44,7 @@ const Layout = ({ children, pageTitle }) => {
     >
       ⚠️📧 des courriels frauduleux prétendant venir de socratic.dev circulent.  
   Nous ne contactons jamais quelqu’un de manière non sollicitée. Restez vigilant.
-    </div>
+    </div> */}
         <Row>
           <Col md="2"></Col>
           <Col md="8">
