@@ -22,7 +22,7 @@ naître entre deux collègues. Au lieu de focaliser sur les personnes ou sur la
 nature des tâches, cette analogie permet d'illustrer que la qualité des
 relations interpersonnelles est tributaire de chacune des interactions entre
 deux collègues. Chacun démarre avec une batterie chargée à 50%. En fonction des
-résultats de ces interactions, la batterie se charge ou se vide.
+résultats d'interactions successives pendant une certaine période de temps, la batterie se charge ou se vide.
 
 Immédiatement, pour moi, cette analogie éclaire deux aspects importants de la
 qualité des relations interpersonnelles au travail. 
@@ -37,8 +37,7 @@ l'analogie de la batterie de confiance amène des nuances importantes lorsqu'on
 parle de frustration interpersonnelle au travail. En mettant l'accent sur la
 qualité de la relation plutôt que sur les personnes, il devient plus clair
 qu'une personne, au travail, peut avoir des rapports extrêmement agréables et
-productifs avec certaines personnes alors que d'autres personnes souhaiteraient
-carrément les voir se faire licencier. 
+productifs avec certaines personnes alors que la relation avec d'autres personnes peut s'avérer particulièrement difficile ou contre-productive.. 
 
 > [Chez Shopify] nous sommes très honnêtes au sujet des forces et faiblesses de chacun. Nous les publions même sur notre wiki interne. Tout le monde est invité à le faire, et ils peuvent expliquer comment ils aiment travailler et ce qu'ils valorisent. Il faut une année de travail ensemble avant de vraiment comprendre les gens. Nous avons toujours cherché des moyens d'accélérer ce processus.
 > 
