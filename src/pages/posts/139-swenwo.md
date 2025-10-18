@@ -47,9 +47,8 @@ kubernetes, une nouvelle version mineure est publiée. Encore pire, on vous
 annonce que la version d'OS utilisée sur vos serveurs ne sera plus supportée
 dans trois mois.
 
-La marée est définitivement à son plus bas quand une dépendance à un produit
-externe "libre et open source" se fait racheter par un conglomérat véreux qui
-le place derrière un paywall ...
+La marée touche le fond quand un projet open source adoré des développeurs
+finit entre les mains d’un conglomérat qui le transforme en abonnement mensuel.
 
 ### une question de perspective
 
