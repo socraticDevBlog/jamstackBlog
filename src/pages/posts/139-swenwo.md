@@ -26,11 +26,12 @@ Et la sécurité est bien sûr un détail.
 
 La marée commence à descendre dès qu'on déploie ce nouveau service en
 production. Les développeurs commencent à se rendre compte que la mer est moins
-profonde près des rives. La coque du navire s'érafle un peu en rencontrant l'équipe SRE et
-l'équipe de sécurité. On exige un processus de déploiement standardisé et
-auditable. La pérennité et la sécurité des données doit être assurée. SRE exige
-même de pouvoir facilement rollbacker tout nouveau déploiement en production si
-un incident causé par une nouvelle mise en production est détectée.
+profonde près des rives. La coque du navire s'érafle un peu en rencontrant
+l'équipe SRE et l'équipe de sécurité. On exige un processus de déploiement
+standardisé et auditable. La pérennité et la sécurité des données doit être
+assurée. SRE exige même de pouvoir facilement rollbacker tout nouveau
+déploiement en production si un incident causé par une nouvelle mise en
+production est détectée.
 
 ### scaling et le combat quotidien de garder les dépendances à jour
 
@@ -85,9 +86,9 @@ marées: être moins ambitieux à marée haute et être moins anxieux à marée 
 Et la même chose pour les gestionnaires et exécutifs: le niveau de performance
 et de productivité de vos équipes vont fluctuer. À marée haute, vous allez
 pouvoir présenter des démos puissantes lors de vos sprint reviews. Mais à marée
-basse, quand l'essentiel du temps de vos développeurs est de débugger des
-problèmes intermittents et mettre à jour leurs librairies, vos Powerpoint slides
-risquent d'être moins sexy!
+basse, quand l'essentiel du temps de vos développeurs est passé à débugger des
+problèmes intermittents et à mettre à jour leurs librairies, vos présentations
+Powerpoint risquent d'être moins sexy!
 
 ### actions
 
