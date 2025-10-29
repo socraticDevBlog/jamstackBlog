@@ -4,6 +4,12 @@ module.exports = {
     description: `Technologie et philosophie`,
     author: `Maxime Bonin`,
     siteUrl: `https://socratic.dev`,
+    // Default social preview image (relative to `src/images/` or served from /static)
+    image: `/images/cropped_solid_blue.png`,
+    social: {
+      twitter: `@socraticDevBlog`,
+      twitterCard: `summary_large_image`,
+    },
   },
   plugins: [
     {
