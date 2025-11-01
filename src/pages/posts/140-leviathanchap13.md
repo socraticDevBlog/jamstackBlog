@@ -2,7 +2,7 @@
 title: "Pourquoi tant de leaders ont étudié la philosophie"
 date: 2025-10-31
 author: "SocraticDev"
-image: ../../images/hobbes2.png
+image: ../../images/hobbes3.png
 tags:
   - croissance
   - idées
