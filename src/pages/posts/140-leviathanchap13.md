@@ -12,36 +12,36 @@ tags:
 Qu'ont en commun le fondateur de PayPal, le président français et un magnat des
 médias ?
 
-Peter Thiel(paypal, Palantir), George Soros(investisseur billionaire), Carl
-Icahn(investisseur billionaire), Reid Hoffman(LinkedIn), Bill Clinton (42ième
-président américain), Emmanuel Macron(président de la République française), Pierre
-Elliot Trudeau (ancien Premier ministre canadien), et Rupert Murdoch(magnat des
-médias) ? Ce sont des personnes ayant connu du succès sur la sphère publique et
-qui ont en commun un diplôme universitaire en Philosophie.
+Peter Thiel (paypal, Palantir), George Soros (investisseur billionaire), Carl
+Icahn (investisseur billionaire), Reid Hoffman (LinkedIn), Bill Clinton (42ième
+président américain), Emmanuel Macron (président de la République française), Pierre
+Elliot Trudeau (ancien Premier ministre canadien), et Rupert Murdoch (magnat des
+médias) ? Ce sont des personnes ayant connu du succès dans la sphère publique et
+qui ont en commun d'avoir étudié la Philosophie.
 
 La capacité de réfléchir sur des enjeux fondamentaux à un haut niveau
-d'abstraction caractérise, selon moi, les initiés à la philosophie. En plus
+d'abstraction caractérise, selon moi, les personnes initiées à la philosophie. En plus
 d'une simple capacité j'y vois davantage un courage. Le courage de réfléchir
-sérieusement à des choses qui peuvent nous rendre inconfortable. Où certaines
+sérieusement à des choses qui peuvent nous rendre inconfortables. Où certaines
 conclusions remettent en question nos opinions et peut-être notre identité.
 
 J'ose imaginer que pour les personnes célèbres énumérées plus tôt, qu'en plus de
 la capacité de réfléchir aux questions fondamentales, l'adoption d'une stratégie
-réaliste et pragmatique les ont propulsé au sommet.
+réaliste et pragmatique les a propulsés au sommet.
 
 ### pourquoi nous sommes tous égaux (et pourquoi c'est un problème)
 
 Parce que c'est ce que démontre le philosophe anglais Thomas Hobbes dans son
 oeuvre "Le Léviathan", au treizième chapitre "De la Condition du genre humain à
-l'état de nature".
+l'État de nature".
 
 Les hommes sont égaux.
 
 Bien sûr, il existe des variations dans la force physique. Mais, pour battre un
 plus fort, les hommes plus faibles peuvent s'allier et le vaincre facilement.
 
-Non seulement, la majorité d'entre nous se croit plus intelligent que la
-moyenne. Mais, aucun d'entre nous ne souhaite, en général, ne souhaite être
+Non seulement, la majorité d'entre nous se croient plus intelligent que la
+moyenne. Mais aucun d'entre nous ne souhaite, en général, ne souhaite être
 plus intelligent.
 
 > "Il n'existe pas d'ordinaire de meilleur signe d'égalité dans la distribution
@@ -52,21 +52,19 @@ plus intelligent.
 La conséquence de l'égalité entre les hommes, pour Hobbes, est la source de
 plusieurs malheurs, dont la guerre.
 
-La compétition entre personnes égales s'expliquent par ce que chacun souhaite
+La compétition entre personnes égales s'explique par ce que chacun souhaite
 avoir les mêmes choses mais comme les ressources désirées sont limitées il doit
-y avoir gagnants et des perdants. Il y a donc la __compétition__ où quelqu'un
+y avoir des gagnants et des perdants. Il y a donc la **compétition** où quelqu'un
 cherche à en dominer d'autres pour posséder ce qu'il désire. Il y a de la
-__défiance__ parce que chacun étant égaux, ils craignent pour leur sécurité et
-cherchent à se protéger. Finalement, la __gloire__ explique pourquoi certaines
-personnes et certains groupes entre en compétition: un attachement à des idéaux
+**défiance** parce que chacun étant égaux, ils craignent pour leur sécurité et
+cherchent à se protéger. Finalement, la **gloire** explique pourquoi certaines
+personnes et certains groupes entrent en compétition: un attachement à des idéaux
 politiques, à des normes abstraites comme le respect ou des valeurs
-traidtionnelles.
+traditionnelles.
 
 ### l'art de naviguer un monde imparfait
 
-> "All happy companies are diferent: each one earns a monopoly by solving a
-> unique problem. All failed companies are the same: they failed to escape
-> competition" Peter Thiel, "Zero to One"
+> "Toutes les entreprises prospères sont différentes : chacune acquiert un monopole en résolvant un problème unique. Toutes les entreprises en faillite se ressemblent : elles n'ont pas su échapper à la concurrence." Peter Thiel, "Zero to One"
 
 Dans le monde des affaires, Peter Thiel est connu pour ses ambitions
 monopolistiques. Dans le monde politique, Pierre Elliot Trudeau est connu pour
@@ -83,9 +81,9 @@ fort.
 
 ### défendre la force de l'État
 
-> "the society must take every means at its disposal to defend itself against
-> the emergence of a parallel power which defies the elected power in this
-> country" Pierre Elliot Trudeau during the 1970 October crisis
+> "La société doit mettre en œuvre tous les moyens à sa disposition pour se
+> défendre contre l'émergence d'un pouvoir parallèle qui défie le pouvoir élu
+> dans ce pays." Pierre Elliot Trudeau lors de la Crise d'octobre 1970
 
 Cette citation révèle comment un philosophe-politicien applique Hobbes:
 reconnaître que dans un État de nature (ou une crise), seule une autorité
@@ -104,13 +102,13 @@ Cette lucidité n'est pas du cynisme. C'est simplement voir le monde tel qu'il e
 
 ### l'humilité intellectuelle comme fondation
 
-Avoir étudié la Philosophie au niveau universitaire implique s'être immergé de
+Avoir étudié la Philosophie au niveau universitaire implique s'être immergé dans
 la pensée de divers grand philosophes. Platon à la session d'automne, Aristote
 à la session d'hiver. L'année d'après: Thomas d'Aquin et Occam, Machiavel et
 Descartes, ensuite Marx et Rawls, etc.
 
 Le diplômé est donc à l'aise de jongler avec des idées contraires. On
-souhaiterait aussi qu'il aie abandonné la tendance au dogmatisme et au
+souhaiterait aussi qu'il ait abandonné la tendance au dogmatisme et au
 fondamentalisme.
 
 Cette exposition cultive deux qualités essentielles. D'abord, l'aisance à jongler avec des idées contraires. Ensuite, et surtout, l'abandon du dogmatisme et du fondamentalisme. On développe une modestie épistémique : la reconnaissance qu'aucun système de pensée ne possède toute la vérité.
@@ -120,7 +118,7 @@ C'est cette combinaison d'humilité intellectuelle et de lucidité hobbésienne 
 En prenant l'État de nature hobbésien, on comprendra que ces traits de
 caractère font leur force.
 
-### naviguer l'état de nature moderne
+### naviguer l'État de nature moderne
 
 Dans l'État de nature hobbésien, et même dans nos sociétés modernes, certaines réalités persistent.
 
