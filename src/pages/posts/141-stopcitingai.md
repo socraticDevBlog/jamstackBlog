@@ -90,14 +90,6 @@ Ralentir l'échange et l'amener à reprendre sa part de responsabilité dans le 
 semble être la stratégie à adopter : "Peux-tu résumer dans tes propres mots ce
 que tu viens de coller ici?".
 
-Chercher à recadrer l'échange sur le contexte du différend d'opinion plutôt que chercher à atteindre un idéal ou une norme
-universelle: "Je reconnais que dans un monde idéal, nous devrions être en
-mesure de respecter telle et telle pratique, or si on réfléchit à propos de
-notre problème concret ici et maintenant, il me semble que prendre cette
-décision est la solution optimale puisqu'adopter la pratique que tu supportes
-n'apportera de résultats concret que dans quelques mois et dans le contexte
-actuel nous n'avons pas la possibilité d'attendre".
-
 L'étude de la théorie d'argumentation nous apprend un leçon importante : la
 meilleure option c'est d'éviter de mener des débats argumentatifs avec
 n'importe qui et au sujet de n'importe quoi.
