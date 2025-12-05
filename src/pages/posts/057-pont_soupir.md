@@ -6,6 +6,7 @@ image: ../../images/bridgesights.png
 tags:
   - croissance
   - carrière
+is_archived: true
 ---
 
 Dans l'Italie de la Renaissance, les petites cités-états du nord étaient constamment en guerre les unes avec les autres. Ces villes étaient commercialement prospères mais manquaient de ressources militaires appropriées. Ainsi, ils ont externalisé les tâches militaires à des entrepreneurs extérieurs; aux mercenaires appelés _Condotierre_.

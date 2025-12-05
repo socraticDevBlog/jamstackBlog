@@ -5,6 +5,7 @@ author: "SocraticDev"
 image: ../../images/dupeGuru.png
 tags:
   - productivité
+is_archived: true
 ---
 
 Au fil du temps, nos disques durs se remplissent de nombreux fichiers. Comme nous utilisons divers fournisseurs de stockage cloud comme `dropbox` ou `oneDrive` et que nous travaillons à partir de différentes machines, nous finissons souvent par avoir les mêmes fichiers en double, en triple, etc.

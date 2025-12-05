@@ -6,6 +6,7 @@ image: ../../images/prefacing.png
 tags:
   - fun
   - croissance
+is_archived: true
 ---
 
 Ce que je veux souligner ici c'est la prise de conscience collective par les

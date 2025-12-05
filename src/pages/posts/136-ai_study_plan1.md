@@ -7,6 +7,7 @@ tags:
   - croissance
   - ai
   - devops
+is_archived: true
 ---
 
 _Première partie d'une série sur l'intégration de l'intelligence artificielle

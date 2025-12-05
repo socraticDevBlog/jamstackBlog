@@ -6,6 +6,7 @@ image: ../../images/loserthink.jpg
 tags:
   - philosophie
   - productivité
+is_archived: true
 ---
 
 Scott Adams est un entrepreneur américain mieux connu comme le créateur du _comic strip_ `Dilbert`. Cette bande dessinée quotidienne est une satire du monde du travail. Le personnage principal, Dilbert, est un ingénieur informatique en proie aux tourments générés par une organisation du travail absurde et kafkaïenne. Le lecteur y est témoin d’un univers où des patrons incompétents détiennent le pouvoir alors que employés compétents sont, eux, sans aucun pouvoir.

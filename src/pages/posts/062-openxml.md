@@ -6,6 +6,7 @@ image: ../../images/openxml.png
 tags:
   - technologie
   - programmation
+is_archived: true
 ---
 
 Les fichiers produits par `Microsoft Word` et `Microsoft Excel` sont le résultat d'une compression `Zip` de répertoires bien organisés contenant des fichiers `XML`.

@@ -8,6 +8,7 @@ tags:
   - monitoring
   - freshdatasource.com
   - gitlab
+is_archived: true
 ---
 
 Depuis la migration du `Blogue de socraticDev` de la plate-forme `Wordpress` à un site web statique lui appartenant à 100%, le blogue a traité de divers sujets technologiques et professionnels en plus de quatre-vingt billets.

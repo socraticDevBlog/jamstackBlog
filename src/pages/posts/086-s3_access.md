@@ -6,6 +6,7 @@ image: ../../images/s3-new-access.png
 tags:
   - twitter
   - infonuagique
+is_archived: true
 ---
 
 En perdant mon temps sur twitter aujourd'hui, j'ai lu ce tweet de l'experte en

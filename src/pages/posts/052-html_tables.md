@@ -6,6 +6,7 @@ image: ../../images/tabular.png
 tags:
   - programmation
   - web
+is_archived: true
 ---
 
 Parlez à différents développeurs et vous découvrirez un chauvinisme qui défrise. Certains ne jurent que par les outils édités par `Microsoft` alors que d'autres n'y toucheraient pas avec le manche d'un balai. Les fans de `gnu/linux` sont souvent des amateurs d'anciens laptop `Thinkpad` solidement construits alors que les spécialistes du web demeurent fidèles à leur `Macbook Pro`.

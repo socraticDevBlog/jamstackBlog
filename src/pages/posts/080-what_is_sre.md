@@ -6,6 +6,7 @@ image: ../../images/shift-left-sre.png
 tags:
   - SRE
   - infrastructure
+is_archived: true
 ---
 
 "`SRE` est ce que vous obtenez lorsque vous traitez les opérations comme s'il s'agissait d'un problème logiciel" (`Google`)

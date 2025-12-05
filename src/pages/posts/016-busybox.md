@@ -6,6 +6,7 @@ image: ../../images/busybox.jpg
 tags:
   - linux
   - technologie
+is_archived: true
 ---
 
 BusyBox (_boîte occupée_) se considère **le Couteau Suisse du Linux des systèmes embarqués**. BusyBox combine des versions minimales de plusieurs utilitaires UNIX dans un petit fichier exécutable. Les utilitaires offerts par BusyBox sont moins complets que ceux disponibles dans les distributions complètes comme Ubuntu et CentOS. Toutefois, elle assure sensiblement toutes les fonctionnalités attendues d'un système Linux comme `ls`, `vi`, `chmod`, etc.

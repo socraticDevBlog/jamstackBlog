@@ -6,6 +6,7 @@ image: ../../images/mime.png
 tags:
   - technologie
   - sécurité
+is_archived: true
 ---
 
 Le _Multipurpose Internet Mail Extension_ est ce qui se cache derrière l'acronyme `MIME`. Il s'agit d'une solution proposée par Bell Labs en 1991 à divers problèmes rencontrés avec l'usage du protocole `SMTP`. Le _Simple Mail Transfer Protocol_ est utilisé par les serveurs de email pour envoyer et recevoir des emails. À l'origine il ne permettait que l'échange de texte au format ascii.

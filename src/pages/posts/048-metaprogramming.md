@@ -6,6 +6,7 @@ image: ../../images/dslanguages.png
 tags:
   - programmation
   - technologie
+is_archived: true
 ---
 
 On caractérise les langages de programmation les plus populaires (`C`, `C++`, `C#`, `JavaScript`, `python`) comme des langagues de programmation généraux ('general purpose programming language'). Ils nous permettent de scripter des actions, développer des applications, des sites webs, des jeux vidéo, etc. On caractérise ces langages de programmation comme des langages de troisième génération (`3GPL`). La première génération étant celle du code machine et la seconde, les langages `Assembleur`. La plupart des programmeurs utilisent quotidiennement un langage de 3ième génération car ils permettent pratiquement de tout faire tout en étant agréable pour le programmeur. Le propre d'un `3GPL` est qu'il est indépendant de la machine sur lequel il sera exécuté. Le même logiciel destiné à `Microsoft Windows` fonctionnera aussi bien si votre PC a un processeur `Intel` qu'`AMD`. Autre exemple, le langage `C#` reconnu comme le joyau de `Microsoft` s'affranchit de plus en plus de l'écosystème `Windows` et peut être exécuté sur des machines roulant d'autres systèmes d'opération comme `Linux` et `MacOS`.

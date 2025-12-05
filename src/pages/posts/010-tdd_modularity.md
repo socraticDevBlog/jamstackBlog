@@ -6,6 +6,7 @@ image: ../../images/jasmineTestRunner.jpg
 tags:
   - productivité
   - programmation
+is_archived: true
 ---
 
 À la conférence "Architecture web maintenable et testable" présentée au Agile Tour Québec 2019, le conférencier a dit quelque chose qui m'a vigoureusement fait hocher la tête et réchauffé le coeur:

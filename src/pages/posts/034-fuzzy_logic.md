@@ -6,6 +6,7 @@ image: ../../images/fuzzy-logic.png
 tags:
   - technologie
   - philosophie
+is_archived: true
 ---
 
 La logique floue (_Fuzzy Logic_) est fondée sur la théorie des ensembles flous élaborée par le mathématicien et ingénieur Lotfi Aliasker Zadeh en 1965. La logique floue facilite la modélisation du raisonnement logique opéré sur des propositions vagues ou imprécis comme "Pierre est jeune" ou "L'eau est chaude". Elle appartient à la famille des logiques à plusieurs valeurs (_many-valued logics_). Contrairement à la logique classique opérant sur deux valeurs de vérité (vrai et faux), la logique floue permet de faire des inférences à partir de prémisses n'étant ni vraies ni fausses, mais possédant un certain degré de vérité.

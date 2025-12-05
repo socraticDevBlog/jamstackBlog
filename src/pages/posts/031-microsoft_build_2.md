@@ -6,6 +6,7 @@ image: ../../images/hanselman.png
 tags:
   - technologie
   - programmation
+is_archived: true
 ---
 
 Microsoft a profité de cette conférence internationale de deux jours tenue 100% à distance pour souligner les forces de son application de communication et de collaboration `Teams`. L'application fut lancée en 2016 pour remplacer graduellement `Skype`.

@@ -5,6 +5,7 @@ author: "SocraticDev"
 image: ../../images/neuromancer-chapter2.png
 tags:
   - roman
+is_archived: true
 ---
 
 > "Case était le voleur de données le plus affûté de la Matrice, jusqu'à ce qu'un ex-employeur paralyse son système nerveux.

@@ -6,6 +6,7 @@ image: ../../images/pinochio.jpg
 tags:
   - philosophie
   - programmation
+is_archived: true
 ---
 
 Programmer c'est établir un parcours complexe où, peu importe quelle information y circule, le programme exécuté accomplit les fonctionnalités souhaitées. Sinon c'est un bogue à régler !

@@ -6,6 +6,7 @@ image: ../../images/founder-mode3.png
 tags:
   - idées
   - business
+is_archived: true
 ---
 
 J'ai bien aimé lire le dernière _blog post_ de Paul Graham, le fameux fondateur

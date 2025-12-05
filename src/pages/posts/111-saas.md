@@ -7,6 +7,7 @@ tags:
   - business
   - technologie
   - papers serie
+is_archived: true
 ---
 
 Le succèes de votre produit SaaS (Software as a Service) dépend beaucoup de

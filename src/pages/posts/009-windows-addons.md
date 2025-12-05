@@ -6,6 +6,7 @@ image: ../../images/happy_user.jpg
 tags:
   - productivité
   - technologie
+is_archived: true
 ---
 
 Il est possible de rendre l'utilisation de notre ordinateur plus agréable sans dépenser un sous. La plupart se contente de produits électroniques non-adaptés à leurs besoins. On croit que les spécialistes de l'industrie savent exactement ce dont nous avons besoin ; que les applications de notre ordinateur nous arrivent paramétrées de façon optimales 'out of the box'. Mais ce n'est pas le cas. Si nous, les clients, ne nous impliquons pas dans le développement des produits que vous utilisons quotidiennement, nous devrons nous contenter d'une expérience sous-optimale, générique et sans saveur.

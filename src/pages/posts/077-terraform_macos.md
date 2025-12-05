@@ -6,6 +6,7 @@ image: ../../images/tfswitch-mac.jpg
 tags:
   - technologie
   - productivité
+is_archived: true
 ---
 
 `GNU/Linux` est le système d'opération privilégié pour la gestion d'infrastructure dans l'infonuagique. Toutefois, travailler sur un mac est une expérience plaisante. Alors pourquoi pas installer `Terraform` sur son mac !

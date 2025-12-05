@@ -7,6 +7,7 @@ tags:
   - idées
   - carrière
   - croissance
+is_archived: true
 ---
 
 Comparer le cycle de développement logiciel (SDLC) avec le cycle des marées

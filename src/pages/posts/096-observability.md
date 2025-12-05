@@ -6,6 +6,7 @@ image: ../../images/observability.png
 tags:
   - idées
   - infonuagique
+is_archived: true
 ---
 
 L'observabilité est un sujet tendance dans les systèmes logiciels natifs du cloud.

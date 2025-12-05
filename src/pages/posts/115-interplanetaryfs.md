@@ -6,6 +6,7 @@ image: ../../images/ipfs.png
 tags:
   - idées
   - technologie
+is_archived: true
 ---
 
 "InterPlanetary File System (`IPFS`) est un système ouvert permettant de gérer

@@ -6,6 +6,7 @@ image: ../../images/workplace.png
 tags:
   - boss
   - croissance
+is_archived: true
 ---
 
 > "Elon Musk menace les agents du FBI et les contrôleurs aériens de démission forcée s'ils ne répondent pas à un e-mail."
@@ -60,6 +61,7 @@ suffisant :
 >
 > Listez cinq points clés et envoyez une copie à tous vos employés."
 
+is_archived: true
 ---
 
 ### sources

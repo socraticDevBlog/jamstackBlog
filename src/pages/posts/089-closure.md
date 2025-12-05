@@ -5,6 +5,7 @@ author: "SocraticDev"
 image: ../../images/closure-blog.png
 tags:
   - programmation
+is_archived: true
 ---
 
 On ne m'a pas enseigné la `programmation fonctionnelle` à l'école. Les lieux de travail ne l'utilisaient pas explicitement. Néanmoins, je suis intrigué par cette autre façon de programmer depuis quelques temps.

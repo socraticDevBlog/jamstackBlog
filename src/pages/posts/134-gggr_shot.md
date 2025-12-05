@@ -5,6 +5,7 @@ author: "SocraticDev"
 image: ../../images/whattheshotis.png
 tags:
   - croissance
+is_archived: true
 ---
 
 _Savoir écouter et comprendre avant d’agir, c’est la clé pour éviter les faux

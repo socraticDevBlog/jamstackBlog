@@ -6,6 +6,7 @@ image: ../../images/airport.jpg
 tags:
   - business
   - productivité
+is_archived: true
 ---
 
 Être engagé par une firme de consultation 'haut de gamme' est, pour bien des étudiants fraîchement diplômés, comme avoir gagné à la loterie. Les grandes firmes payent d'excellents salaires et avantages sociaux. Elles peuvent donc se permettre de n'embaucher que les

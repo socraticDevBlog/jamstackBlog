@@ -5,6 +5,7 @@ author: "SocraticDev"
 image: ../../images/solarwinds-hack.png
 tags:
   - sécurité
+is_archived: true
 ---
 
 Le 8 décembre dernier, la firme de sécurité américaine `FireEye` a divulgué avoir été victime d'une attaque majeure lors de laquelle des outils propriétaires furent subtilisés. Ces outils nommés `Red Team Tools` sont des processus sophistiqués pour simuler des attaques afin d'identifier des vulnérabilités et apprendre à l'organisation comment prendre des mesures afin d'améliorer la sécurité de leurs systèmes.

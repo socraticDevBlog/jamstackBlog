@@ -6,6 +6,7 @@ image: ../../images/expect.png
 tags:
   - linux
   - productivité
+is_archived: true
 ---
 
 `Expect` est un utilitaire basé sur `TCL` qui excelle dans l'automatisaton de tâches interactives.

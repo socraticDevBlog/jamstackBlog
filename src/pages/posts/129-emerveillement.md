@@ -6,6 +6,7 @@ image: ../../images/emerveillement.png
 tags:
   - philosophie
   - croissance
+is_archived: true
 ---
 
 Avant de couper la parole ou d'entrer dans un débat argumentatif avec autrui, il est essentiel de suspendre notre jugement. Ce texte explore pourquoi cette démarche, loin d'être un simple exercice intellectuel, est la clé d'une sagesse profonde.

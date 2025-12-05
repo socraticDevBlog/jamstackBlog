@@ -5,6 +5,7 @@ author: "SocraticDev"
 image: ../../images/javascript-blog-fr-2n.png
 tags:
   - programmation
+is_archived: true
 ---
 
 Toujours dans l'optique de respecter les principes de programmation modernes : continuons notre découverte de quelques fonctionnalités sympathiques de JavaScript.

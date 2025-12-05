@@ -6,6 +6,7 @@ image: ../../images/tfswitch.png
 tags:
   - technologie
   - productivité
+is_archived: true
 ---
 
 Que ce soit sur votre machine locale ou sur le pipeline CI/CD, le `tfswitch` de warrensbox vous permet de changer la version de Terraform à la volée.

@@ -5,6 +5,7 @@ author: "SocraticDev"
 image: ../../images/captcha.png
 tags:
   - technologie
+is_archived: true
 ---
 
 L'acronyme `CAPTCHA` signifie littéralement "Completely Automated Public Turing test to tell Computers and Humans Apart". L'objectif du `CAPTCHA` est de distinguer l'humain d'un robot. La plupart des sites et applications web sont destinées aux êtres humains. Par exemple, l'administrateur d'un site web de vente de billets de spectacle a tout intérêt à restreindre l'accès à sa plate-forme de réservation aux humains. Des revendeurs de billets pourraient utiliser un programme informatique pour acheter tous les billets intéressants et les revendre avec profits.

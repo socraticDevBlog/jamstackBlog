@@ -6,6 +6,7 @@ image: ../../images/socdevblogmusic.png
 tags:
   - idées
   - musique
+is_archived: true
 ---
 
 La plupart des développeurs croient qu'écouter de la musique en travaillant les

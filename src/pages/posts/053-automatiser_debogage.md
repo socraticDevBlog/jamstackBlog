@@ -6,6 +6,7 @@ image: ../../images/selenium.png
 tags:
   - programmation
   - web
+is_archived: true
 ---
 
 Avoir à naviguer vers une page web en vue d'effectuer un test ou démarrer une séance de débogage peut être vécu comme un supplice pour un développeur web. En plus d'avoir à manoeuvrer la souris et saisir des informations à répétition, il y a les temps d'attente. Les performances d'un serveur de développement sont souvent moindre que celles des environnements supérieurs. Cela a pour effet de ralentir significativement votre _flow_ ... et vous faire dépenser des calories de poignet sans valeur ajoutée.

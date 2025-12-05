@@ -5,6 +5,7 @@ author: "SocraticDev"
 image: ../../images/copypaste.png
 tags:
   - fun
+is_archived: true
 ---
 
 Je suis inspiré par la `Règle 4`

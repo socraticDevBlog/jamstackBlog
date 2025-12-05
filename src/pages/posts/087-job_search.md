@@ -6,6 +6,7 @@ image: ../../images/interview-banner.png
 tags:
   - carrière
   - croissance
+is_archived: true
 ---
 
 Les employeurs déploient des efforts considérables pour s'assurer d'un match parfait dans le processus de recrutement. Mais qu'en est-il des chercheurs d'emploi?

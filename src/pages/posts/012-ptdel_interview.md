@@ -6,6 +6,7 @@ image: ../../images/ptdel.png
 tags:
   - interview
   - technologie
+is_archived: true
 ---
 
 Patrick Thomas Delaney est un développeur full-stack focusant sur le développement d'applications 'cloud-native'. Il code autant en Python qu'en C# et s'occupe d'architecture de solution et design d'application. Il travaille présentement pour _Ahead_ : un compagnie techno basée à Chicago et dédiée à aider d'autres compagnies à construire l'infrastructure de leurs affaires numériques.

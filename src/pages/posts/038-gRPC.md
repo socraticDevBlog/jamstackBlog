@@ -6,6 +6,7 @@ image: ../../images/grpc.png
 tags:
   - technologie
   - programmation
+is_archived: true
 ---
 
 > [Développé principalement par Google], `gRPC` est un _framework_ `RPC` haute performance open source moderne qui peut s'exécuter dans n'importe quel environnement. Il peut connecter efficacement les services dans et entre les centres de données avec une prise en charge enfichable pour l'équilibrage de charge, le traçage, la vérification de l'état et l'authentification. Il est également applicable dans le dernier kilomètre de l'informatique distribuée pour connecter des appareils, des applications mobiles et des navigateurs aux services backend.

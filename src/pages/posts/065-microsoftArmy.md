@@ -6,6 +6,7 @@ image: ../../images/microsoftMilitary.png
 tags:
   - technologie
   - Microsoft
+is_archived: true
 ---
 
 Un accord important entre `Microsoft` et le Pentagone valide l'importance de la réalité augmentée pour l'avenir. Il s'agit d'un contrat dans le cadre duquel `Microsoft` promet de livrer «plus de 120 000 appareils basés sur son casque de réalité augmentée« HoloLens ». Le contrat est estimé à environ 21 milliards de dollars sur une période de 10 ans. Ce contrat prend un an et un la moitié après que `Microsoft` a remporté un contrat de 10 milliards de dollars pour un contrat cloud «Azure» du Pentagone.

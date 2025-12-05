@@ -6,6 +6,7 @@ image: ../../images/shadow-it-blogue.png
 tags:
   - productivité
   - sécurité
+is_archived: true
 ---
 
 > Shadow IT (parfois Rogue IT) est un terme fréquemment utilisé pour désigner des systèmes d'information et de communication réalisés et mis en œuvre au sein d'organisations sans approbation de la direction des systèmes d'information.

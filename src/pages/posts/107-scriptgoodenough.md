@@ -6,6 +6,7 @@ image: ../../images/plan-quality.png
 tags:
   - business
   - programmation
+is_archived: true
 ---
 
 La clé du succès c'est de livrer un produit qui répond aux besoins du client.
@@ -42,6 +43,7 @@ sous la forme de fichiers `markdown` comportant des métadonnées structurées
 sous la forme d'un "Front Matter"
 
 ```
+is_archived: true
 ---
 title: "parfait du premier coup"
 date: 2023-04-23
@@ -50,6 +52,7 @@ image: ../../images/plan-quality.png
 tags:
   - business
   - programmation
+is_archived: true
 ---
 ```
 

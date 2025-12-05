@@ -6,6 +6,7 @@ image: ../../images/dotnetlinux.png
 tags:
   - linux
   - programmation
+is_archived: true
 ---
 
 Vous êtes un développeur et vous aimez travailler sur des projets intéressants? En ajoutant la maîtrise de l'écosystème `linux` à votre CV, vous allez décidément être mieux placé pour intégrer des équipes travaillant sur des projets motivants.

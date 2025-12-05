@@ -6,6 +6,7 @@ image: ../../images/sideproject.jpg
 tags:
   - productivité
   - business
+is_archived: true
 ---
 
 > Les projets personnels qui ont le plus de succès sont ceux qui ont pour objectif principal de résoudre nos propres problèmes. Il est impossible de perdre en faisant ça. Car en résolvant nos propres problèmes, on rend notre vie plus facile.

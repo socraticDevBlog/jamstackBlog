@@ -6,6 +6,7 @@ image: ../../images/humanfightingai.png
 tags:
   - idées
   - philosophie
+is_archived: true
 ---
 
 Oser réfléchir et remettre en question notre conception de l'humanité sera la

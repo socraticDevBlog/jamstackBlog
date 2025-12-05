@@ -6,6 +6,7 @@ image: ../../images/openai.png
 tags:
   - business
   - philosophie
+is_archived: true
 ---
 
 En fin de journée, vendredi dernier, le conseil d'administration d'OpenAI a surpris la sphère

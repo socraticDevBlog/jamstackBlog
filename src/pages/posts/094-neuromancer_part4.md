@@ -5,6 +5,7 @@ author: "SocraticDev"
 image: ../../images/neuromancer-part4.png
 tags:
   - roman
+is_archived: true
 ---
 
 (Mise-à-jour finale: dimanche 2022-07-10)

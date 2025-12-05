@@ -5,6 +5,7 @@ author: "SocraticDev"
 image: ../../images/simpson-open-source.png
 tags:
   - programmation
+is_archived: true
 ---
 
 ##### Qu'est-ce qu'un projet open source ?
