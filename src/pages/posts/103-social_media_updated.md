@@ -6,6 +6,7 @@ image: ../../images/circlejerk.png
 tags:
   - carrière
   - croissance
+is_archived: true
 ---
 
 Je me demande parfois si ça emmerde les gens que je publie des hyperliens

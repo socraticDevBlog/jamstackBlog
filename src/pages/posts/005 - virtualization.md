@@ -6,6 +6,7 @@ image: ../../images/virtualization.png
 tags:
   - technologie
   - linux
+is_archived: true
 ---
 
 L'avenir de l'informatique passe par la virtualisation. Il existe présentement deux modèles dominants : la virtualisation par hyperviseurs et la virtualisation par conteneurs. Ces deux approches permettent de rentabiliser les ressources matérielles (serveurs et connexions au réseau) en permettant de rouler de façon isolée de multiples 'OS clients' sur la même machine physisique. Ces _clients_ ont l'impression de rouler de façon autonome sur leur propre quincaillerie physiques.

@@ -6,6 +6,7 @@ image: ../../images/enneagram.jpg
 tags:
   - philosophie
   - croissance
+is_archived: true
 ---
 
 Le site archéologique du temple de Delphes, en Grèce, est haut perché sur le flanc du mont Parnasse, à moins de 200km du centre-ville d'Athènes. Ce sanctuaire est reconnu pour sa vocation d'oracle. En échange d'offrandes, dans la Grèce antique, on pouvait adresser n'importe quelle question aux dieux et espérer recevoir une réponse sensée.

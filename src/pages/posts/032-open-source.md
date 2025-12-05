@@ -6,6 +6,7 @@ image: ../../images/open-source.png
 tags:
   - technologie
   - business
+is_archived: true
 ---
 
 Les étiquettes `FOSS` et `F/OSS` ('Free and Open-Source Software' et 'Free/Libre and Open-Source Software') décrivent un modèle de développement de logiciels à code source ouvert. Selon une licence légale souple, on permet à tous l'exécution, l'étude ainsi que la redistribution du code source. De même que son adaptation afin de vendre un nouveau produit ou service. Ce genre de logiciels se distinguent des logiciels propriétaires dont le code source est protégé, plus difficilement modifiable et dont l'utilisation est payante.

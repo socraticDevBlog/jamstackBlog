@@ -6,6 +6,7 @@ image: ../../images/coreRazor.png
 tags:
   - programmation
   - technologie
+is_archived: true
 ---
 
 `.Net Core` (prononcé "dot net core") est à la fois un framework de développement open-source et un environnement d'exécution (_runtime_) arrimé sur une machine virtuelle. C'est-à-dire que le code `VB`, `C#` ou `F#` est compilé en un langage-machine intermédiaire, `bytecode`, pour ensuite être exécuté par le runtime `CLR` (Common Library Runtime). Contrairement à du code compilé en code-machine (`C` ou `C++`), la machine virtuelle gère elle-même les particularités du hardware sur lequel l'application est exécutée. Aussi, diverses optimisations deviennent possibles dont celles assurées par la _compilation à la volée_ `JIT` (Just In Time compilation).

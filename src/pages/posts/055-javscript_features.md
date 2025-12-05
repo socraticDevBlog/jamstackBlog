@@ -5,6 +5,7 @@ author: "SocraticDev"
 image: ../../images/javascript-blog.png
 tags:
   - programmation
+is_archived: true
 ---
 
 <!-- Modern js :

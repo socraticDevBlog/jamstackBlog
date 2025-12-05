@@ -6,6 +6,7 @@ image: ../../images/boss.jpg
 tags:
   - philosophie
   - productivité
+is_archived: true
 ---
 
 La double ignorance fait référence à l'état cognitif d'un individu si ignorant qu'il ignore sa propre ignorance.

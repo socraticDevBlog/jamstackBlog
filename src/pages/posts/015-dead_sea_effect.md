@@ -6,6 +6,7 @@ image: ../../images/deadsea.jpg
 tags:
   - technologie
   - productivité
+is_archived: true
 ---
 
 L'effet de la Mer Morte est un _anti-pattern_ observé dans les grandes organisations ; privées et publiques.

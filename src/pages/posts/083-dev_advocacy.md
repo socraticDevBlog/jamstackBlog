@@ -6,6 +6,7 @@ image: ../../images/dev-advocacy.png
 tags:
   - carrière
   - croissance
+is_archived: true
 ---
 
 Le logiciel est le moteur de tous les aspects de l'économie. Au bas de l'industrie se trouvent les développeurs de logiciels. Les développeurs sont les artisans du logiciel. C'est super et pas si bien à la fois. Pas si terrible car ils sont souvent victimes de pressions et de frictions de la part de leurs collègues et de l'entreprise qu'ils servent.

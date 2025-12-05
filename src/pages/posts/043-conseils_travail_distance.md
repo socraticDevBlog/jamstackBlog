@@ -6,6 +6,7 @@ image: ../../images/wfh.png
 tags:
   - productivité
   - croissance
+is_archived: true
 ---
 
 Encore une autre liste de conseils pour le travail à distance ! Pourquoi pas se rappeler régulièrement ces conseils, examiner nos habitudes et corriger le tir ?

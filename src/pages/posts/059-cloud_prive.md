@@ -7,6 +7,7 @@ tags:
   - technologie
   - sécurité
   - productivité
+is_archived: true
 ---
 
 Vos données valent leur pesant d'or, alors pourquoi les confier à n'importe quel géant d'Internet ? Google docs et Microsoft 365 assurent la facilité d'utilisation et la haute disponibilité. Sachez toutefois que vous déposez vos documents dans ces applications infonuagiques en espérant qu'ils sont en sécurité. Peut-être qu'ils le sont. Peut-être pas...

@@ -6,6 +6,7 @@ image: ../../images/devs.jpg
 tags:
   - technologie
   - programmation
+is_archived: true
 ---
 
 La conférence Microsoft Build est un événement annuel destiné aux développeurs oeuvrant dans l'écosystème Microsoft.

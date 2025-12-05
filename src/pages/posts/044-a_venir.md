@@ -5,6 +5,7 @@ author: "SocraticDev"
 image: ../../images/board-meeting.jpg
 tags:
   - blogue
+is_archived: true
 ---
 
 L'actuel site web du blogue de SocraticDev fut mis en ligne il y a un peu moins d'un an : le `17 octobre 2019`. Auparavant, le blogue profitait d'un hébergement gratuit sur la plate-forme `wordpress.com`. Malgré la facilité de mettre un site en ligne et y ajouter du contenu, je désirais avoir un contrôle absolu sur mon contenu. En tant que programmeur, il n'y a pas vraiment d'excuse pour ne pas prendre en charge la construction et la mise en ligne de son blogue personnel. La création d'un site de blogue personnel est d'ailleurs le projet de base pour tous les frameworks JavaScript disponible sur le marché 😉

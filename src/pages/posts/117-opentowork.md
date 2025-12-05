@@ -5,6 +5,7 @@ author: "socraticDev"
 image: ../../images/opentowork.png
 tags:
   - carrière
+is_archived: true
 ---
 
 Sur les médias sociaux, la jeunesse est choquée de voir les entreprises

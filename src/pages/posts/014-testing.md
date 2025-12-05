@@ -6,6 +6,7 @@ image: ../../images/testing.png
 tags:
   - technologie
   - productivité
+is_archived: true
 ---
 
 Le rôle du testeur ou « analyste de l’assurance de la qualité » (QA) est de faire en sorte que les logiciels déployés chez les clients fonctionnent correctement et offrent les fonctionnalités promises.

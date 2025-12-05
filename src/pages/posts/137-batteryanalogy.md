@@ -8,6 +8,7 @@ tags:
   - productivité
   - communication
   - idées
+is_archived: true
 ---
 
 J'écoutais un podcast lors de ma marche quotidienne et j'ai allumé sur une idée

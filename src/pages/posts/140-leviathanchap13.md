@@ -7,6 +7,7 @@ tags:
   - croissance
   - idées
   - philosophie
+is_archived: true
 ---
 
 Qu'ont en commun le fondateur de PayPal, le président français et un magnat des

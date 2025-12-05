@@ -6,6 +6,7 @@ image: ../../images/firefighting.png
 tags:
   - productivité
   - foss
+is_archived: true
 ---
 
 Si votre workflow consiste à éteindre des feux à répétition. Surtout si la cause des problèmes est connue, mais jamais corrigée. Vous faites partie du problème.

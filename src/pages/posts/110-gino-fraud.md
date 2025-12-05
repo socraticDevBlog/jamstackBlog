@@ -6,6 +6,7 @@ image: ../../images/data-fraud.png
 tags:
   - fun
   - carrière
+is_archived: true
 ---
 
 Il y a environ un mois, Dan Ariely et Francesca Gino, deux influents

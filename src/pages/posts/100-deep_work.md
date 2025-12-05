@@ -6,6 +6,7 @@ image: ../../images/flow_state_blog.png
 tags:
   - productivité
   - croissance
+is_archived: true
 ---
 
 Quand notre outil de travail est l'intellect la capacité d'entretenir une profonde concentration pendant une longue période peut faire toute la différence entre de francs succès et des résultats ordinaires.

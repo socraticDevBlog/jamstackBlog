@@ -5,6 +5,7 @@ author: "SocraticDev"
 image: ../../images/neuromancer-chapter3.png
 tags:
   - roman
+is_archived: true
 ---
 
 (mis-à-jour finale: vendredi 1er juillet 2022)

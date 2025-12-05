@@ -5,6 +5,7 @@ author: "socraticDev"
 image: ../../images/handoff.png
 tags:
   - productivité
+is_archived: true
 ---
 
 La création, la livraison et la maintenance de systèmes logiciels sont un processus visant à

@@ -7,6 +7,7 @@ tags:
   - technologie
   - croissance
   - carrière
+is_archived: true
 ---
 
 Dans une carrière, on rencontre souvent ce type : `le routier désabusé qui a tout vu et qui aime se plaindre de tout et rien`. Personnellement, je suis fasciné par leurs propos parce qu'ils sont habituellement vrais et bruts. L'expression d'une vérité viscérale (et souffrante) pour cet individu. Pourtant, on me verra aussi éviter ces personnes par pudeur devant l'expression d'une impuissance acquise ...

@@ -5,6 +5,7 @@ author: "SocraticDev"
 image: ../../images/cambyse.png
 tags:
   - actualité
+is_archived: true
 ---
 
 Lire l'histoire du règne de Cambyse II, roi des Perses de 530 à 522 avant notre

@@ -6,6 +6,7 @@ image: ../../images/bigdata.png
 tags:
   - technologie
   - business
+is_archived: true
 ---
 
 Les concepts de _big data_ et de _données massives_ représentent l'entrée dans une nouvelle ère technologique. Contrairement à l'intelligence artificielle dont les tenants et aboutissants demeurent plus ou moins nébuleux, les données massives sont un fait avéré. Il est indiscutable qu'une quantité incroyable de données est quotidiennement créée. Le volume des données entreposées double chaque année depuis 2010. Nous mesurerons actuellement les données en termes d'_exaoctets_ (un milliard de _gigaoctets_) et d'autres dénominations encore plus immenses existent déjà : _zettaoctets_ (1 milliard d'exaoctets) et _yottaoctets_. Ce qui reste encore sujet à discussion est la façon dont nous allons exploiter ces données pour ajouter de la valeur à nos entreprises et projets.

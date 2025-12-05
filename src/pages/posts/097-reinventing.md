@@ -6,6 +6,7 @@ image: ../../images/descartes_rails.png
 tags:
   - philosophie
   - programmation
+is_archived: true
 ---
 
 Le monde du développement logiciel célèbre les innovateurs. Ceux qui remettent

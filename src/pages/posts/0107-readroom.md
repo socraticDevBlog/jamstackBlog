@@ -6,6 +6,7 @@ image: ../../images/read_the_room.png
 tags:
   - croissance
   - communication
+is_archived: true
 ---
 
 _Reading the room_ (lire la salle) est une expression anglaise courante faisant référence à une

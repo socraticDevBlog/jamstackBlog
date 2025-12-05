@@ -6,6 +6,7 @@ image: ../../images/missing-stair.png
 tags:
   - philosophie
   - croissance
+is_archived: true
 ---
 
 Imaginez entrer dans une maison inconnue et d'emblée vous constatez qu'il manque une marche à l'escalier principal. Vous vous inquiétez à voix haute du danger que ça représente. Mais l'hôte vous fait taire :

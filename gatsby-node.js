@@ -26,7 +26,9 @@ exports.createPages = ({ actions, graphql }) => {
 
   return graphql(`
     {
-      allMarkdownRemark {
+      allMarkdownRemark(
+        filter: { frontmatter: { is_archived: { eq: false } } }
+      ) {
         edges {
           node {
             frontmatter {

@@ -6,6 +6,7 @@ image: ../../images/skip_level.png
 tags:
   - communication
   - idées
+is_archived: true
 ---
 
 Les _Skip level One-on-Ones_ n'est pas une nouvelle idée dans le monde du travail.

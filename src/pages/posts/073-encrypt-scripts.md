@@ -8,6 +8,7 @@ tags:
   - programmation
   - foss
   - linux
+is_archived: true
 ---
 
 Une bonne stratégie de backup de fichiers est de conserver une copie des fichiers sur un autre support physique que l'original ainsi qu'une copie des mêmes fichiers à une autre localisation physique. Une excellente option pour entreproser ses backups à une différente localisation est de les envoyer sur le `cloud`. On peut souvent utiliser une option gratuite avec les grands joueurs `Google`, `Microsoft` ou `Dropbox`.

@@ -6,6 +6,7 @@ image: ../../images/floridatoilets.png
 tags:
   - philosophie
   - croissance
+is_archived: true
 ---
 
 _Imaginons un monde où certaines personnes sont nés avec les cheveux bleus. Or

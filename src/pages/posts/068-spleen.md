@@ -6,6 +6,7 @@ image: ../../images/spleen_oriented-programming.png
 tags:
   - fun
   - programmation
+is_archived: true
 ---
 
 > "La programmation orientée rate ("Spleen-oriented Programming") est une posture professionnelle où le programmeur s'assure qu'aucun code qu'il doit toucher ne fait souffrir sa rate."

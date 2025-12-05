@@ -6,6 +6,7 @@ image: ../../images/goya-sabbathwitches.png
 tags:
   - nouvelles
   - idées
+is_archived: true
 ---
 
 Une gigantesque copie d'un tableau de Goya posée par terre à la droite

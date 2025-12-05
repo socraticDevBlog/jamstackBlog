@@ -7,6 +7,7 @@ tags:
   - philosophie
   - idées
   - croissance
+is_archived: true
 ---
 
 Alerte spoiler !

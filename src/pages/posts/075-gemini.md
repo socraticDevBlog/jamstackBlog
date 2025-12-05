@@ -8,6 +8,7 @@ tags:
   - web
   - foss
   - actualité
+is_archived: true
 ---
 
 Que diriez-vous de lire les nouvelles sur votre terminal? Et que ça soit une expérience plaisante. Le protocole `Gemini` propose une alternative au protocole web `http` pour servir du contenu sémantiquement riche suivant la dynamique client/serveur.

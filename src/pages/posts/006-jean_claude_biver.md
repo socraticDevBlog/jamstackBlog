@@ -6,6 +6,7 @@ image: ../../images/biver.jpg
 tags:
   - philosophie
   - business
+is_archived: true
 ---
 
 Jean-Claude Biver est un horloger suisse ayant mis à profit son apprentissage chez Audemars-Piguet pour ensuite revitaliser la marque Blancpain et créer la marque Hublot. Il dirigeait jusqu'à tout récemment la destinée des marques Tag Heuer, Hublot et Zenith.

@@ -5,6 +5,7 @@ author: "socraticDev"
 image: ../../images/theranos.png
 tags:
   - croissance
+is_archived: true
 ---
 
 Mardi, la semaine dernière, Elizabeth Holmes s'est présentée à la prison

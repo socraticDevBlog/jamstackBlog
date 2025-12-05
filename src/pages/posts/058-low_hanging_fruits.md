@@ -6,6 +6,7 @@ image: ../../images/dilbert-low-hanging-fruit.png
 tags:
   - productivité
   - croissance
+is_archived: true
 ---
 
 Un peu comme le syndrome de la page blanche pour un écrivain, le projet non-démarré est une plaie connue de tous les développeurs. Souvent, nous avons tendance à vouloir élaborer un projet parfait. La plupart du temps, nos idées meurent dans l'oeuf. Avec la disponibilité de ressources puissantes et souvent gratuites, nous n'avons aucune excuse pour ne rien avoir concret à ajouter à notre portefolio.

@@ -6,6 +6,7 @@ image: ../../images/cosgrove.png
 tags:
   - croissance
   - idées
+is_archived: true
 ---
 
 > Vraiment.

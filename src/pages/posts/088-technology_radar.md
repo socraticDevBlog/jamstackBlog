@@ -6,6 +6,7 @@ image: ../../images/technological-radar.png
 tags:
   - technologie
   - idées
+is_archived: true
 ---
 
 Un `Technology Radar` est un outil formel permettant de visualiser

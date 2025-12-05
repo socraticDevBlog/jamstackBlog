@@ -6,6 +6,7 @@ image: ../../images/embedded.jpeg
 tags:
   - technologie
   - programmation
+is_archived: true
 ---
 
 Pour moi, choisir et implémenter un système de gestion de base de données pour une nouvelle application est une torture. Plusieurs questions me tourmentent : ai-je fait le bon choix de base de données, sélectionné le bon `ORM`, les modèles de données et schémas ? Toutes ces inquiétudes pour m'éviter d'avoir à modifier des schémas et scripter des migrations de données. Car je sais qu'en cours de route, il y aura des imprévus et des changements de cap dans le développement de l'application.

@@ -6,6 +6,7 @@ image: ../../images/shell_blog.png
 tags:
   - technologie
   - linux
+is_archived: true
 ---
 
 Tout système informatisé est une structure complexe reposant sur plusieurs couches de protocoles logiciels et des éléments matériels. Le modèle `OSI` part de la couche physique, des impulsions électriques pour aboutir sur la couche applicative. Pour le commun des mortels la couche applicative est une interface utilisateur attrayante (`UI` pour _user interface_) : une application web ou mobile.

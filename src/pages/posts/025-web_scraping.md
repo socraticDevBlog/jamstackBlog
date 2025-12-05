@@ -6,6 +6,7 @@ image: ../../images/harvester.jpg
 tags:
   - web
   - productivité
+is_archived: true
 ---
 
 Tout intervenant dans le monde du logiciel et du web sait à quel point le _data_, les données, est le nerf de la guerre.

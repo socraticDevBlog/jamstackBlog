@@ -6,6 +6,7 @@ image: ../../images/tabnine.png
 tags:
   - technologie
   - productivité
+is_archived: true
 ---
 
 TabNine est une startup canadienne fondée en 2018 par un étudiant de 22 ans de l'Université Waterloo en Ontario. Jacob Jackson, son fondateur, est actuellement engagé comme scientifique-chercheur chez OpenAI : un laboratoire de recherche en intelligence artificielle de San Francisco. La mission d'OpenAi est que l'ensemble de l'humanité puisse tirer profit de l'intelligence artificielle.

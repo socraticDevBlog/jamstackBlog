@@ -6,6 +6,7 @@ image: ../../images/platform-engineering-dalle.png
 tags:
   - idées
   - devops
+is_archived: true
 ---
 
 Un nouveau concept a fait son apparition dans le domaine du développement de
