@@ -5,7 +5,7 @@ author: "SocraticDev"
 image: ../../images/camus-la-peste.png
 tags:
   - philosophie
-is_archived: true
+is_archived: false
 ---
 
 Le roman _La Peste_ d'Albert Camus fut publié au mois de juin 1947. Depuis le début de la pandémie de Covid-19, beaucoup de lecteurs se sont procuré une copie du livre ou ont fouillé dans leur bibliothèque pour le relire.

@@ -6,7 +6,7 @@ image: ../../images/maze.png
 tags:
   - web
   - sécurité
-is_archived: true
+is_archived: false
 ---
 
 Les _Dark Patterns_ sont des éléments du design d'interface volontairement conçus pour conduire les utilisateurs à poser des actions non-désirées bénéficiant à l'entreprise en question. En d'autres mots, les _Dark Patterns_ sont des astuces exploitées par les sites web et les applications pour nous maniupler à faire des choses non-souhaitées ; comme acheter ou s'inscrire à quelque chose.

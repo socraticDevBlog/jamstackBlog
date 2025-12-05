@@ -6,7 +6,7 @@ image: ../../images/saltstack.png
 tags:
   - technologie
   - productivité
-is_archived: true
+is_archived: false
 ---
 
 `SaltStack` est une plate-forme hyper rapide assurant le provisionnement et le contrôle de ressources informatiques distribuées. `Salt Cloud` est un outil de gestion de configuration qui permet aux utilisateurs de provisionner des systèmes sur des hôtes en infonuagique (_cloud_) ou des hyperviseurs. Lors de l'installation, `Salt Cloud` installe `Salt` sur tous les systèmes provisionnés par défaut. Cela permet à l'utilisateur de mettre les systèmes dans l'état souhaité pendant l'approvisionnement.

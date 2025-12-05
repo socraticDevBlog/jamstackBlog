@@ -5,7 +5,7 @@ author: "SocraticDev"
 image: ../../images/michaelsoussan.png
 tags:
   - philosophie
-is_archived: true
+is_archived: false
 ---
 
 Ceci est une reprise de mon blog post du 13 août 2018. J'avais alors publié quelques lignes à propos d'un talk de Michael Soussan à Google afin de mieux réfléchir.

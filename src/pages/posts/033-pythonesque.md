@@ -5,7 +5,7 @@ author: "SocraticDev"
 image: ../../images/pythonesque.png
 tags:
   - programmation
-is_archived: true
+is_archived: false
 ---
 
 Programmer en Python nous oblige à modifier notre conception des _bonnes pratiques_ de programmation. En entreprise, on vise la stabilité et la robustesse applicative. Alors que le contexte où on privilégie le langage Python est différent. Python est parfaitement approprié quand on fait des preuves de concepts, on automatise des processus via le scripting, etc. Bref, en Python, on a tendance à aller vite afin d'obtenir des résultats plus rapidement. Certaines entreprises dopent leur potentiel de développement en mettant à profit la flexibilité du langage inventé par Guido van Rossum. Cela leur permet d'arriver rapidement à un `MVP` (produit minimalement viable). Quand le projet a fait ses preuves, ensuite, on recode le tout dans un langage de qualité 'entreprise' comme `C++`, `C#` ou `Java`.

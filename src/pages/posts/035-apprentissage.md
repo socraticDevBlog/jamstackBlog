@@ -6,7 +6,7 @@ image: ../../images/self-education.png
 tags:
   - technologie
   - programmation
-is_archived: true
+is_archived: false
 ---
 
 Pour apprendre à programmer et acquérir de nouvelles compétences, il existe de nombreuses plate-formes web dédiées à votre succès.

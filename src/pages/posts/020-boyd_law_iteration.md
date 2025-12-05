@@ -6,7 +6,7 @@ image: ../../images/dogfight.jpg
 tags:
   - productivité
   - technologie
-is_archived: true
+is_archived: false
 ---
 
 Quel est la durée idéale d'un sprint de développement ? Dans le doute : itérez le plus rapidement ! Voilà le conseil de Jeff Atwood : co-créateur du site web Stack Overflow et artisan techno respecté.

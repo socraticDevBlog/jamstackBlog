@@ -6,7 +6,7 @@ image: ../../images/consulting.png
 tags:
   - business
   - carrière
-is_archived: true
+is_archived: false
 ---
 
 > La consultation est le processus par lequel un individu ou une firme assiste un client dans l'atteinte d'un objectif précis. Cette assistance peut être prodiguée sous la forme d'informations, de recommendations ou de travaux effectifs. Un consultant est un spécialiste possédant une expertise dans un domaine professionnel et qui effectue les travaux nécessaires à l'atteinte des objectifs de son client.

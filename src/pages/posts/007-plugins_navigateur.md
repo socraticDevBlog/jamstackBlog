@@ -6,7 +6,7 @@ image: ../../images/rss.jpg
 tags:
   - web
   - philosophie
-is_archived: true
+is_archived: false
 ---
 
 L'utilisation d'internet se fait de plus en plus via le smartphone.

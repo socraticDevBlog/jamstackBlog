@@ -6,7 +6,7 @@ image: ../../images/https.jpg
 tags:
   - web
   - sécurité
-is_archived: true
+is_archived: false
 ---
 
 Le web est propulsé par le protocole HTTP depuis sa création. Cet acronyme signifie HyperText Transfer Protocol. Ce protocole appartient à la couche applicative et utilise le protocole TCP de la couche transport. C'est-à-dire que le 'processus électronique' utilisant HTTP est une application logicielle. Le plus souvent un navigateur web (Firefox, Chrome, Safari, etc.). Et quand on parle de TCP au niveau transport cela signifie qu'il s'agit de transmissions de données 100% garanties entre deux systèmes. Il n'y aura aucune perte de données pendant la transmission. Le protocole TCP , s'assure que tous les octets transmis furent bien reçus à l'aide d'une séquence de confirmations entre le client et le serveur :

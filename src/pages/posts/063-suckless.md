@@ -6,7 +6,7 @@ image: ../../images/suckless.png
 tags:
   - technologie
   - programmation
-is_archived: true
+is_archived: false
 ---
 
 "suckless.org est une communauté de programmeurs travaillant sur des projets de logiciels libres minimalistes avec un accent sur la simplicité, la clarté et la frugalité." La communauté fut fondée par l'Allemand Anselm R. Garbe et combat le développement de logiciels tellement complexes qu'ils demandent des ordinateurs ridiculement puissants pour l'utilisation qu'on en fait.

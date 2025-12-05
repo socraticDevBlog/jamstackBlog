@@ -6,7 +6,7 @@ image: ../../images/declarative_vs_imperative.png
 tags:
   - programmation
   - productivité
-is_archived: true
+is_archived: false
 ---
 
 Travailler à l'aide de certains outils comme `React`, `Terraform` et `SQL` permet au programmeur de se concentrer sur la réalisation d'une tâche sans se soucier des effets de bord. `React` permet moduler automatiquement la couche présentation selon les modifications apportées à l'état de la page, `Terraform` permet de monter et paramétriser une infrastructure chez un fournisseur en infonuagique et `SQL` permet de récupérer des données dans une base de données relationnelle. Ces outils procurent les abstractions nécessaires au programmeur pour atteindre ses objectifs. En empêchant le programmeur de préciser l'implémentation et d'écrire du code de bas niveau, ces outils limitent aussi les risques de générer des effets de bords et autres bogues.

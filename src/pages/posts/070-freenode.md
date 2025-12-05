@@ -6,7 +6,7 @@ image: ../../images/freenode.png
 tags:
   - actualité
   - foss
-is_archived: true
+is_archived: false
 ---
 
 (mise à jour 2021-05-24)

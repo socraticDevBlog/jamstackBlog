@@ -6,7 +6,7 @@ image: ../../images/osi_human.png
 tags:
   - croissance
   - philosophie
-is_archived: true
+is_archived: false
 ---
 
 En réseautique, le modèle OSI (_Open Systems Interconnect_) propose une explication théorique des systèmes reliés à un réseau en différents niveaux d'abstraction. Tout en bas, le matériel électronique et les impulsions électriques ; au sommet : l'application responsable des tâches de haut niveau.

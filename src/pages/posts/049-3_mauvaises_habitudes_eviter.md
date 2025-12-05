@@ -6,7 +6,7 @@ image: ../../images/3-erreur_eviter.png
 tags:
   - programmation
   - croissance
-is_archived: true
+is_archived: false
 ---
 
 Adopter des habitudes positives et productives est absolument nécessaire pour avoir une carrière fructueuse.

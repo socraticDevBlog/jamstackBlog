@@ -6,7 +6,7 @@ image: ../../images/knuth.jpg
 tags:
   - technologie
   - programmation
-is_archived: true
+is_archived: false
 ---
 
 > Donald Knuth est un informaticien et mathématicien américain de renom, professeur émérite en informatique à l'université Stanford (en tant que « professeur émérite de l'art de programmer »). Il est un des pionniers de l'algorithmique et a fait de nombreuses contributions dans plusieurs branches de l'informatique théorique.

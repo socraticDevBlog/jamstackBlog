@@ -6,7 +6,7 @@ image: ../../images/gift-economy.png
 tags:
   - croissance
   - philosophie
-is_archived: true
+is_archived: false
 ---
 
 La `culture du don`, également appelée _Gift Economy_ en anglais, est un système social d'échange économique historiquement adopté par certaines sociétés humaines lorsque les ressources disponibles sont assez abondantes pour assurer le bien-être de tous. Dans les sociétés où les besoins de chacun sont pris en compte, les anthropologues ont décrit ce phénomène curieux où le fait de distribuer sa propre richesse rend plus riche et élève son statut social.
