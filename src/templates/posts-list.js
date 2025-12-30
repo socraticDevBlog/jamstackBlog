@@ -31,7 +31,7 @@ export const postListQuery = graphql`
   query postsListQuery($skip: Int!, $limit: Int!) {
     allMarkdownRemark(
       sort: { frontmatter: { date: DESC } }
-      filter: { frontmatter: { is_archived: { eq: true } } }
+      filter: { frontmatter: { is_archived: { eq: false } } }
       limit: $limit
       skip: $skip
     ) {

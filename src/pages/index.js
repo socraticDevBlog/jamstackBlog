@@ -64,9 +64,9 @@ const IndexPage = () => {
 const indexQuery = graphql`
   query MyQuery {
     allMarkdownRemark(
+      filter: { frontmatter: { is_archived: { eq: false } } }
       sort: { frontmatter: { date: DESC } }
       limit: 10
-      filter: { frontmatter: { is_archived: { eq: false } } }
     ) {
       totalCount
       edges {

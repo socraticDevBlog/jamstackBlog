@@ -28,6 +28,7 @@ exports.createPages = ({ actions, graphql }) => {
     {
       allMarkdownRemark(
         filter: { frontmatter: { is_archived: { eq: false } } }
+        sort: { frontmatter: { date: DESC } }
       ) {
         edges {
           node {
