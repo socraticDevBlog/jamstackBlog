@@ -6,7 +6,7 @@ image: ../../images/navigating.webp
 tags:
   - carrière
   - ai
-is_archived: true
+is_archived: false
 ---
 
 Ce nouvel article de blog s'appuie sur un article précédent dans lequel nous avons fourni des conseils aux demandeurs d'emploi pour exceller lors des entretiens d'embauche([Petit guide du parfait chercheur d'emploi](https://socratic.dev/petit-guide-du-parfait-chercheur-demploi/)).

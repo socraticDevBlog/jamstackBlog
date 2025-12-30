@@ -6,13 +6,13 @@ image: ../../images/founder-mode3.png
 tags:
   - idées
   - business
-is_archived: true
+is_archived: false
 ---
 
 J'ai bien aimé lire le dernière _blog post_ de Paul Graham, le fameux fondateur
 du YCombinator de la Silicon Valley
 
-Inspiré par le récent _talk_ de Brian Chesky (PDF d'Airbnb), Paul Graham met de
+Inspiré par le récent _talk_ de Brian Chesky (PDF G'Airbnb), Paul Graham met de
 l'avant l'idée de garder les fondateurs de sa start-up une fois rendue mature
 
 > Le thème de l'intervention de Brian était que la sagesse conventionnelle sur

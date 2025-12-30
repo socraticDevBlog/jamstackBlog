@@ -6,7 +6,7 @@ image: ../../images/workplace.png
 tags:
   - boss
   - croissance
-is_archived: true
+is_archived: false
 ---
 
 > "Elon Musk menace les agents du FBI et les contrôleurs aériens de démission forcée s'ils ne répondent pas à un e-mail."

@@ -6,7 +6,7 @@ image: ../../images/json.png
 tags:
   - programmation
   - devops
-is_archived: true
+is_archived: false
 ---
 
 `JSON` est un acronyme signifiant "JavaScript Object Notation". C'est une

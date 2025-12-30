@@ -7,7 +7,7 @@ tags:
   - ai
   - fun
   - croissance
-is_archived: true
+is_archived: false
 ---
 
 C'est le message que veut passer Leo Herzog, un spécialiste en IT oeuvrant au
