@@ -5,6 +5,7 @@ author: "SocraticDev"
 image: ../../images/marcribot.png
 tags:
   - lecture
+  - lecture-2025
   - croissance
 is_archived: false
 ---
