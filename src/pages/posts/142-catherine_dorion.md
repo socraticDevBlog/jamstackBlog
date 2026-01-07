@@ -2,9 +2,8 @@
 title: "Le livre de Catherine Dorion"
 date: 2025-12-09
 author: "SocraticDev"
-image: ../../images/marcribot.png
+image: ../../images/reading2025red.png
 tags:
-  - lecture
   - lecture-2025
   - croissance
 is_archived: false
