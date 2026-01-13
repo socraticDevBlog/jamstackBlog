@@ -4,7 +4,7 @@ date: 2025-12-09
 author: "SocraticDev"
 image: ../../images/reading2025red.png
 tags:
-  - lecture-2025
+  - lectures-2025
   - croissance
 is_archived: false
 ---

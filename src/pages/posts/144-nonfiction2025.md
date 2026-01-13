@@ -4,7 +4,7 @@ date: 2026-01-06
 author: "SocraticDev"
 image: ../../images/reading2025red.png
 tags:
-  - lecture-2025
+  - lectures-2025
 is_archived: false
 ---
 
