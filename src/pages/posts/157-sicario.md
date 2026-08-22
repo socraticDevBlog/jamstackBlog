@@ -73,8 +73,6 @@ La leçon a tiré c'est que personne n'est à l'abri de telles tentatives de man
 
 Le dilemme moral que j'ai identifié dans le film Sicario de Denis Villeneuve est fertile en réflexion. Il se rapproche de l'archétype de la Chute ; la perte d'une innocence et la prise de conscience d'un monde où aucune autorité toute-puissante ne peut nous protéger contre les vissicitudes de la vie. Cette prise de conscience est habituellement comprise comme un mal nécessaire. Je présente aussi la "structure" comme une réalité inéluctable qui s'impose à nous. Surtout, je propose de ne pas nous battre contre la structure pour plutôt apprendre à la connaître afin d'acquérir les habiletés nécessaires pour agir avec plus d'impact sur le monde.
 
-Mes recherches à propos du film et de la notion de traumatisme moral m'ont amené aux travaux du psychiatre américain Robert Jay Lifton. Dr Lifton a produit des travaux sur les effets des guerres et des violences politiques ainsi que sur les techniques de manipulations des sectes. Par exemple, comment une structure comme une secte ou une agence gouvernement peut utiliser des techniques pour modifier les opinions et la personalité des membres sous son influence.
-
 Loin de conclure qu'il est juste d'abandonner ses convictions morales dans certaines situations, j'espère plutôt que cette réflexion a su montrer comment les structures de contrôle peuvent affecter nos vies et surtout comment cette prise de conscience aide à réduire leur l'emprise sur nous en favorisant une saine distinction entre ce qui dépend de nous et ce qui n'en dépend pas.
 
 ### sources
