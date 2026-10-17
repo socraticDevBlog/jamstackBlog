@@ -6,15 +6,13 @@ image: ../../images/read_the_room.png
 tags:
   - croissance
   - communication
-is_archived: true
+is_archived: false
 ---
 
-_Reading the room_ (lire la salle) est une expression anglaise courante faisant référence à une
-compétence favorisant une communication optimale:
+_Reading the room_ (lire la salle) est une expression anglaise courante faisant référence à une compétence favorisant une communication optimale:
 
 1. la capacité de comprendre rapidement les émotions, les opinions et
-   tendances dans un contexte de groupe comme un entretien d'embauche, une réunion d'affaires ou
-   même un spectacle en direct ;
+   tendances dans un contexte de groupe comme un entretien d'embauche, une réunion d'affaires ou même un spectacle en direct ;
 2. la capacité d'adapter son discours et son comportement en fonction de ces
    connaissances.
 
@@ -81,7 +79,7 @@ quelqu'un d'autre. C'est la capacité d'accepter que les autres aient des valeur
 des opinions, des objectifs et des émotions différents des miens.
 
 Négliger de prendre en considération les personnes diminue l'efficacité de la
-communtion. En simplifiant, nous disons que dans chaque communication
+communication. En simplifiant, nous disons que dans chaque communication
 il y a deux participants ou plus ; chacun a des émotions, des opinions,
 objectifs et des craintes qui lui sont propres.
 
@@ -91,46 +89,41 @@ les musiciens accordent leurs instruments sur la même note. On ne s'attend pas
 commencer à jouer. En raison de facteurs comme le changement de la température
 pendant ses déplacements, les instruments de musique se désaccordent.
 
-On peut pousser l'analogie entre la musique et la communicaton en soulignant qu'il est plus important que les
-instruments soient accordés entre eux qu'ils soient accordés à une fréquence
-précise mesurée par un accordeur calibré.
+On peut pousser l'analogie entre la musique et la communicaton en soulignant qu'il est plus important que les instruments soient accordés entre eux qu'ils soient accordés à une fréquence précise mesurée par un accordeur calibré.
 
 C'est la même chose pour les êtres humains. Avant d'entamer une conversation, nous voulons
 nous mettre au diapason des autres participants ; nous accorder.
 
 Et ce n'est pas parce que nous étions _au diapason_ à la dernière rencontre que
-nous pouvons aujourd'hui nous dispenser de "lire la pièce".
+nous pouvons aujourd'hui nous dispenser de "lire la salle".
 
 ## lire la salle aide à réduire l'écart entre l'orateur et le public
 
 Lire la salle exige de l'orateur une ouverture d'esprit et une humilité envers
 son auditoire. Il sait reconnaître que ses connaissances, son expertise, ses
-succès passés et les mérites de ses idées ne suffisent tout simplement à
+succès passés et les mérites de ses idées ne suffisent tout simplement pas à
 assurer une communication efficace.
 
 L’orateur compte sur son auditoire pour progresser. Avant de demander à son
 auditoire d'adhérer à ses idées, l'orateur doit d'abord se montrer intéressé à en savoir davantage sur eux ; l'auditoire.
 
-« Lire la pièce » signifie deux choses.
+« Lire la salle » signifie deux choses.
 
 Premièrement, vouloir en savoir davantage sur son public. Sont-ils pressés,
 sont-ils préoccupés par des choses plus urgentes que d'écouter l'orateur en ce
 moment ? Quels sont ses objectifs et comment l'orateur peut-il les aider à les atteindre ?
 
 Deuxièmement, être capable de s'adapter et de réagir positivement à ce que
-qu'il apprend de l'auditoire. Si le public est inquiet parce qu'il ne le connaît pas, il prendra
-le temps de se présenter et de répondre aux questions. Si le public est occupé et
+qu'il apprend de l'auditoire. Si le public est inquiet parce qu'il ne le connaît pas, il prendra le temps de se présenter et de répondre aux questions. Si le public est occupé et
 n'a pas le temps de lire et d'apprécier la documentation que mise à sa
 disposition, il va prendre le temps de la leur résumer, etc.
 
 ## conclusion
 
-Les compétences en communication sont essentielles au bonheur d'une personne. Beaucoup de nos échecs et
-de nos problèmes proviennent d’un échec de communication. Et nous en sommes le
+Les compétences en communication sont essentielles au bonheur d'une personne. Beaucoup de nos échecs et de nos problèmes proviennent d’un échec de communication. Et nous en sommes le
 plus souvent responsable.
 
-En cherchant à améliorer nos compétences en communication, nous apprenons une profonde vérité sur
-nous-mêmes. Nous apprenons que nous sommes fondamentalement seuls au monde ;
+En cherchant à améliorer nos compétences en communication, nous apprenons une profonde vérité sur nous-mêmes. Nous apprenons que nous sommes fondamentalement seuls au monde ;
 chacun vivant sur son île. En améliorant nos compétences en communication, nous
 construisons des ponts pour rendre visite aux autres et les inviter à nous
 visiter.

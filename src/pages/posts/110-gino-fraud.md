@@ -6,7 +6,7 @@ image: ../../images/data-fraud.png
 tags:
   - fun
   - carrière
-is_archived: true
+is_archived: false
 ---
 
 Il y a environ un mois, Dan Ariely et Francesca Gino, deux influents
@@ -31,11 +31,11 @@ Commençons par quelques axiomes sur la nature humaine ; quelques opinions que n
   beaucoup d'humains feront à peu près tout pour protéger leur statut, y
   compris mentir davantage et contre-attaquer.
 
-Certains humains sont de sales enfoirés ! que diriez-vous de ça comme axiome ?
+Certains humains sont de sales enfoirés. Que diriez-vous de ça comme axiome ?
 
 ### la puissant d'une bonne histoire
 
-En tant que technologue, ne sommes-nous pas tous excités par les « idées
+En tant que technologues, ne sommes-nous pas tous excités par les « idées
 appuyées par des données » ? L'ajout de chiffres ou d'un diagramme sur une
 diapositive Powerpoint augmente nos chances d'obtenir du soutien pour notre
 prochain projet, n'est-ce pas ?
@@ -48,14 +48,14 @@ proposition lorsque la personne qui la soutient utilise une histoire bien
 ficelée pour inviter votre  
 sympathie. Il se pourrait qu'ils aient travaillé sur cette proposition tard dans la nuit et
 le week-end, mais peu importe à quel point ils y travaillent dur : cela ne veut pas dire que
-la proposition est valide ! (Construire la prochaine plateforme de médias sociaux ? Je ne pense pas !)
+la proposition est valide !
 
 À mon avis, Ariely et Gino ont prospéré grâce à leur expertise dans
 la narration. De plus, je sens qu'Ariely survivra à cette crise grâce à
 sa créativité intense et son attitude amicale alors que la fin de la carrière
 de Gino est plus probable faute de charisme. Dans un autre sens, Ariely est une
-penseuse créative qui s'est brûlé en essayant de jouer au scientifique tandis
-que Gino s'est brûlé pour être simplement une mauvaise scientifique.
+penseur créative qui s'est brûlée en essayant de jouer au scientifique tandis
+que Gino s'est brûlée pour être simplement une mauvaise scientifique.
 
 ### risques et devoir
 
@@ -72,12 +72,12 @@ derniers articles de Gino portaient sur "la gestion d'une main-d'œuvre
 polarisée", « formation sur les préjugés inconscients » et « déchiffrer le code
 de la collaboration durable ». Ils vendaient leur huile de serpent comme des
 petits pains chauds aux compagnies d'assurance ou aux gouvernements en crise. Alors
-pourquoi ne pas falsifier ces satanées feuilles Excel si cela peut vous acheter une
+pourquoi ne pas falsifier ces satanées feuilles Excel si cela peut vous assurer un
 autre contrat avec une maison d'édition, un voyage en première classe autour du monde ou un
 _pied-à-terre_ à Manhattan ?
 
 L’entourage de ces deux coquins n’était pas dupe de l’arnaque. Bien qu'Ariely
-semblait avoir été apprécié par tous ceux qui avaient interagi avec lui, le
+semble avoir été apprécié par tous ceux qui avaient interagi avec lui, le
 Le bilan social de Francesca Gino était équivoque. Certains étudiants s'étaient montrés
 critiques à son égard : pour son attitude dévalorisante et
 ses méthodes de recherche douteuses. Une étudiante française,
@@ -91,12 +91,12 @@ Zoé Ziani, avait ouvertement douté de la science de Gino. Mais ses professeurs
 > <cite>Gideon Lewis-Kraus (2023), "The New Yorker"</cite>
 
 Le monde universitaire est en effet un écosystème étrange. Les professeurs
-profitent de la sécurité de leur mandat et sont se gardent habituellement de critiquer
+profitent de la sécurité de leur mandat et se gardent habituellement de critiquer
 ouvertement des collègues jouissant d'une bonne réputation.
 
-À moins que le martyre ne vous semble séduisant, je ne recommanderais pas de
+À moins que le martyr ne vous semble séduisant, je ne recommanderais pas de
 devenir un lanceur d’alerte solo. Les lanceurs d’alerte solo échouent ou, s'ils
-réussissent à se faire entendre, ils se voient généralement devenir victimes des représailles qui peuvent aller de contre-attaques(préjudice physique), au licenciement,
+réussissent à se faire entendre, ils se voient généralement devenir victimes de représailles qui peuvent aller de contre-attaques, au licenciement,
 emprisonnement ou enlisement dans des procédures judiciaires pendant une longue période.
 
 Trois professeurs inconnus ont uni leurs forces pour dénoncer les escrocs universitaires via leur
@@ -116,18 +116,18 @@ fraudeurs, menteurs et escrocs.
 Vous deviendrez une épine dans leur pied. Si vous ne faites pas attention, vous risquez
 être blessé par une forme de représailles ou une autre. Même si vous agissez
 avec prudence, comme l'Harvard Business School, une école de commerce qui a
-mené sa propre enquête avant de suspendre Professeur Francesca Gino, les
+mené sa propre enquête avant de suspendre Professeure Francesca Gino, les
 mauvais acteurs vont avant tout nier, ils adapteront leur récit pour
 s'adapter aux enquêteurs, et ils utiliseront le système juridique pour limiter
 leurs pertes.
 
 ### conclusion
 
-C'est pour ça que j'adore les histoires d'escrocs : elles sont pleines de
+C'est pour ça que j'adore les histoires d'escrocs (con artists) : elles sont pleines de
 sagesse et de leçons de vie.
 
 Premièrement, nous devons nous abstenir de faire aveuglément confiance aux gens
-; surtout ceux qui semblent jouir d'une renommée inédite. Bien sûr, nous devrions
+; surtout ceux qui jouissent d'une renommée inédite. Bien sûr, nous devrions
 faire confiance aux autres, mais nous devons également être prudents et
 vérifier la solidité de leurs propositions.
 
@@ -145,13 +145,11 @@ respecte votre décision de ne pas vous impliquer dans leur cabale. Se sentant
 coincés, ils vont tenter de contrôler les dégâts en vous cajolant. Sous couvert
 d'un "dialogue constructif", vous allez perdre votre temps et vos énergies en
 parlant avec eux. Ne vous engagez pas ! Partez ! Même si vous vous trompiez à
-propos de tout cela, une personne de bonne foi respecterait votre décision et
-ne vous obligerait pas à vous engager dans une dispute déplaisante.
+propos de tout cela, une personne de bonne foi respectera votre décision et
+ne vous obligera pas à vous engager dans une dispute déplaisante.
 
 Par exemple, lorsque Dan Ariely a été pressé de fournir des sources pour une recherche, il
-se tourna vers le professeur Aimee Drolet Rossi de l'UCLA. En guise de flatterie ("ça me manque
-nos débuts") et des courriels répétés, il a essayé de l'utiliser comme bouc émissaire pour
-ses appréhensions.
+se tourna vers le professeur Aimee Drolet Rossi de l'UCLA. En guise de flatterie ("ça me manque nos débuts") et des courriels répétés, il a essayé de l'utiliser comme bouc émissaire pour ses appréhensions.
 
 Heureusement, elle a eu le bon sens de lui faire taire après avoir
 a expliqué qu'elle n'avait jamais fait de recherches pour lui :

@@ -5,7 +5,7 @@ author: "socraticDev"
 image: ../../images/handoff.png
 tags:
   - productivité
-is_archived: true
+is_archived: false
 ---
 
 La création, la livraison et la maintenance de systèmes logiciels sont un processus visant à
@@ -19,7 +19,7 @@ une fonctionnalité qui ne résout pas le problème du client ; les retards son
 entre les délais (dates d'échéance) et l'état réel du système logiciel ;
 les goulots d’étranglement sont des zones dans lesquelles le flux de travail ralentit ou s’arrête.
 
-Le _flux de travail_ est un idéal auquel toutes les organisations et toutes les équipes du
+Le _flux de travail_ prévisible est un idéal auquel toutes les organisations et toutes les équipes du
 ces organisations devraient viser
 
 > "Le flux se produit lorsqu'il y a un mouvement fluide, linéaire et rapide du produit du travail d'une étape à l'autre dans une chaîne de valeur pertinente."
@@ -47,7 +47,7 @@ aux développeurs. Une fois la fonctionnalité implémentée, les développeurs 
 #### pourquoi éviter les dépendances et les transferts?
 
 Afin d'améliorer le flux de livraison de valeur, les dépendances et les transferts doivent être
-soigneusement analysés et traités car ils ralentissent la création de valeur.
+soigneusement analysés car ils ralentissent la création de valeur.
 
 - chaque transfert ralentit le flux
 - pour chaque élément de travail, il existe des connaissances non explicites et non documentées nécessaires à sa compréhension.

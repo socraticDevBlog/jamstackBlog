@@ -6,7 +6,7 @@ image: ../../images/platform-engineering-dalle.png
 tags:
   - idées
   - devops
-is_archived: true
+is_archived: false
 ---
 
 Un nouveau concept a fait son apparition dans le domaine du développement de
@@ -46,8 +46,7 @@ façon de le faire!
 Dave Farley, développeur de logiciels indépendant et consultant, fondateur et
 Directeur de Continu Delivery Ltd., a récemment exprimé sa réticence à l'égard
 du concept d'ingénierie de plate-forme. Selon lui, construire des plates-formes utiles pour
-les systèmes distribués non triviaux n'est pas possible. D’abord et avant tout, ce n’est pas le cas
-possible de construire des systèmes hautement génériques du premier coup.
+les systèmes distribués non triviaux n'est pas possible. D’abord et avant tout, ce n’est pas possible de construire des systèmes hautement génériques du premier coup.
 
 ### démonstration
 
@@ -58,7 +57,7 @@ générique représentant un "compte"(Account). Ce module est destiné à être
 consommé par différentes équipes dont les systèmes utilisent un concept de
 _Account_.
 
-Selon Dave Farley, il ne faudra pas attendre trop longtemps avant qu'une équipe ait
+Selon Dave Farley, il ne faudra pas attendre longtemps avant qu'une équipe ait
 besoin d'ajouter une fonctionnalité particulière au module _Account_.
 Peut-être que l'équipe financière devra se conformer avec des réglementations «
 connaissez votre client » (_KYC_) pour éviter le blanchiment d’argent.
@@ -68,7 +67,7 @@ _KYC_ à leur module générique de *Compte* ; brisant ainsi potentiellement le
 module _Account_ pour d'autres équipes.
 
 Ou plutôt, l'équipe financière cesserait d'utiliser le module générique pour créer son propre module
-plutôt; perdant ainsi des fonctionnalités utiles telles que l'authentification unique (_SSO_).
+plutôt; perdant ainsi des fonctionnalités utiles telles que l'authentification unique (_SSO_) ou le contrôle de l'accès (access control).
 
 ### rien ne peut remplacer la maîtrise des fondamentaux
 

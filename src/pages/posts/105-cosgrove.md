@@ -6,7 +6,7 @@ image: ../../images/cosgrove.png
 tags:
   - croissance
   - idées
-is_archived: true
+is_archived: false
 ---
 
 > Vraiment.
@@ -96,7 +96,7 @@ s'attache à ces personnages qui fument et boivent trop ; ces personnages qui
 disent parfois des trucs débiles ou posent des actions irrespectueuses.
 
 Le génie de _Mad Men_ est de montrer que la toxicité dans les relations
-humaines est subtile. C'est souvent par ignorance et faiblesse que les uns
+humaines est subtile. C'est souvent par ignorance et pas faiblesse que les uns
 causent du tort aux autres. Et c'est par une ignorance et une faiblesse
 similaire que les autres le tolèrent.
 

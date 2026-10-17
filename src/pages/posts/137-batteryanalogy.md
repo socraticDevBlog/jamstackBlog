@@ -8,7 +8,7 @@ tags:
   - productivité
   - communication
   - idées
-is_archived: true
+is_archived: false
 ---
 
 J'écoutais un podcast lors de ma marche quotidienne et j'ai allumé sur une idée
@@ -26,7 +26,7 @@ deux collègues. Chacun démarre avec une batterie chargée à 50%. En fonction 
 résultats d'interactions successives pendant une certaine période de temps, la batterie se charge ou se vide.
 
 Immédiatement, pour moi, cette analogie éclaire deux aspects importants de la
-qualité des relations interpersonnelles au travail. 
+qualité des relations interpersonnelles au travail.
 
 Tout d'abord, cette
 analogie met l'accent sur la relation plutôt que sur les personnes. Ce qui rend

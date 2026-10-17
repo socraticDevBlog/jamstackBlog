@@ -5,7 +5,7 @@ author: "socraticDev"
 image: ../../images/theranos.png
 tags:
   - croissance
-is_archived: true
+is_archived: false
 ---
 
 Mardi, la semaine dernière, Elizabeth Holmes s'est présentée à la prison
@@ -92,7 +92,7 @@ de l'information sur Theranos à un journaliste.
 
 ## conclusion - vérifiez, vérifiez et vérifiez
 
-La saga d'Elizabeth Holmes et Theranos est grandiose et peu courantre. Certes
+La saga d'Elizabeth Holmes et Theranos est grandiose et peu courante. Certes
 mais des imposteurs moins imposants sont présents autour de nous tous.
 
 Personne n'est dupe. À la longue on remarque que ces gens exagèrent certains

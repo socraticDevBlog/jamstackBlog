@@ -6,7 +6,7 @@ image: ../../images/openai.png
 tags:
   - business
   - philosophie
-is_archived: true
+is_archived: false
 ---
 
 En fin de journée, vendredi dernier, le conseil d'administration d'OpenAI a surpris la sphère
@@ -29,16 +29,16 @@ eux.
 
 ### suite d'événements rocambolesque
 
-**Vendredi 17 novembre**, le congédiement de Sam Altman a surpris toute la communauté car
+**Vendredi 17 novembre 2023**, le congédiement de Sam Altman a surpris toute la communauté car
 Altman est un personnage apprécié par tous et n'ayant manifestement commis
 aucune grave.
 
-**Samedi 18 novembre**, le conseil se récuse et demande le retour d'Altman.
+**Samedi 18 novembre 2023**, le conseil se récuse et demande le retour d'Altman.
 
 **Dimanche 19 novembre**, Satya Nadella (PDG de Microsoft) annonce sur X(twitter)
 l'arrivée de Sam Altman chez le géant de Redmond.
 
-**Lundi 20 novembre**, une majorité des employés d'OpenAI (scientifiques
+**Lundi 20 novembre 2023**, une majorité des employés d'OpenAI (scientifiques
 spécialisés en intelligence artificielle), dans une lettre publique, demande la
 dissolution du conseil d'administration et menace de quitter pour rejoindre Sam
 Altman chez Microsoft.
@@ -60,7 +60,7 @@ flagrante des idéalistes en termes de politique, de stratégie et de diplomatie
 
 J'emploi le qualificatif d'idéaliste pour décrire les membres du conseil
 d'administration d'OpenAI. Pour souligner leur déconnexion avec la réalité et,
-surtout, l'arrogance de miser sur un `coup` pour faire progresseur leur agenda.
+surtout, la mauvaise décision de miser sur un `coup` pour faire progresseur leur agenda.
 
 Le conseil a été pris en flagrant délit d'auto-sabotage. Ils ont perdu la
 confiance d'une grande part de leurs employés et sont devenus les dindons de la
