@@ -61,7 +61,6 @@ suffisant :
 >
 > Listez cinq points clés et envoyez une copie à tous vos employés."
 
-is_archived: true
 ---
 
 ### sources
